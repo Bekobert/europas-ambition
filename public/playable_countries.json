@@ -1,0 +1,3854 @@
+[
+    {
+        "country": "Sweden",
+        "achievements": [
+            "Crossing the Finnish Line",
+            "Assembly Instructions Needed",
+            "Sweden is not overpowered!",
+            "Super Trooper",
+            "Lion of the North"
+        ]
+    },
+    {
+        "country": "Denmark",
+        "achievements": [
+            "The Iron Price",
+            "Østindisk Kompagni Te",
+            "Brick by Brick",
+            "Assembly Instructions Needed"
+        ]
+    },
+    {
+        "country": "Gotland",
+        "achievements": [
+            "Assembly Instructions Needed"
+        ]
+    },
+    {
+        "country": "Norway",
+        "achievements": [
+            "Let It Go!",
+            "Norwegian Wood",
+            "Assembly Instructions Needed"
+        ]
+    },
+    {
+        "country": "Holstein",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Albania",
+        "achievements": [
+            "Albania or Iberia",
+            "Mare Nostrum"
+        ]
+    },
+    {
+        "country": "Athens",
+        "achievements": [
+            "Academical",
+            "Italian Ambition",
+            "Carthago Delenda Est",
+            "Mare Nostrum",
+            "It's All Greek To Me"
+        ]
+    },
+    {
+        "country": "Bosnia",
+        "achievements": [
+            "Mare Nostrum"
+        ]
+    },
+    {
+        "country": "Byzantium",
+        "achievements": [
+            "Mare Nostrum",
+            "Restore the Pentarchy",
+            "Basileus",
+            "The Last Crusade",
+            "Redecorating"
+        ]
+    },
+    {
+        "country": "Croatia",
+        "achievements": [
+            "Mare Nostrum",
+            "Krabater"
+        ]
+    },
+    {
+        "country": "Cyprus",
+        "achievements": [
+            "King of Jerusalem"
+        ]
+    },
+    {
+        "country": "Epirus",
+        "achievements": [
+            "Italian Ambition",
+            "Carthago Delenda Est",
+            "Mare Nostrum"
+        ]
+    },
+    {
+        "country": "The Knights",
+        "achievements": [
+            "King of Jerusalem",
+            "Mare Nostrum",
+            "On the Rhodes Again",
+            "Knights of the Caribbean"
+        ]
+    },
+    {
+        "country": "Moldavia",
+        "achievements": [
+            "Dracula's Revenge",
+            "Mare Nostrum",
+            "Redecorating"
+        ]
+    },
+    {
+        "country": "Naxos",
+        "achievements": [
+            "Italian Ambition",
+            "Carthago Delenda Est",
+            "Mare Nostrum"
+        ]
+    },
+    {
+        "country": "Ragusa",
+        "achievements": [
+            "With a little help..",
+            "Mare Nostrum"
+        ]
+    },
+    {
+        "country": "Serbia",
+        "achievements": [
+            "Lazarus",
+            "Mare Nostrum",
+            "Redecorating"
+        ]
+    },
+    {
+        "country": "Wallachia",
+        "achievements": [
+            "Dracula's Revenge",
+            "Mare Nostrum",
+            "Redecorating"
+        ]
+    },
+    {
+        "country": "Hungary",
+        "achievements": [
+            "The Hungarian Games",
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "Electable!",
+            "Take that, von Habsburgs!",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Ottomans",
+        "achievements": [
+            "Definitely the Sultan of Rum",
+            "Parisian Pasha",
+            "Dar al-Islam",
+            "Mehmet's Ambition"
+        ]
+    },
+    {
+        "country": "Clanricarde",
+        "achievements": []
+    },
+    {
+        "country": "England",
+        "achievements": [
+            "Mare Nostrum",
+            "Brentry",
+            "An Industrial Evolution",
+            "One Night in Paris",
+            "Anglophile"
+        ]
+    },
+    {
+        "country": "Leinster",
+        "achievements": []
+    },
+    {
+        "country": "Thomond",
+        "achievements": [
+            "Luck of the Irish",
+            "Mare Nostrum"
+        ]
+    },
+    {
+        "country": "Scotland",
+        "achievements": [
+            "Auld Alliance Reversed",
+            "Mare Nostrum"
+        ]
+    },
+    {
+        "country": "Tyrone",
+        "achievements": []
+    },
+    {
+        "country": "Ulster",
+        "achievements": []
+    },
+    {
+        "country": "Desmond",
+        "achievements": [
+            "Luck of the Irish",
+            "Mare Nostrum"
+        ]
+    },
+    {
+        "country": "Sligo",
+        "achievements": [
+            "Luck of the Irish",
+            "Mare Nostrum"
+        ]
+    },
+    {
+        "country": "Kildare",
+        "achievements": []
+    },
+    {
+        "country": "Ormond",
+        "achievements": [
+            "Luck of the Irish",
+            "Mare Nostrum"
+        ]
+    },
+    {
+        "country": "Tyrconnell",
+        "achievements": []
+    },
+    {
+        "country": "Offaly",
+        "achievements": [
+            "Luck of the Irish",
+            "Spanish Fly",
+            "Mare Nostrum"
+        ]
+    },
+    {
+        "country": "Munster",
+        "achievements": [
+            "Luck of the Irish",
+            "Mare Nostrum"
+        ]
+    },
+    {
+        "country": "The Isles",
+        "achievements": []
+    },
+    {
+        "country": "Lithuania",
+        "achievements": [
+            "The Uncommonwealth",
+            "Mare Nostrum"
+        ]
+    },
+    {
+        "country": "Livonian Order",
+        "achievements": [
+            "Baltic Crusader",
+            "Almost Prussian Blue",
+            "Mare Nostrum",
+            "For the Emperor!",
+            "An early Reich"
+        ]
+    },
+    {
+        "country": "Mazovia",
+        "achievements": [
+            "Back to the Piast",
+            "Mare Nostrum"
+        ]
+    },
+    {
+        "country": "Poland",
+        "achievements": [
+            "Poland can into space",
+            "Mare Nostrum",
+            "Winged Hussars",
+            "One King to Rule!"
+        ]
+    },
+    {
+        "country": "Riga",
+        "achievements": [
+            "Terra Mariana",
+            "Purify the Temple",
+            "Mare Nostrum",
+            "An early Reich"
+        ]
+    },
+    {
+        "country": "Teutonic Order",
+        "achievements": [
+            "Baltic Crusader",
+            "A Fine Goosestep",
+            "KHAAAAAAN",
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name",
+            "Holy Horder"
+        ]
+    },
+    {
+        "country": "Odoyev",
+        "achievements": [
+            "All belongs to Mother Russia",
+            "Mare Nostrum",
+            "Kinslayer",
+            "Relentless Push East",
+            "Mass Production",
+            "Redecorating"
+        ]
+    },
+    {
+        "country": "Strasbourg",
+        "achievements": []
+    },
+    {
+        "country": "Armagnac",
+        "achievements": []
+    },
+    {
+        "country": "Auvergne",
+        "achievements": []
+    },
+    {
+        "country": "Bourbonnais",
+        "achievements": []
+    },
+    {
+        "country": "Brittany",
+        "achievements": [
+            "Mare Nostrum"
+        ]
+    },
+    {
+        "country": "Burgundy",
+        "achievements": [
+            "Mary of Lotharingia",
+            "Mare Nostrum",
+            "The Burgundian Conquest"
+        ]
+    },
+    {
+        "country": "Foix",
+        "achievements": []
+    },
+    {
+        "country": "France",
+        "achievements": [
+            "Azur semé de lis or",
+            "Big Blue Blob",
+            "Mare Nostrum",
+            "Napoleon’s Ambition",
+            "Better than Napoleon"
+        ]
+    },
+    {
+        "country": "Nevers",
+        "achievements": [
+            "Never say Nevers",
+            "Mare Nostrum"
+        ]
+    },
+    {
+        "country": "Orleans",
+        "achievements": [
+            "Mare Nostrum"
+        ]
+    },
+    {
+        "country": "Provence",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "Electable!",
+            "Good King René",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Aachen",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Anhalt",
+        "achievements": [
+            "A Fine Goosestep",
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Ansbach",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Augsburg",
+        "achievements": [
+            "Fugger Banking",
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Baden",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Bohemia",
+        "achievements": [
+            "Veritas Vincit",
+            "The Bohemians",
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "Czechs and Balances",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Brandenburg",
+        "achievements": [
+            "A Fine Goosestep",
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Bremen",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Brunswick",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "East Frisia",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Frankfurt",
+        "achievements": []
+    },
+    {
+        "country": "Austria",
+        "achievements": [
+            "AEIOU",
+            "The pen is mightier than the sword",
+            "Mare Nostrum",
+            "The Zoro-Austrians",
+            "For the Emperor!",
+            "An early Reich",
+            "A Kaiser not just in name",
+            "The Ostenders"
+        ]
+    },
+    {
+        "country": "Hamburg",
+        "achievements": [
+            "Bunte Kuh",
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Hesse",
+        "achievements": [
+            "Hessian Mercenaries",
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Cleves",
+        "achievements": []
+    },
+    {
+        "country": "Cologne",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Saxe-Lauenburg",
+        "achievements": []
+    },
+    {
+        "country": "Lorraine",
+        "achievements": [
+            "Electable!",
+            "A Kaiser not just in name",
+            "Mare Nostrum",
+            "The Emperors new clothes"
+        ]
+    },
+    {
+        "country": "Lüneburg",
+        "achievements": []
+    },
+    {
+        "country": "Magdeburg",
+        "achievements": []
+    },
+    {
+        "country": "Mainz",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Mecklenburg",
+        "achievements": []
+    },
+    {
+        "country": "Münster",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Oldenburg",
+        "achievements": []
+    },
+    {
+        "country": "The Palatinate",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Saxony",
+        "achievements": [
+            "A Fine Goosestep",
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Meissner Porcelain",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Salzburg",
+        "achievements": []
+    },
+    {
+        "country": "Switzerland",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "Switzerlake",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Thuringia",
+        "achievements": [
+            "A Fine Goosestep",
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Trier",
+        "achievements": []
+    },
+    {
+        "country": "Ulm",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Wurzburg",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Wurttemberg",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Nuremberg",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Memmingen",
+        "achievements": []
+    },
+    {
+        "country": "Verden",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Nassau",
+        "achievements": []
+    },
+    {
+        "country": "Dortmund",
+        "achievements": []
+    },
+    {
+        "country": "Dithmarschen",
+        "achievements": [
+            "Lessons of Hemmingstedt",
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Aragon",
+        "achievements": [
+            "The Reapers",
+            "Mare Nostrum",
+            "Consulate of the Sea"
+        ]
+    },
+    {
+        "country": "Castile",
+        "achievements": [
+            "Isn't this the way to India?",
+            "Forever Golden",
+            "Mare Nostrum"
+        ]
+    },
+    {
+        "country": "Granada",
+        "achievements": [
+            "The Re-Reconquista",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Navarra",
+        "achievements": [
+            "Basque in Glory",
+            "Mare Nostrum"
+        ]
+    },
+    {
+        "country": "Portugal",
+        "achievements": [
+            "All Blue",
+            "Not so sad a state...",
+            "The Navigator",
+            "Mare Nostrum"
+        ]
+    },
+    {
+        "country": "Ferrara",
+        "achievements": [
+            "Italian Ambition",
+            "Carthago Delenda Est",
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "Electable!",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Genoa",
+        "achievements": [
+            "Italian Ambition",
+            "Carthago Delenda Est",
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "Electable!",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Mantua",
+        "achievements": [
+            "Italian Ambition",
+            "Carthago Delenda Est",
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "Electable!",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Milan",
+        "achievements": [
+            "Italian Ambition",
+            "Carthago Delenda Est",
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "Electable!",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Naples",
+        "achievements": [
+            "Italian Ambition",
+            "Carthago Delenda Est",
+            "Not just Pizza",
+            "Mare Nostrum"
+        ]
+    },
+    {
+        "country": "The Papal State",
+        "achievements": [
+            "Electable!",
+            "Holiest Roman Empire",
+            "Holy Trinity",
+            "Kingdom of God"
+        ]
+    },
+    {
+        "country": "Savoy",
+        "achievements": [
+            "Italian Ambition",
+            "Carthago Delenda Est",
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "Electable!",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Siena",
+        "achievements": [
+            "Italian Ambition",
+            "Carthago Delenda Est",
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "Electable!",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Urbino",
+        "achievements": [
+            "Italian Ambition",
+            "Carthago Delenda Est",
+            "Mare Nostrum"
+        ]
+    },
+    {
+        "country": "Venice",
+        "achievements": [
+            "Italian Ambition",
+            "Carthago Delenda Est",
+            "Doge Coins",
+            "Mare Nostrum",
+            "Venetian Sea"
+        ]
+    },
+    {
+        "country": "Montferrat",
+        "achievements": [
+            "Italian Ambition",
+            "Carthago Delenda Est",
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "Electable!",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Lucca",
+        "achievements": [
+            "Italian Ambition",
+            "Carthago Delenda Est",
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "Electable!",
+            "Lucky Lucca",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Florence",
+        "achievements": [
+            "Italian Ambition",
+            "Carthago Delenda Est",
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "The Prince of Egypt",
+            "Electable!",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Brabant",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Flanders",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Friesland",
+        "achievements": []
+    },
+    {
+        "country": "Gelre",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "Electable!",
+            "Je maintiendrai",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Holland",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "Electable!",
+            "Je maintiendrai",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Liege",
+        "achievements": []
+    },
+    {
+        "country": "Utrecht",
+        "achievements": []
+    },
+    {
+        "country": "Crimea",
+        "achievements": [
+            "Pyramid of Skulls",
+            "There Khan only be one!",
+            "Dar al-Islam",
+            "I'll graze my horse here.. And here...",
+            "Turning the Tide",
+            "Gold Rush"
+        ]
+    },
+    {
+        "country": "Georgia",
+        "achievements": [
+            "Mare Nostrum",
+            "Legacy of Saint George",
+            "David the Builder",
+            "Georgia on my Mind",
+            "Redecorating"
+        ]
+    },
+    {
+        "country": "Kazan",
+        "achievements": [
+            "Tatarstan",
+            "There Khan only be one!",
+            "Dar al-Islam",
+            "Turning the Tide",
+            "Gold Rush"
+        ]
+    },
+    {
+        "country": "Muscovy",
+        "achievements": [
+            "Relentless Push East",
+            "Mare Nostrum",
+            "All belongs to Mother Russia",
+            "Redecorating"
+        ]
+    },
+    {
+        "country": "Novgorod",
+        "achievements": [
+            "All belongs to Mother Russia",
+            "Mare Nostrum",
+            "Relentless Push East",
+            "Frozen Assets",
+            "Redecorating"
+        ]
+    },
+    {
+        "country": "Pskov",
+        "achievements": [
+            "All belongs to Mother Russia",
+            "Mare Nostrum",
+            "Relentless Push East",
+            "Dovmont's Own",
+            "Redecorating"
+        ]
+    },
+    {
+        "country": "Ryazan",
+        "achievements": [
+            "Triple the Rome",
+            "All belongs to Mother Russia",
+            "Breaking the Yoke",
+            "Mare Nostrum",
+            "Kinslayer",
+            "Relentless Push East",
+            "In the Name of the Father",
+            "Redecorating"
+        ]
+    },
+    {
+        "country": "Tver",
+        "achievements": [
+            "All belongs to Mother Russia",
+            "Mare Nostrum",
+            "Relentless Push East",
+            "Kinslayer",
+            "Redecorating"
+        ]
+    },
+    {
+        "country": "Yaroslavl",
+        "achievements": [
+            "All belongs to Mother Russia",
+            "Mare Nostrum",
+            "Relentless Push East",
+            "Kinslayer",
+            "Redecorating"
+        ]
+    },
+    {
+        "country": "Nogai",
+        "achievements": []
+    },
+    {
+        "country": "Perm",
+        "achievements": []
+    },
+    {
+        "country": "Theodoro",
+        "achievements": [
+            "Gothic Invasion",
+            "Mare Nostrum",
+            "Redecorating"
+        ]
+    },
+    {
+        "country": "Beloozero",
+        "achievements": [
+            "All belongs to Mother Russia",
+            "Mare Nostrum",
+            "Relentless Push East",
+            "Kinslayer",
+            "Redecorating"
+        ]
+    },
+    {
+        "country": "Rostov",
+        "achievements": [
+            "All belongs to Mother Russia",
+            "Mare Nostrum",
+            "Relentless Push East",
+            "Kinslayer",
+            "Redecorating"
+        ]
+    },
+    {
+        "country": "Great Horde",
+        "achievements": [
+            "Pyramid of Skulls",
+            "There Khan only be one!",
+            "KHAAAAAAN",
+            "Dar al-Islam",
+            "I'll graze my horse here.. And here...",
+            "The Great Khan",
+            "Turning the Tide",
+            "Gold Rush"
+        ]
+    },
+    {
+        "country": "Aden",
+        "achievements": []
+    },
+    {
+        "country": "Haasa",
+        "achievements": []
+    },
+    {
+        "country": "Anizah",
+        "achievements": []
+    },
+    {
+        "country": "Ardalan",
+        "achievements": []
+    },
+    {
+        "country": "Dawasir",
+        "achievements": []
+    },
+    {
+        "country": "Fadl",
+        "achievements": []
+    },
+    {
+        "country": "Hadramut",
+        "achievements": []
+    },
+    {
+        "country": "Hejaz",
+        "achievements": [
+            "Arabian Coffee",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Makuria",
+        "achievements": []
+    },
+    {
+        "country": "Medina",
+        "achievements": []
+    },
+    {
+        "country": "Mikhlaf",
+        "achievements": []
+    },
+    {
+        "country": "Mahra",
+        "achievements": []
+    },
+    {
+        "country": "Najd",
+        "achievements": [
+            "Dar al-Islam",
+            "Arabian Coffee",
+            "Jihad",
+            "Desert Power",
+            "Sworn Fealty"
+        ]
+    },
+    {
+        "country": "Najran",
+        "achievements": []
+    },
+    {
+        "country": "Oman",
+        "achievements": [
+            "The Third Way",
+            "Arabian Coffee",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Rassids",
+        "achievements": [
+            "Arabian Coffee",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Shammar",
+        "achievements": []
+    },
+    {
+        "country": "Shirvan",
+        "achievements": []
+    },
+    {
+        "country": "Yas",
+        "achievements": []
+    },
+    {
+        "country": "Yemen",
+        "achievements": [
+            "Protect the Secret",
+            "Arabian Coffee",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Hisn Kayfa",
+        "achievements": [
+            "This is Persia!",
+            "Saladin's Legacy",
+            "The Eagle flies alone",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Bitlis",
+        "achievements": []
+    },
+    {
+        "country": "Aq Qoyunlu",
+        "achievements": [
+            "Truly Good Maaaaa-tch",
+            "This is Persia!",
+            "Rise of the White Sheep",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Candar",
+        "achievements": [
+            "Dar al-Islam",
+            "Turkish Delight"
+        ]
+    },
+    {
+        "country": "Dulkadir",
+        "achievements": []
+    },
+    {
+        "country": "Karaman",
+        "achievements": [
+            "Dar al-Islam",
+            "A Hero’s Welcome"
+        ]
+    },
+    {
+        "country": "Syria",
+        "achievements": []
+    },
+    {
+        "country": "Trebizond",
+        "achievements": [
+            "Komnenoi Empire",
+            "Mare Nostrum",
+            "Redecorating"
+        ]
+    },
+    {
+        "country": "Ramazan",
+        "achievements": []
+    },
+    {
+        "country": "Avaria",
+        "achievements": [
+            "Dar al-Islam",
+            "Avar Khaganate"
+        ]
+    },
+    {
+        "country": "Karabakh",
+        "achievements": [
+            "Mets Hayk",
+            "A Blessed Nation"
+        ]
+    },
+    {
+        "country": "Samtskhe",
+        "achievements": [
+            "Mare Nostrum",
+            "Redecorating"
+        ]
+    },
+    {
+        "country": "Ardabil",
+        "achievements": [
+            "This is Persia!",
+            "Dar al-Islam",
+            "Shahanshah"
+        ]
+    },
+    {
+        "country": "Mushasha",
+        "achievements": [
+            "Arabian Coffee",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Mamluks",
+        "achievements": [
+            "Breadbasket of the World",
+            "Arabian Coffee",
+            "The Levant Turnabout",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Morocco",
+        "achievements": [
+            "The Sudanese Expedition",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Tunis",
+        "achievements": [
+            "Sons of Carthage",
+            "Barbarossa",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Tafilalt",
+        "achievements": []
+    },
+    {
+        "country": "Sus",
+        "achievements": []
+    },
+    {
+        "country": "Tlemcen",
+        "achievements": [
+            "Barbarossa",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Touggourt",
+        "achievements": []
+    },
+    {
+        "country": "Djerid",
+        "achievements": []
+    },
+    {
+        "country": "Fezzan",
+        "achievements": []
+    },
+    {
+        "country": "Mzab",
+        "achievements": [
+            "The Third Way",
+            "Barbarossa",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Marrakesh",
+        "achievements": []
+    },
+    {
+        "country": "Uzbek",
+        "achievements": [
+            "Back in Control",
+            "KHAAAAAAN",
+            "There Khan only be one!",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Afghanistan",
+        "achievements": [
+            "This is Persia!",
+            "True Heir of Timur",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Khorasan",
+        "achievements": [
+            "This is Persia!",
+            "True Heir of Timur",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Qara Qoyunlu",
+        "achievements": [
+            "Truly Good Maaaaa-tch",
+            "This is Persia!",
+            "Baa Baa Black Sheep",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Timurids",
+        "achievements": [
+            "Timurizz",
+            "Back in Control",
+            "KHAAAAAAN",
+            "Dar al-Islam",
+            "This is Persia!"
+        ]
+    },
+    {
+        "country": "Transoxiana",
+        "achievements": [
+            "Back in Control",
+            "KHAAAAAAN",
+            "Dar al-Islam",
+            "True Heir of Timur"
+        ]
+    },
+    {
+        "country": "Gilan",
+        "achievements": [
+            "This is Persia!",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Circassia",
+        "achievements": [
+            "Mare Nostrum",
+            "Redecorating"
+        ]
+    },
+    {
+        "country": "Gazikumukh",
+        "achievements": []
+    },
+    {
+        "country": "Mazandaran",
+        "achievements": [
+            "This is Persia!",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Hormuz",
+        "achievements": [
+            "Arabian Coffee",
+            "Strait Talk",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Luristan",
+        "achievements": []
+    },
+    {
+        "country": "Sistan",
+        "achievements": [
+            "This is Persia!",
+            "True Heir of Timur",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Biapas",
+        "achievements": [
+            "This is Persia!",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Fars",
+        "achievements": [
+            "This is Persia!",
+            "True Heir of Timur",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Ajam",
+        "achievements": [
+            "This is Persia!",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Aztec",
+        "achievements": [
+            "On the Edge of Madness",
+            "Sunset Invasion"
+        ]
+    },
+    {
+        "country": "Cherokee",
+        "achievements": [
+            "No Trail of Tears"
+        ]
+    },
+    {
+        "country": "Chimu",
+        "achievements": []
+    },
+    {
+        "country": "Zapotec",
+        "achievements": []
+    },
+    {
+        "country": "Benin",
+        "achievements": []
+    },
+    {
+        "country": "Ethiopia",
+        "achievements": [
+            "Prester John",
+            "A Blessed Nation"
+        ]
+    },
+    {
+        "country": "Kongo",
+        "achievements": [
+            "African Power"
+        ]
+    },
+    {
+        "country": "Mali",
+        "achievements": [
+            "Mansa Musa",
+            "Abu Bakr II’s Ambition",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Songhai",
+        "achievements": [
+            "Nobody wants to die",
+            "Ultimate Military",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Kilwa",
+        "achievements": [
+            "Queen of Mercury",
+            "Swahili Persuasion",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Mutapa",
+        "achievements": [
+            "Shemot is Not",
+            "Hanukkah Mutapa"
+        ]
+    },
+    {
+        "country": "Adal",
+        "achievements": [
+            "Dar al-Islam",
+            "Golden Horn"
+        ]
+    },
+    {
+        "country": "Kanem Bornu",
+        "achievements": [
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Loango",
+        "achievements": []
+    },
+    {
+        "country": "Oyo",
+        "achievements": [
+            "Hoarder"
+        ]
+    },
+    {
+        "country": "Jolof",
+        "achievements": [
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Sofala",
+        "achievements": []
+    },
+    {
+        "country": "Mombasa",
+        "achievements": []
+    },
+    {
+        "country": "Malindi",
+        "achievements": []
+    },
+    {
+        "country": "Ajuuraan",
+        "achievements": [
+            "Dar al-Islam",
+            "Golden Horn"
+        ]
+    },
+    {
+        "country": "Mogadishu",
+        "achievements": [
+            "Dar al-Islam",
+            "Golden Horn"
+        ]
+    },
+    {
+        "country": "Ennarea",
+        "achievements": []
+    },
+    {
+        "country": "Wagadugu",
+        "achievements": []
+    },
+    {
+        "country": "Fada N'gourma",
+        "achievements": []
+    },
+    {
+        "country": "Ogaadeen",
+        "achievements": []
+    },
+    {
+        "country": "Wadai",
+        "achievements": []
+    },
+    {
+        "country": "Alodia",
+        "achievements": []
+    },
+    {
+        "country": "Kaffa",
+        "achievements": [
+            "Pick Your Poison"
+        ]
+    },
+    {
+        "country": "Medri Bahri",
+        "achievements": [
+            "A Blessed Nation"
+        ]
+    },
+    {
+        "country": "Marehan",
+        "achievements": []
+    },
+    {
+        "country": "Pate",
+        "achievements": []
+    },
+    {
+        "country": "Warsangali",
+        "achievements": []
+    },
+    {
+        "country": "Beja",
+        "achievements": []
+    },
+    {
+        "country": "Welayta",
+        "achievements": []
+    },
+    {
+        "country": "Damot",
+        "achievements": []
+    },
+    {
+        "country": "Hadiya",
+        "achievements": []
+    },
+    {
+        "country": "Janjiro",
+        "achievements": []
+    },
+    {
+        "country": "Dongola",
+        "achievements": []
+    },
+    {
+        "country": "Tyo",
+        "achievements": []
+    },
+    {
+        "country": "Kasanje",
+        "achievements": []
+    },
+    {
+        "country": "Luba",
+        "achievements": []
+    },
+    {
+        "country": "Lunda",
+        "achievements": []
+    },
+    {
+        "country": "Chokwe",
+        "achievements": []
+    },
+    {
+        "country": "Kikondja",
+        "achievements": []
+    },
+    {
+        "country": "Kazembe",
+        "achievements": []
+    },
+    {
+        "country": "Yaka",
+        "achievements": []
+    },
+    {
+        "country": "Kalundwe",
+        "achievements": []
+    },
+    {
+        "country": "Kuba",
+        "achievements": [
+            "Kuban Cigars"
+        ]
+    },
+    {
+        "country": "Rwanda",
+        "achievements": []
+    },
+    {
+        "country": "Burundi",
+        "achievements": []
+    },
+    {
+        "country": "Buganda",
+        "achievements": [
+            "Victorian Three"
+        ]
+    },
+    {
+        "country": "Nkore",
+        "achievements": []
+    },
+    {
+        "country": "Karagwe",
+        "achievements": []
+    },
+    {
+        "country": "Bunyoro",
+        "achievements": []
+    },
+    {
+        "country": "Busoga",
+        "achievements": []
+    },
+    {
+        "country": "Buha",
+        "achievements": []
+    },
+    {
+        "country": "Maravi",
+        "achievements": []
+    },
+    {
+        "country": "Lundu",
+        "achievements": []
+    },
+    {
+        "country": "Tumbuka",
+        "achievements": []
+    },
+    {
+        "country": "Makua",
+        "achievements": []
+    },
+    {
+        "country": "Butua",
+        "achievements": []
+    },
+    {
+        "country": "Imerina",
+        "achievements": [
+            "Where are the penguins?"
+        ]
+    },
+    {
+        "country": "Sakalava",
+        "achievements": []
+    },
+    {
+        "country": "Betsimisaraka",
+        "achievements": [
+            "Where are the penguins?"
+        ]
+    },
+    {
+        "country": "Mahafaly",
+        "achievements": []
+    },
+    {
+        "country": "Antemoro",
+        "achievements": [
+            "Where are the penguins?",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Arakan",
+        "achievements": []
+    },
+    {
+        "country": "Aceh",
+        "achievements": [
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Ayutthaya",
+        "achievements": [
+            "The White Elephant"
+        ]
+    },
+    {
+        "country": "Bali",
+        "achievements": []
+    },
+    {
+        "country": "Brunei",
+        "achievements": [
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Champa",
+        "achievements": []
+    },
+    {
+        "country": "Moghulistan",
+        "achievements": [
+            "Pyramid of Skulls",
+            "There Khan only be one!",
+            "Back in Control",
+            "Dar al-Islam",
+            "I'll graze my horse here.. And here...",
+            "Turning the Tide"
+        ]
+    },
+    {
+        "country": "Dai Viet",
+        "achievements": [
+            "Disciples of Enlightenment"
+        ]
+    },
+    {
+        "country": "Amago",
+        "achievements": [
+            "Sakoku Law",
+            "Made in Japan",
+            "The Chrysanthemum Throne",
+            "Kirishitan Japan"
+        ]
+    },
+    {
+        "country": "Date",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Hosokawa",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Hatakeyama",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Imagawa",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Oda",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Otomo",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Ouchi",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Shiba",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Shimazu",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Takeda",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Tokugawa",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Uesugi",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Yamana",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Nanbu",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Ashikaga",
+        "achievements": [
+            "Sakoku Law",
+            "Made in Japan",
+            "Cherrypicking"
+        ]
+    },
+    {
+        "country": "Kitabatake",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Ainu",
+        "achievements": []
+    },
+    {
+        "country": "Ando",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Chiba",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Isshiki",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Ito",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Kikuchi",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Kono",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Ogasawara",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Shoni",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Satake",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Toki",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Utsunomiya",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Tsutsui",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Mongolia",
+        "achievements": [
+            "Pyramid of Skulls",
+            "Back in Control",
+            "KHAAAAAAN",
+            "I'll graze my horse here.. And here...",
+            "Blood for the Sky God!",
+            "The Great Khan"
+        ]
+    },
+    {
+        "country": "Khmer",
+        "achievements": []
+    },
+    {
+        "country": "Korea",
+        "achievements": [
+            "Choson One",
+            "Turtles all the way down",
+            "Sweet Harmony"
+        ]
+    },
+    {
+        "country": "Lan Na",
+        "achievements": []
+    },
+    {
+        "country": "Lan Xang",
+        "achievements": []
+    },
+    {
+        "country": "Majapahit",
+        "achievements": [
+            "The Spice Must Flow"
+        ]
+    },
+    {
+        "country": "Makassar",
+        "achievements": []
+    },
+    {
+        "country": "Malacca",
+        "achievements": [
+            "The Spice Must Flow",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Ming",
+        "achievements": [
+            "Copium Wars",
+            "Kow-Tow"
+        ]
+    },
+    {
+        "country": "Oirat",
+        "achievements": [
+            "Pyramid of Skulls",
+            "There Khan only be one!",
+            "Back in Control",
+            "KHAAAAAAN",
+            "I'll graze my horse here.. And here...",
+            "Turning the Tide"
+        ]
+    },
+    {
+        "country": "Pattani",
+        "achievements": [
+            "The Spice Must Flow",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Pegu",
+        "achievements": [
+            "Sailor Mon",
+            "That's No Mon"
+        ]
+    },
+    {
+        "country": "Ryukyu",
+        "achievements": [
+            "The Three Mountains"
+        ]
+    },
+    {
+        "country": "Sukhothai",
+        "achievements": []
+    },
+    {
+        "country": "Sulu",
+        "achievements": [
+            "The Spice Must Flow",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Taungu",
+        "achievements": [
+            "The First Toungoo Empire"
+        ]
+    },
+    {
+        "country": "So",
+        "achievements": [
+            "Kirishitan Japan",
+            "Made in Japan",
+            "Sakoku Law",
+            "The Chrysanthemum Throne"
+        ]
+    },
+    {
+        "country": "Nivkh",
+        "achievements": []
+    },
+    {
+        "country": "Solon",
+        "achievements": []
+    },
+    {
+        "country": "Nanai",
+        "achievements": []
+    },
+    {
+        "country": "Orochoni",
+        "achievements": []
+    },
+    {
+        "country": "Xibe",
+        "achievements": []
+    },
+    {
+        "country": "Haixi",
+        "achievements": []
+    },
+    {
+        "country": "Jianzhou",
+        "achievements": [
+            "Pyramid of Skulls",
+            "There Khan only be one!",
+            "These Banners need a Saga",
+            "I'll graze my horse here.. And here...",
+            "Qing of China",
+            "Turning the Tide",
+            "A Manchurian Candidate"
+        ]
+    },
+    {
+        "country": "Korchin",
+        "achievements": [
+            "Pyramid of Skulls",
+            "There Khan only be one!",
+            "Back in Control",
+            "I'll graze my horse here.. And here...",
+            "Turning the Tide"
+        ]
+    },
+    {
+        "country": "Kara Del",
+        "achievements": []
+    },
+    {
+        "country": "Yarkand",
+        "achievements": [
+            "Back in Control",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Sarig Yogir",
+        "achievements": []
+    },
+    {
+        "country": "Tsang",
+        "achievements": []
+    },
+    {
+        "country": "Kham",
+        "achievements": []
+    },
+    {
+        "country": "Guge",
+        "achievements": []
+    },
+    {
+        "country": "U",
+        "achievements": []
+    },
+    {
+        "country": "Baluchistan",
+        "achievements": [
+            "This is Persia!",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Bengal",
+        "achievements": [
+            "The Sun Never Sets on the Indian Empire",
+            "Dar al-Islam",
+            "Bengal Tiger"
+        ]
+    },
+    {
+        "country": "Bahmanis",
+        "achievements": [
+            "The Sun Never Sets on the Indian Empire",
+            "Dar al-Islam",
+            "A tale of two Families"
+        ]
+    },
+    {
+        "country": "Delhi",
+        "achievements": [
+            "The Sun Never Sets on the Indian Empire",
+            "Emperor of Hindustan",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Mysore",
+        "achievements": [
+            "The Sun Never Sets on the Indian Empire",
+            "Tiger of Mysore"
+        ]
+    },
+    {
+        "country": "Vijayanagar",
+        "achievements": [
+            "The Sun Never Sets on the Indian Empire",
+            "A tale of two Families"
+        ]
+    },
+    {
+        "country": "Assam",
+        "achievements": [
+            "The Sun Never Sets on the Indian Empire"
+        ]
+    },
+    {
+        "country": "Gujarat",
+        "achievements": [
+            "The Sun Never Sets on the Indian Empire",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Jaunpur",
+        "achievements": [
+            "The Sun Never Sets on the Indian Empire",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Madurai",
+        "achievements": [
+            "Pandya Empire",
+            "The Sun Never Sets on the Indian Empire"
+        ]
+    },
+    {
+        "country": "Malwa",
+        "achievements": [
+            "The Sun Never Sets on the Indian Empire",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Mewar",
+        "achievements": [
+            "Maharana Pratap",
+            "The Sun Never Sets on the Indian Empire",
+            "Mewar Never Changes"
+        ]
+    },
+    {
+        "country": "Multan",
+        "achievements": []
+    },
+    {
+        "country": "Orissa",
+        "achievements": [
+            "Foremost Servitor of Jagannath",
+            "The Sun Never Sets on the Indian Empire"
+        ]
+    },
+    {
+        "country": "Sindh",
+        "achievements": [
+            "Forgive me, for I have Sindh",
+            "The Sun Never Sets on the Indian Empire",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Jangladesh",
+        "achievements": []
+    },
+    {
+        "country": "Garha",
+        "achievements": []
+    },
+    {
+        "country": "Garjat",
+        "achievements": []
+    },
+    {
+        "country": "Gwalior",
+        "achievements": []
+    },
+    {
+        "country": "Dhundhar",
+        "achievements": [
+            "The Sun Never Sets on the Indian Empire"
+        ]
+    },
+    {
+        "country": "Kashmir",
+        "achievements": []
+    },
+    {
+        "country": "Khandesh",
+        "achievements": []
+    },
+    {
+        "country": "Venad",
+        "achievements": []
+    },
+    {
+        "country": "Calicut",
+        "achievements": []
+    },
+    {
+        "country": "Mewat",
+        "achievements": []
+    },
+    {
+        "country": "Bastar",
+        "achievements": []
+    },
+    {
+        "country": "Bundelkhand",
+        "achievements": []
+    },
+    {
+        "country": "Kotte",
+        "achievements": [
+            "The Sun Never Sets on the Indian Empire",
+            "The Buddhists Strike Back"
+        ]
+    },
+    {
+        "country": "Jaisalmer",
+        "achievements": []
+    },
+    {
+        "country": "Kachar",
+        "achievements": []
+    },
+    {
+        "country": "Koch",
+        "achievements": []
+    },
+    {
+        "country": "Kangra",
+        "achievements": [
+            "The Sun Never Sets on the Indian Empire"
+        ]
+    },
+    {
+        "country": "Kutch",
+        "achievements": []
+    },
+    {
+        "country": "Kochin",
+        "achievements": []
+    },
+    {
+        "country": "Manipur",
+        "achievements": [
+            "Ganges Khan",
+            "The Animal Kingdom"
+        ]
+    },
+    {
+        "country": "Hadoti",
+        "achievements": []
+    },
+    {
+        "country": "Nagaur",
+        "achievements": [
+            "Raja of the Rajput Reich",
+            "The Sun Never Sets on the Indian Empire",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Ladakh",
+        "achievements": [
+            "Ganges Khan"
+        ]
+    },
+    {
+        "country": "Baghelkhand",
+        "achievements": []
+    },
+    {
+        "country": "Jaffna",
+        "achievements": []
+    },
+    {
+        "country": "Garhwal",
+        "achievements": [
+            "The 52 Garhs",
+            "The Sun Never Sets on the Indian Empire"
+        ]
+    },
+    {
+        "country": "Chanda",
+        "achievements": []
+    },
+    {
+        "country": "Jharkhand",
+        "achievements": []
+    },
+    {
+        "country": "Tirhut",
+        "achievements": [
+            "The Sun Never Sets on the Indian Empire"
+        ]
+    },
+    {
+        "country": "Rewa Kantha",
+        "achievements": []
+    },
+    {
+        "country": "Baglana",
+        "achievements": []
+    },
+    {
+        "country": "Tripura",
+        "achievements": []
+    },
+    {
+        "country": "Sadiya",
+        "achievements": [
+            "Ganges Khan",
+            "The Sun Never Sets on the Indian Empire"
+        ]
+    },
+    {
+        "country": "Andhra",
+        "achievements": [
+            "The Sun Never Sets on the Indian Empire"
+        ]
+    },
+    {
+        "country": "Maldives",
+        "achievements": []
+    },
+    {
+        "country": "Bishnupur",
+        "achievements": []
+    },
+    {
+        "country": "Idar",
+        "achievements": []
+    },
+    {
+        "country": "Jhalavad",
+        "achievements": []
+    },
+    {
+        "country": "Palitana",
+        "achievements": []
+    },
+    {
+        "country": "Junagarh",
+        "achievements": []
+    },
+    {
+        "country": "Porbandar",
+        "achievements": []
+    },
+    {
+        "country": "Kalinjar",
+        "achievements": []
+    },
+    {
+        "country": "Kalpi",
+        "achievements": []
+    },
+    {
+        "country": "Patna",
+        "achievements": [
+            "Ganges Khan"
+        ]
+    },
+    {
+        "country": "Ratanpur",
+        "achievements": []
+    },
+    {
+        "country": "Kalahandi",
+        "achievements": []
+    },
+    {
+        "country": "Keonhjar",
+        "achievements": []
+    },
+    {
+        "country": "Parlakhimidi",
+        "achievements": []
+    },
+    {
+        "country": "Jeypore",
+        "achievements": []
+    },
+    {
+        "country": "Kandy",
+        "achievements": [
+            "The Sun Never Sets on the Indian Empire",
+            "The Buddhists Strike Back"
+        ]
+    },
+    {
+        "country": "Telingana",
+        "achievements": []
+    },
+    {
+        "country": "Kolathunad",
+        "achievements": []
+    },
+    {
+        "country": "Dang",
+        "achievements": []
+    },
+    {
+        "country": "Doti",
+        "achievements": []
+    },
+    {
+        "country": "Gorkha",
+        "achievements": [
+            "The Sun Never Sets on the Indian Empire"
+        ]
+    },
+    {
+        "country": "Jumla",
+        "achievements": []
+    },
+    {
+        "country": "Limbuwan",
+        "achievements": []
+    },
+    {
+        "country": "Sirmur",
+        "achievements": []
+    },
+    {
+        "country": "Kathmandu",
+        "achievements": []
+    },
+    {
+        "country": "Kumaon",
+        "achievements": []
+    },
+    {
+        "country": "Sirhind",
+        "achievements": [
+            "The Sun Never Sets on the Indian Empire",
+            "Sikh Pun",
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Lübeck",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Abenaki",
+        "achievements": []
+    },
+    {
+        "country": "Apache",
+        "achievements": []
+    },
+    {
+        "country": "Assiniboine",
+        "achievements": []
+    },
+    {
+        "country": "Blackfoot",
+        "achievements": []
+    },
+    {
+        "country": "Caddo",
+        "achievements": []
+    },
+    {
+        "country": "Chickasaw",
+        "achievements": []
+    },
+    {
+        "country": "Choctaw",
+        "achievements": []
+    },
+    {
+        "country": "Cheyenne",
+        "achievements": []
+    },
+    {
+        "country": "Comanche",
+        "achievements": []
+    },
+    {
+        "country": "Fox",
+        "achievements": []
+    },
+    {
+        "country": "Lenape",
+        "achievements": []
+    },
+    {
+        "country": "Mahican",
+        "achievements": []
+    },
+    {
+        "country": "Mikmaq",
+        "achievements": []
+    },
+    {
+        "country": "Miami",
+        "achievements": []
+    },
+    {
+        "country": "Navajo",
+        "achievements": []
+    },
+    {
+        "country": "Ojibwe",
+        "achievements": []
+    },
+    {
+        "country": "Osage",
+        "achievements": []
+    },
+    {
+        "country": "Ottawa",
+        "achievements": []
+    },
+    {
+        "country": "Pawnee",
+        "achievements": []
+    },
+    {
+        "country": "Pequot",
+        "achievements": []
+    },
+    {
+        "country": "Pima",
+        "achievements": []
+    },
+    {
+        "country": "Potawatomi",
+        "achievements": []
+    },
+    {
+        "country": "Powhatan",
+        "achievements": []
+    },
+    {
+        "country": "Shoshone",
+        "achievements": []
+    },
+    {
+        "country": "Sioux",
+        "achievements": []
+    },
+    {
+        "country": "Susquehannock",
+        "achievements": []
+    },
+    {
+        "country": "Cree",
+        "achievements": []
+    },
+    {
+        "country": "Air",
+        "achievements": [
+            "Dar al-Islam",
+            "Golden Wind"
+        ]
+    },
+    {
+        "country": "Bonoman",
+        "achievements": []
+    },
+    {
+        "country": "Dahomey",
+        "achievements": [
+            "Where the heart is"
+        ]
+    },
+    {
+        "country": "Dagbon",
+        "achievements": []
+    },
+    {
+        "country": "Jenné",
+        "achievements": []
+    },
+    {
+        "country": "Kano",
+        "achievements": []
+    },
+    {
+        "country": "Kong",
+        "achievements": []
+    },
+    {
+        "country": "Katsina",
+        "achievements": []
+    },
+    {
+        "country": "Nupe",
+        "achievements": []
+    },
+    {
+        "country": "Timbuktu",
+        "achievements": []
+    },
+    {
+        "country": "Yao",
+        "achievements": []
+    },
+    {
+        "country": "Yatenga",
+        "achievements": []
+    },
+    {
+        "country": "Zazzau",
+        "achievements": []
+    },
+    {
+        "country": "Ndongo",
+        "achievements": []
+    },
+    {
+        "country": "Ava",
+        "achievements": []
+    },
+    {
+        "country": "Hsenwi",
+        "achievements": []
+    },
+    {
+        "country": "Kedah",
+        "achievements": []
+    },
+    {
+        "country": "Ligor",
+        "achievements": []
+    },
+    {
+        "country": "Muang Phuan",
+        "achievements": []
+    },
+    {
+        "country": "Mong Yang",
+        "achievements": []
+    },
+    {
+        "country": "Mong Mao",
+        "achievements": []
+    },
+    {
+        "country": "Mong Kawng",
+        "achievements": []
+    },
+    {
+        "country": "Mong Pai",
+        "achievements": []
+    },
+    {
+        "country": "Mong Nai",
+        "achievements": []
+    },
+    {
+        "country": "Kale",
+        "achievements": [
+            "Eat your Greens"
+        ]
+    },
+    {
+        "country": "Hsipaw",
+        "achievements": []
+    },
+    {
+        "country": "Prome",
+        "achievements": []
+    },
+    {
+        "country": "Chukchi",
+        "achievements": []
+    },
+    {
+        "country": "Khodynt",
+        "achievements": []
+    },
+    {
+        "country": "Chavchuveny",
+        "achievements": []
+    },
+    {
+        "country": "Kamchadals",
+        "achievements": []
+    },
+    {
+        "country": "Arapaho",
+        "achievements": []
+    },
+    {
+        "country": "Colima",
+        "achievements": []
+    },
+    {
+        "country": "Chinook",
+        "achievements": []
+    },
+    {
+        "country": "Cocomes",
+        "achievements": []
+    },
+    {
+        "country": "Haida",
+        "achievements": []
+    },
+    {
+        "country": "Itza",
+        "achievements": []
+    },
+    {
+        "country": "Kiche",
+        "achievements": []
+    },
+    {
+        "country": "Kiowa",
+        "achievements": []
+    },
+    {
+        "country": "Mixtec",
+        "achievements": []
+    },
+    {
+        "country": "Salish",
+        "achievements": []
+    },
+    {
+        "country": "Purépecha",
+        "achievements": []
+    },
+    {
+        "country": "Tlapanec",
+        "achievements": []
+    },
+    {
+        "country": "Tlaxcala",
+        "achievements": []
+    },
+    {
+        "country": "Totonac",
+        "achievements": []
+    },
+    {
+        "country": "Wichita",
+        "achievements": []
+    },
+    {
+        "country": "Xiu",
+        "achievements": []
+    },
+    {
+        "country": "Blambangan",
+        "achievements": []
+    },
+    {
+        "country": "Buton",
+        "achievements": []
+    },
+    {
+        "country": "Pagarruyung",
+        "achievements": []
+    },
+    {
+        "country": "Palembang",
+        "achievements": [
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Pasai",
+        "achievements": [
+            "Dar al-Islam"
+        ]
+    },
+    {
+        "country": "Siak",
+        "achievements": []
+    },
+    {
+        "country": "Sunda",
+        "achievements": []
+    },
+    {
+        "country": "Kutai",
+        "achievements": []
+    },
+    {
+        "country": "Banjar",
+        "achievements": []
+    },
+    {
+        "country": "Luwu",
+        "achievements": []
+    },
+    {
+        "country": "Maguindanao",
+        "achievements": []
+    },
+    {
+        "country": "Ternate",
+        "achievements": []
+    },
+    {
+        "country": "Tidore",
+        "achievements": []
+    },
+    {
+        "country": "Madyas",
+        "achievements": []
+    },
+    {
+        "country": "Pangasinan",
+        "achievements": []
+    },
+    {
+        "country": "Tondo",
+        "achievements": []
+    },
+    {
+        "country": "Maynila",
+        "achievements": []
+    },
+    {
+        "country": "Cebu",
+        "achievements": [
+            "Philippine Tiger"
+        ]
+    },
+    {
+        "country": "Butuan",
+        "achievements": []
+    },
+    {
+        "country": "Cuzco",
+        "achievements": []
+    },
+    {
+        "country": "Calchaqui",
+        "achievements": []
+    },
+    {
+        "country": "Mapuche",
+        "achievements": []
+    },
+    {
+        "country": "Muisca",
+        "achievements": []
+    },
+    {
+        "country": "Quito",
+        "achievements": []
+    },
+    {
+        "country": "Cajamarca",
+        "achievements": []
+    },
+    {
+        "country": "Huyla",
+        "achievements": []
+    },
+    {
+        "country": "Potiguara",
+        "achievements": []
+    },
+    {
+        "country": "Tupiniquim",
+        "achievements": []
+    },
+    {
+        "country": "Tupinamba",
+        "achievements": []
+    },
+    {
+        "country": "Tapuia",
+        "achievements": []
+    },
+    {
+        "country": "Guarani",
+        "achievements": []
+    },
+    {
+        "country": "Charrua",
+        "achievements": []
+    },
+    {
+        "country": "Wanka",
+        "achievements": []
+    },
+    {
+        "country": "Chachapoya",
+        "achievements": []
+    },
+    {
+        "country": "Colla",
+        "achievements": []
+    },
+    {
+        "country": "Charca",
+        "achievements": [
+            "A Sun God"
+        ]
+    },
+    {
+        "country": "Pacajes",
+        "achievements": []
+    },
+    {
+        "country": "Arawak",
+        "achievements": []
+    },
+    {
+        "country": "Carib",
+        "achievements": []
+    },
+    {
+        "country": "Ichma",
+        "achievements": []
+    },
+    {
+        "country": "Matlatzinca",
+        "achievements": []
+    },
+    {
+        "country": "Coixtlahuaca",
+        "achievements": []
+    },
+    {
+        "country": "Teotitlan",
+        "achievements": []
+    },
+    {
+        "country": "Xalisco",
+        "achievements": []
+    },
+    {
+        "country": "Guamar",
+        "achievements": []
+    },
+    {
+        "country": "Huastec",
+        "achievements": [
+            "The League of Mayapan",
+            "Mayapahit?"
+        ]
+    },
+    {
+        "country": "Chichimeca",
+        "achievements": []
+    },
+    {
+        "country": "Otomi",
+        "achievements": []
+    },
+    {
+        "country": "Yokotan",
+        "achievements": []
+    },
+    {
+        "country": "Tzotzil",
+        "achievements": []
+    },
+    {
+        "country": "Kaqchikel",
+        "achievements": []
+    },
+    {
+        "country": "Chactemal",
+        "achievements": []
+    },
+    {
+        "country": "Zia",
+        "achievements": []
+    },
+    {
+        "country": "Zuni",
+        "achievements": []
+    },
+    {
+        "country": "Mescalero",
+        "achievements": []
+    },
+    {
+        "country": "Lipan",
+        "achievements": []
+    },
+    {
+        "country": "Chorti",
+        "achievements": []
+    },
+    {
+        "country": "Miskito",
+        "achievements": []
+    },
+    {
+        "country": "Tairona",
+        "achievements": []
+    },
+    {
+        "country": "Can Pech",
+        "achievements": []
+    },
+    {
+        "country": "Tonala",
+        "achievements": []
+    },
+    {
+        "country": "Yaqui",
+        "achievements": []
+    },
+    {
+        "country": "Yokuts",
+        "achievements": []
+    },
+    {
+        "country": "Munich",
+        "achievements": [
+            "Stern des Südens",
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Landshut",
+        "achievements": []
+    },
+    {
+        "country": "Ingolstadt",
+        "achievements": []
+    },
+    {
+        "country": "Passau",
+        "achievements": []
+    },
+    {
+        "country": "Bregenz",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Konstanz",
+        "achievements": []
+    },
+    {
+        "country": "Rothenburg",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Bayreuth",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Regensburg",
+        "achievements": []
+    },
+    {
+        "country": "Geneva",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Three Leagues",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Opole",
+        "achievements": []
+    },
+    {
+        "country": "Glogow",
+        "achievements": []
+    },
+    {
+        "country": "Bologna",
+        "achievements": [
+            "Italian Ambition",
+            "Carthago Delenda Est",
+            "Mare Nostrum",
+            "Spaghetti Western"
+        ]
+    },
+    {
+        "country": "Saluzzo",
+        "achievements": [
+            "Italian Ambition",
+            "Carthago Delenda Est",
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "Electable!",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Wolgast",
+        "achievements": []
+    },
+    {
+        "country": "Stettin",
+        "achievements": []
+    },
+    {
+        "country": "Goslar",
+        "achievements": []
+    },
+    {
+        "country": "Cilli",
+        "achievements": []
+    },
+    {
+        "country": "Herzegovina",
+        "achievements": [
+            "Mare Nostrum",
+            "Redecorating"
+        ]
+    },
+    {
+        "country": "Trent",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Berg",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Mulhouse",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name",
+            "Everything's Coming Up Mulhouse"
+        ]
+    },
+    {
+        "country": "Bamberg",
+        "achievements": [
+            "Mare Nostrum",
+            "The Emperors new clothes",
+            "For the Emperor!",
+            "Electable!",
+            "An early Reich",
+            "A Kaiser not just in name"
+        ]
+    },
+    {
+        "country": "Perugia",
+        "achievements": [
+            "Italian Ambition",
+            "Carthago Delenda Est",
+            "Mare Nostrum"
+        ]
+    },
+    {
+        "country": "Bone",
+        "achievements": [
+            "To the Bone"
+        ]
+    },
+    {
+        "country": "Berau",
+        "achievements": []
+    },
+    {
+        "country": "Sambas",
+        "achievements": []
+    },
+    {
+        "country": "Barus",
+        "achievements": []
+    },
+    {
+        "country": "Deli",
+        "achievements": []
+    },
+    {
+        "country": "Jambi",
+        "achievements": []
+    },
+    {
+        "country": "Pahang",
+        "achievements": []
+    },
+    {
+        "country": "Kelantan",
+        "achievements": []
+    },
+    {
+        "country": "Indrapura",
+        "achievements": []
+    },
+    {
+        "country": "Jarai",
+        "achievements": []
+    },
+    {
+        "country": "Rhade",
+        "achievements": []
+    },
+    {
+        "country": "Koho",
+        "achievements": []
+    },
+    {
+        "country": "Tiwi",
+        "achievements": []
+    },
+    {
+        "country": "Larrakia",
+        "achievements": []
+    },
+    {
+        "country": "Yolngu",
+        "achievements": []
+    },
+    {
+        "country": "Yanuwa",
+        "achievements": []
+    },
+    {
+        "country": "Awngthim",
+        "achievements": []
+    },
+    {
+        "country": "Kamilaroi",
+        "achievements": []
+    },
+    {
+        "country": "Mianjin",
+        "achievements": []
+    },
+    {
+        "country": "Eora",
+        "achievements": []
+    },
+    {
+        "country": "Kaurna",
+        "achievements": []
+    },
+    {
+        "country": "Palawa",
+        "achievements": []
+    },
+    {
+        "country": "Wurundjeri",
+        "achievements": []
+    },
+    {
+        "country": "Nyoongah",
+        "achievements": []
+    },
+    {
+        "country": "Malgana",
+        "achievements": []
+    },
+    {
+        "country": "Ngati Awa",
+        "achievements": []
+    },
+    {
+        "country": "Tainui",
+        "achievements": []
+    },
+    {
+        "country": "Ngati Kahungunu",
+        "achievements": []
+    },
+    {
+        "country": "Ngati Toa",
+        "achievements": []
+    },
+    {
+        "country": "Ngati Ranginui",
+        "achievements": []
+    },
+    {
+        "country": "Ngapuhi",
+        "achievements": []
+    },
+    {
+        "country": "Waitaha",
+        "achievements": []
+    },
+    {
+        "country": "Hawai'i",
+        "achievements": [
+            "Surfing USA"
+        ]
+    },
+    {
+        "country": "Maui",
+        "achievements": []
+    },
+    {
+        "country": "O'ahu",
+        "achievements": []
+    },
+    {
+        "country": "Kaua'i",
+        "achievements": []
+    },
+    {
+        "country": "Tonga",
+        "achievements": []
+    },
+    {
+        "country": "Samoa",
+        "achievements": []
+    },
+    {
+        "country": "Viti Levu",
+        "achievements": []
+    },
+    {
+        "country": "Vanua Levu",
+        "achievements": []
+    },
+    {
+        "country": "Lau",
+        "achievements": []
+    },
+    {
+        "country": "Altamaha",
+        "achievements": []
+    },
+    {
+        "country": "Ichisi",
+        "achievements": []
+    },
+    {
+        "country": "Cofitachequi",
+        "achievements": []
+    },
+    {
+        "country": "Joara",
+        "achievements": []
+    },
+    {
+        "country": "Etowah",
+        "achievements": []
+    },
+    {
+        "country": "Satapo",
+        "achievements": []
+    },
+    {
+        "country": "Chiaha",
+        "achievements": []
+    },
+    {
+        "country": "Coosa",
+        "achievements": []
+    },
+    {
+        "country": "Abihka",
+        "achievements": []
+    },
+    {
+        "country": "Coweta",
+        "achievements": []
+    },
+    {
+        "country": "Natchez",
+        "achievements": []
+    },
+    {
+        "country": "Casqui",
+        "achievements": []
+    },
+    {
+        "country": "Pacaha",
+        "achievements": []
+    },
+    {
+        "country": "Quizquiz",
+        "achievements": []
+    },
+    {
+        "country": "Chisca",
+        "achievements": []
+    },
+    {
+        "country": "Atahachi",
+        "achievements": []
+    },
+    {
+        "country": "Kasihta",
+        "achievements": []
+    },
+    {
+        "country": "Oneota",
+        "achievements": []
+    },
+    {
+        "country": "Anilco",
+        "achievements": []
+    },
+    {
+        "country": "Natchitoches",
+        "achievements": []
+    },
+    {
+        "country": "Hasinai",
+        "achievements": []
+    },
+    {
+        "country": "Mohawk",
+        "achievements": []
+    },
+    {
+        "country": "Oneida",
+        "achievements": []
+    },
+    {
+        "country": "Onondaga",
+        "achievements": []
+    },
+    {
+        "country": "Cayuga",
+        "achievements": []
+    },
+    {
+        "country": "Seneca",
+        "achievements": []
+    },
+    {
+        "country": "Tahontaenrat",
+        "achievements": []
+    },
+    {
+        "country": "Attignawantan",
+        "achievements": []
+    },
+    {
+        "country": "Attigneenongnahac",
+        "achievements": []
+    },
+    {
+        "country": "Attiwandaron",
+        "achievements": []
+    },
+    {
+        "country": "Arendaronon",
+        "achievements": []
+    },
+    {
+        "country": "Tionontate",
+        "achievements": []
+    },
+    {
+        "country": "Osheaga",
+        "achievements": []
+    },
+    {
+        "country": "Stadacona",
+        "achievements": []
+    },
+    {
+        "country": "Erie",
+        "achievements": []
+    },
+    {
+        "country": "Wenro",
+        "achievements": []
+    },
+    {
+        "country": "Tuscarora",
+        "achievements": []
+    },
+    {
+        "country": "Ohkay Owingeh",
+        "achievements": []
+    },
+    {
+        "country": "Isleta",
+        "achievements": []
+    },
+    {
+        "country": "Acoma",
+        "achievements": []
+    },
+    {
+        "country": "Cahokia",
+        "achievements": []
+    },
+    {
+        "country": "Peoria",
+        "achievements": []
+    },
+    {
+        "country": "Kaskaskia",
+        "achievements": []
+    },
+    {
+        "country": "Penobscot",
+        "achievements": []
+    },
+    {
+        "country": "Maliseet",
+        "achievements": []
+    },
+    {
+        "country": "Nehiyaw",
+        "achievements": []
+    },
+    {
+        "country": "Nakawe",
+        "achievements": []
+    },
+    {
+        "country": "Hathawekela",
+        "achievements": []
+    },
+    {
+        "country": "Chalaghawtha",
+        "achievements": []
+    },
+    {
+        "country": "Kispoko",
+        "achievements": []
+    },
+    {
+        "country": "Mississage",
+        "achievements": []
+    },
+    {
+        "country": "Wichiyena",
+        "achievements": []
+    },
+    {
+        "country": "Lakota",
+        "achievements": []
+    },
+    {
+        "country": "Innu",
+        "achievements": []
+    },
+    {
+        "country": "Wampanoag",
+        "achievements": []
+    },
+    {
+        "country": "Algonquin",
+        "achievements": []
+    }
+]
