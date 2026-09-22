@@ -87,7 +87,7 @@ export default function Home() {
     localStorage.removeItem('eu4_steam_session');
   };
 
-  const rollNation = () => {
+  /*const rollNation = () => {
     if (playableCountries.length === 0) return;
     setIsRolling(true);
 
@@ -111,12 +111,82 @@ export default function Home() {
       }, 100);
 
     }, 600);
+  };*/
+  const rollNation = () => {
+    if (playableCountries.length === 0) return;
+    setIsRolling(true);
+
+    setTimeout(() => {
+      // Havuzu filtrele: Sadece başarımı olan VE o başarımlarından en az birini HENÜZ YAPMADIĞIMIZ ülkeleri al
+      const eligibleCountries = playableCountries.filter((countryObj) => {
+        // 1. Ülkenin kendine has başarımı yoksa direkt çöpe at
+        if (!countryObj.achievements || countryObj.achievements.length === 0) {
+          return false;
+        }
+
+        // 2. Ülkenin başarımlarından en az bir tanesi kilitli mi (yapılmamış mı) kontrol et
+        const hasLockedAchievement = countryObj.achievements.some(
+          (achName) => !isAchievementUnlocked(achName)
+        );
+
+        return hasLockedAchievement;
+      });
+
+      if (eligibleCountries.length === 0) {
+        setIsRolling(false);
+        alert("Tebrikler! Oyundaki filtrelenmiş tüm ülke başarımlarını tamamlamışsın.");
+        return;
+      }
+
+      // Filtrelenmiş havuzdan rastgele ülke seç
+      const randomIndex = Math.floor(Math.random() * eligibleCountries.length);
+      const randomCountryObj = eligibleCountries[randomIndex];
+
+      // JSON'dan başarım detaylarını eşleştir
+      const matchedAchievements = randomCountryObj.achievements
+        .map((achName) => achievementsData.find((a) => a.name === achName))
+        .filter(Boolean); 
+
+      setSelectedCountry(randomCountryObj.country);
+      setCountryAchievements(matchedAchievements);
+      setIsRolling(false);
+
+      // Sonuca yumuşak bir şekilde kaydır
+      setTimeout(() => {
+        if (resultsRef.current) {
+          resultsRef.current.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      }, 100);
+
+    }, 600);
   };
 
-  const isAchievementUnlocked = (achId: string) => {
+  /*const isAchievementUnlocked = (achId: string) => {
     const normalizedId = achId.toLowerCase().replace(/[^a-z0-9_]/g, '');
     return unlockedAchievements.includes(normalizedId) || 
            unlockedAchievements.includes(`achievement_${normalizedId}`);
+  };*/
+  const isAchievementUnlocked = (achName) => {
+    if (!achName || !unlockedAchievements) return false;
+
+    // Aksanları, boşlukları ve HER TÜRLÜ noktalama işaretini silen agresif temizleyici
+    const fuzzyClean = (str) => {
+      return str
+        .toLowerCase()
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "") // é, ü, ö gibi harfleri e, u, o yapar
+        .replace(/[^a-z0-9]/g, "");      // Sadece harf ve rakamları bırakır
+    };
+
+    const cleanWiki = fuzzyClean(achName);
+
+    // Steam'den gelen doğru 'displayName' listesini fuzzy mantığıyla tara
+    return unlockedAchievements.some(steamName => {
+      const cleanSteam = fuzzyClean(steamName);
+      
+      // Tam eşleşme veya Steam'in "the" takısını yutması gibi durumlar için kapsama (includes) kontrolü
+      return cleanSteam === cleanWiki || cleanSteam.includes(cleanWiki) || cleanWiki.includes(cleanSteam);
+    });
   };
 
   return (
