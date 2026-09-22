@@ -1,3854 +1,7179 @@
 [
     {
         "country": "Sweden",
+        "tag": "SWE",
         "achievements": [
-            "Crossing the Finnish Line",
             "Assembly Instructions Needed",
+            "Lion of the North",
             "Sweden is not overpowered!",
-            "Super Trooper",
-            "Lion of the North"
-        ]
+            "Crossing the Finnish Line",
+            "Super Trooper"
+        ],
+        "coordinates": {
+            "top": "15.87%",
+            "left": "54.78%"
+        }
     },
     {
         "country": "Denmark",
+        "tag": "DAN",
         "achievements": [
-            "The Iron Price",
+            "Assembly Instructions Needed",
             "Østindisk Kompagni Te",
-            "Brick by Brick",
-            "Assembly Instructions Needed"
-        ]
+            "The Iron Price",
+            "Brick by Brick"
+        ],
+        "coordinates": {
+            "top": "20.51%",
+            "left": "53.19%"
+        }
     },
     {
         "country": "Gotland",
+        "tag": "GOT",
         "achievements": [
             "Assembly Instructions Needed"
-        ]
+        ],
+        "coordinates": {
+            "top": "17.77%",
+            "left": "54.96%"
+        }
     },
     {
         "country": "Norway",
+        "tag": "NOR",
         "achievements": [
+            "Assembly Instructions Needed",
             "Let It Go!",
-            "Norwegian Wood",
-            "Assembly Instructions Needed"
-        ]
+            "Norwegian Wood"
+        ],
+        "coordinates": {
+            "top": "15.23%",
+            "left": "52.84%"
+        }
     },
     {
         "country": "Holstein",
+        "tag": "SHL",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "21.36%",
+            "left": "52.58%"
+        }
     },
     {
         "country": "Albania",
+        "tag": "ALB",
         "achievements": [
             "Albania or Iberia",
             "Mare Nostrum"
-        ]
+        ],
+        "coordinates": {
+            "top": "33.64%",
+            "left": "55.31%"
+        }
     },
     {
         "country": "Athens",
+        "tag": "ATH",
         "achievements": [
-            "Academical",
-            "Italian Ambition",
-            "Carthago Delenda Est",
             "Mare Nostrum",
-            "It's All Greek To Me"
-        ]
+            "Academical",
+            "It's All Greek To Me",
+            "Italian Ambition",
+            "Carthago Delenda Est"
+        ],
+        "coordinates": {
+            "top": "37.18%",
+            "left": "56.33%"
+        }
     },
     {
         "country": "Bosnia",
+        "tag": "BOS",
         "achievements": [
             "Mare Nostrum"
-        ]
+        ],
+        "coordinates": {
+            "top": "31.79%",
+            "left": "54.92%"
+        }
     },
     {
         "country": "Byzantium",
+        "tag": "BYZ",
         "achievements": [
             "Mare Nostrum",
-            "Restore the Pentarchy",
+            "Redecorating",
             "Basileus",
-            "The Last Crusade",
-            "Redecorating"
-        ]
+            "Restore the Pentarchy",
+            "The Last Crusade"
+        ],
+        "coordinates": {
+            "top": "34.40%",
+            "left": "57.78%"
+        }
     },
     {
         "country": "Croatia",
+        "tag": "CRO",
         "achievements": [
             "Mare Nostrum",
             "Krabater"
-        ]
+        ],
+        "coordinates": {
+            "top": "29.79%",
+            "left": "54.24%"
+        }
     },
     {
         "country": "Cyprus",
+        "tag": "CYP",
         "achievements": [
             "King of Jerusalem"
-        ]
+        ],
+        "coordinates": {
+            "top": "40.14%",
+            "left": "58.94%"
+        }
     },
     {
         "country": "Epirus",
+        "tag": "EPI",
         "achievements": [
             "Italian Ambition",
             "Carthago Delenda Est",
             "Mare Nostrum"
-        ]
+        ],
+        "coordinates": {
+            "top": "36.23%",
+            "left": "55.66%"
+        }
     },
     {
         "country": "The Knights",
+        "tag": "KNI",
         "achievements": [
-            "King of Jerusalem",
-            "Mare Nostrum",
             "On the Rhodes Again",
-            "Knights of the Caribbean"
-        ]
+            "Knights of the Caribbean",
+            "King of Jerusalem",
+            "Mare Nostrum"
+        ],
+        "coordinates": {
+            "top": "38.87%",
+            "left": "57.55%"
+        }
     },
     {
         "country": "Moldavia",
+        "tag": "MOL",
         "achievements": [
-            "Dracula's Revenge",
+            "Redecorating",
             "Mare Nostrum",
-            "Redecorating"
-        ]
+            "Dracula's Revenge"
+        ],
+        "coordinates": {
+            "top": "28.27%",
+            "left": "57.15%"
+        }
     },
     {
         "country": "Naxos",
+        "tag": "NAX",
         "achievements": [
             "Italian Ambition",
             "Carthago Delenda Est",
             "Mare Nostrum"
-        ]
+        ],
+        "coordinates": {
+            "top": "38.09%",
+            "left": "56.87%"
+        }
     },
     {
         "country": "Ragusa",
+        "tag": "RAG",
         "achievements": [
             "With a little help..",
             "Mare Nostrum"
-        ]
+        ],
+        "coordinates": {
+            "top": "32.98%",
+            "left": "54.89%"
+        }
     },
     {
         "country": "Serbia",
+        "tag": "SER",
         "achievements": [
             "Lazarus",
             "Mare Nostrum",
             "Redecorating"
-        ]
+        ],
+        "coordinates": {
+            "top": "31.84%",
+            "left": "55.77%"
+        }
     },
     {
         "country": "Wallachia",
+        "tag": "WAL",
         "achievements": [
-            "Dracula's Revenge",
+            "Redecorating",
             "Mare Nostrum",
-            "Redecorating"
-        ]
+            "Dracula's Revenge"
+        ],
+        "coordinates": {
+            "top": "30.62%",
+            "left": "56.87%"
+        }
     },
     {
         "country": "Hungary",
+        "tag": "HUN",
         "achievements": [
-            "The Hungarian Games",
             "Mare Nostrum",
+            "A Kaiser not just in name",
+            "The Hungarian Games",
             "The Emperors new clothes",
-            "Electable!",
             "Take that, von Habsburgs!",
-            "A Kaiser not just in name"
-        ]
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "28.32%",
+            "left": "55.10%"
+        }
     },
     {
         "country": "Ottomans",
+        "tag": "TUR",
         "achievements": [
+            "Dar al-Islam",
             "Definitely the Sultan of Rum",
             "Parisian Pasha",
-            "Dar al-Islam",
             "Mehmet's Ambition"
-        ]
+        ],
+        "coordinates": {
+            "top": "33.94%",
+            "left": "57.17%"
+        }
     },
     {
         "country": "Clanricarde",
-        "achievements": []
+        "tag": "CNN",
+        "achievements": [],
+        "coordinates": {
+            "top": "22.36%",
+            "left": "47.23%"
+        }
     },
     {
         "country": "England",
+        "tag": "ENG",
         "achievements": [
             "Mare Nostrum",
+            "One Night in Paris",
             "Brentry",
             "An Industrial Evolution",
-            "One Night in Paris",
             "Anglophile"
-        ]
+        ],
+        "coordinates": {
+            "top": "24.41%",
+            "left": "49.82%"
+        }
     },
     {
         "country": "Leinster",
-        "achievements": []
+        "tag": "LEI",
+        "achievements": [],
+        "coordinates": {
+            "top": "23.49%",
+            "left": "47.90%"
+        }
     },
     {
         "country": "Thomond",
+        "tag": "MNS",
         "achievements": [
-            "Luck of the Irish",
-            "Mare Nostrum"
-        ]
+            "Mare Nostrum",
+            "Luck of the Irish"
+        ],
+        "coordinates": {
+            "top": "23.05%",
+            "left": "47.35%"
+        }
     },
     {
         "country": "Scotland",
+        "tag": "SCO",
         "achievements": [
-            "Auld Alliance Reversed",
-            "Mare Nostrum"
-        ]
+            "Mare Nostrum",
+            "Auld Alliance Reversed"
+        ],
+        "coordinates": {
+            "top": "19.78%",
+            "left": "48.88%"
+        }
     },
     {
         "country": "Tyrone",
-        "achievements": []
+        "tag": "TYR",
+        "achievements": [],
+        "coordinates": {
+            "top": "21.39%",
+            "left": "47.90%"
+        }
     },
     {
         "country": "Ulster",
-        "achievements": []
+        "tag": "ULS",
+        "achievements": [],
+        "coordinates": {
+            "top": "21.14%",
+            "left": "48.15%"
+        }
     },
     {
         "country": "Desmond",
+        "tag": "DMS",
         "achievements": [
-            "Luck of the Irish",
-            "Mare Nostrum"
-        ]
+            "Mare Nostrum",
+            "Luck of the Irish"
+        ],
+        "coordinates": {
+            "top": "23.88%",
+            "left": "47.53%"
+        }
     },
     {
         "country": "Sligo",
+        "tag": "SLN",
         "achievements": [
-            "Luck of the Irish",
-            "Mare Nostrum"
-        ]
+            "Mare Nostrum",
+            "Luck of the Irish"
+        ],
+        "coordinates": {
+            "top": "21.63%",
+            "left": "47.37%"
+        }
     },
     {
         "country": "Kildare",
-        "achievements": []
+        "tag": "KID",
+        "achievements": [],
+        "coordinates": {
+            "top": "22.56%",
+            "left": "47.94%"
+        }
     },
     {
         "country": "Ormond",
+        "tag": "ORD",
         "achievements": [
-            "Luck of the Irish",
-            "Mare Nostrum"
-        ]
+            "Mare Nostrum",
+            "Luck of the Irish"
+        ],
+        "coordinates": {
+            "top": "23.10%",
+            "left": "47.75%"
+        }
     },
     {
         "country": "Tyrconnell",
-        "achievements": []
+        "tag": "TRY",
+        "achievements": [],
+        "coordinates": {
+            "top": "21.09%",
+            "left": "47.57%"
+        }
     },
     {
         "country": "Offaly",
+        "tag": "FLY",
         "achievements": [
-            "Luck of the Irish",
             "Spanish Fly",
-            "Mare Nostrum"
-        ]
+            "Mare Nostrum",
+            "Luck of the Irish"
+        ],
+        "coordinates": {
+            "top": "22.51%",
+            "left": "47.73%"
+        }
     },
     {
         "country": "Munster",
+        "tag": "MUN",
         "achievements": [
-            "Luck of the Irish",
-            "Mare Nostrum"
-        ]
+            "Mare Nostrum",
+            "Luck of the Irish"
+        ],
+        "coordinates": {
+            "top": "23.97%",
+            "left": "51.89%"
+        }
     },
     {
-        "country": "The Isles",
-        "achievements": []
+        "country": "TheIsles",
+        "tag": "LOI",
+        "achievements": [],
+        "coordinates": {
+            "top": "18.07%",
+            "left": "48.03%"
+        }
     },
     {
         "country": "Lithuania",
+        "tag": "LIT",
         "achievements": [
-            "The Uncommonwealth",
-            "Mare Nostrum"
-        ]
+            "Mare Nostrum",
+            "The Uncommonwealth"
+        ],
+        "coordinates": {
+            "top": "21.19%",
+            "left": "56.92%"
+        }
     },
     {
-        "country": "Livonian Order",
+        "country": "LivonianOrder",
+        "tag": "LIV",
         "achievements": [
             "Baltic Crusader",
-            "Almost Prussian Blue",
             "Mare Nostrum",
             "For the Emperor!",
-            "An early Reich"
-        ]
+            "An early Reich",
+            "Almost Prussian Blue"
+        ],
+        "coordinates": {
+            "top": "17.72%",
+            "left": "56.57%"
+        }
     },
     {
         "country": "Mazovia",
+        "tag": "MAZ",
         "achievements": [
             "Back to the Piast",
             "Mare Nostrum"
-        ]
+        ],
+        "coordinates": {
+            "top": "23.93%",
+            "left": "55.63%"
+        }
     },
     {
         "country": "Poland",
+        "tag": "POL",
         "achievements": [
-            "Poland can into space",
+            "One King to Rule!",
             "Mare Nostrum",
-            "Winged Hussars",
-            "One King to Rule!"
-        ]
+            "Poland can into space",
+            "Winged Hussars"
+        ],
+        "coordinates": {
+            "top": "25.66%",
+            "left": "55.30%"
+        }
     },
     {
         "country": "Riga",
+        "tag": "RIG",
         "achievements": [
             "Terra Mariana",
-            "Purify the Temple",
             "Mare Nostrum",
-            "An early Reich"
-        ]
+            "An early Reich",
+            "Purify the Temple"
+        ],
+        "coordinates": {
+            "top": "18.55%",
+            "left": "56.56%"
+        }
     },
     {
         "country": "Teutonic Order",
+        "tag": "TEU",
         "achievements": [
             "Baltic Crusader",
-            "A Fine Goosestep",
-            "KHAAAAAAN",
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
             "A Kaiser not just in name",
-            "Holy Horder"
-        ]
+            "KHAAAAAAN",
+            "A Fine Goosestep",
+            "Holy Horder",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "21.88%",
+            "left": "55.20%"
+        }
     },
     {
         "country": "Odoyev",
+        "tag": "OKA",
         "achievements": [
-            "All belongs to Mother Russia",
+            "Redecorating",
             "Mare Nostrum",
+            "Mass Production",
             "Kinslayer",
             "Relentless Push East",
-            "Mass Production",
-            "Redecorating"
-        ]
+            "All belongs to Mother Russia"
+        ],
+        "coordinates": {
+            "top": "22.41%",
+            "left": "59.75%"
+        }
     },
     {
         "country": "Strasbourg",
-        "achievements": []
+        "tag": "ALS",
+        "achievements": [],
+        "coordinates": {
+            "top": "27.20%",
+            "left": "51.92%"
+        }
     },
     {
         "country": "Armagnac",
-        "achievements": []
+        "tag": "AMG",
+        "achievements": [],
+        "coordinates": {
+            "top": "31.84%",
+            "left": "49.98%"
+        }
     },
     {
         "country": "Auvergne",
-        "achievements": []
+        "tag": "AUV",
+        "achievements": [],
+        "coordinates": {
+            "top": "30.18%",
+            "left": "50.73%"
+        }
     },
     {
         "country": "Bourbonnais",
-        "achievements": []
+        "tag": "BOU",
+        "achievements": [],
+        "coordinates": {
+            "top": "29.30%",
+            "left": "50.73%"
+        }
     },
     {
         "country": "Brittany",
+        "tag": "BRI",
         "achievements": [
             "Mare Nostrum"
-        ]
+        ],
+        "coordinates": {
+            "top": "28.71%",
+            "left": "49.36%"
+        }
     },
     {
         "country": "Burgundy",
+        "tag": "BUR",
         "achievements": [
             "Mary of Lotharingia",
-            "Mare Nostrum",
-            "The Burgundian Conquest"
-        ]
+            "The Burgundian Conquest",
+            "Mare Nostrum"
+        ],
+        "coordinates": {
+            "top": "28.61%",
+            "left": "51.24%"
+        }
     },
     {
         "country": "Foix",
-        "achievements": []
+        "tag": "FOI",
+        "achievements": [],
+        "coordinates": {
+            "top": "32.42%",
+            "left": "49.73%"
+        }
     },
     {
         "country": "France",
+        "tag": "FRA",
         "achievements": [
-            "Azur semé de lis or",
-            "Big Blue Blob",
+            "Better than Napoleon",
             "Mare Nostrum",
             "Napoleon’s Ambition",
-            "Better than Napoleon"
-        ]
+            "Azur semé de lis or",
+            "Big Blue Blob"
+        ],
+        "coordinates": {
+            "top": "27.05%",
+            "left": "50.46%"
+        }
     },
     {
         "country": "Nevers",
+        "tag": "NEV",
         "achievements": [
             "Never say Nevers",
             "Mare Nostrum"
-        ]
+        ],
+        "coordinates": {
+            "top": "28.81%",
+            "left": "50.69%"
+        }
     },
     {
         "country": "Orleans",
+        "tag": "ORL",
         "achievements": [
             "Mare Nostrum"
-        ]
+        ],
+        "coordinates": {
+            "top": "28.03%",
+            "left": "50.34%"
+        }
     },
     {
         "country": "Provence",
+        "tag": "PRO",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
-            "Electable!",
+            "A Kaiser not just in name",
             "Good King René",
-            "A Kaiser not just in name"
-        ]
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "32.35%",
+            "left": "51.36%"
+        }
     },
     {
         "country": "Aachen",
+        "tag": "AAC",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "25.15%",
+            "left": "51.54%"
+        }
     },
     {
         "country": "Anhalt",
+        "tag": "ANH",
         "achievements": [
-            "A Fine Goosestep",
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "A Fine Goosestep",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "24.07%",
+            "left": "53.16%"
+        }
     },
     {
         "country": "Ansbach",
+        "tag": "ANS",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "26.59%",
+            "left": "52.73%"
+        }
     },
     {
         "country": "Augsburg",
+        "tag": "AUG",
         "achievements": [
             "Fugger Banking",
-            "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
+            "Mare Nostrum",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "27.54%",
+            "left": "52.86%"
+        }
     },
     {
         "country": "Baden",
+        "tag": "BAD",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "27.03%",
+            "left": "52.13%"
+        }
     },
     {
         "country": "Bohemia",
+        "tag": "BOH",
         "achievements": [
-            "Veritas Vincit",
-            "The Bohemians",
             "Mare Nostrum",
-            "The Emperors new clothes",
             "Czechs and Balances",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Veritas Vincit",
+            "The Bohemians"
+        ],
+        "coordinates": {
+            "top": "25.73%",
+            "left": "53.84%"
+        }
     },
     {
         "country": "Brandenburg",
+        "tag": "BRA",
         "achievements": [
-            "A Fine Goosestep",
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "A Fine Goosestep",
+            "The Emperors new clothes"
+        ],
+        "coordinates": {
+            "top": "23.19%",
+            "left": "53.62%"
+        }
     },
     {
         "country": "Bremen",
+        "tag": "BRE",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "22.75%",
+            "left": "52.24%"
+        }
     },
     {
         "country": "Brunswick",
+        "tag": "BRU",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "23.88%",
+            "left": "52.73%"
+        }
     },
     {
         "country": "East Frisia",
+        "tag": "EFR",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "22.46%",
+            "left": "51.80%"
+        }
     },
     {
         "country": "Frankfurt",
-        "achievements": []
+        "tag": "FRN",
+        "achievements": [],
+        "coordinates": {
+            "top": "25.76%",
+            "left": "52.22%"
+        }
     },
     {
         "country": "Austria",
+        "tag": "HAB",
         "achievements": [
-            "AEIOU",
-            "The pen is mightier than the sword",
             "Mare Nostrum",
-            "The Zoro-Austrians",
             "For the Emperor!",
             "An early Reich",
             "A Kaiser not just in name",
-            "The Ostenders"
-        ]
+            "The pen is mightier than the sword",
+            "The Zoro-Austrians",
+            "The Ostenders",
+            "AEIOU"
+        ],
+        "coordinates": {
+            "top": "27.61%",
+            "left": "54.39%"
+        }
     },
     {
         "country": "Hamburg",
+        "tag": "HAM",
         "achievements": [
-            "Bunte Kuh",
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "Bunte Kuh",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "22.29%",
+            "left": "52.55%"
+        }
     },
     {
         "country": "Hesse",
+        "tag": "HES",
         "achievements": [
-            "Hessian Mercenaries",
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "Hessian Mercenaries",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "24.95%",
+            "left": "52.47%"
+        }
     },
     {
         "country": "Cleves",
-        "achievements": []
+        "tag": "KLE",
+        "achievements": [],
+        "coordinates": {
+            "top": "24.27%",
+            "left": "51.54%"
+        }
     },
     {
         "country": "Cologne",
+        "tag": "KOL",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes"
+        ],
+        "coordinates": {
+            "top": "25.20%",
+            "left": "51.75%"
+        }
     },
     {
         "country": "Saxe-Lauenburg",
-        "achievements": []
+        "tag": "LAU",
+        "achievements": [],
+        "coordinates": {
+            "top": "22.36%",
+            "left": "52.73%"
+        }
     },
     {
         "country": "Lorraine",
+        "tag": "LOR",
         "achievements": [
+            "Mare Nostrum",
             "Electable!",
             "A Kaiser not just in name",
-            "Mare Nostrum",
             "The Emperors new clothes"
-        ]
+        ],
+        "coordinates": {
+            "top": "27.34%",
+            "left": "51.49%"
+        }
     },
     {
         "country": "Lüneburg",
-        "achievements": []
+        "tag": "LUN",
+        "achievements": [],
+        "coordinates": {
+            "top": "22.75%",
+            "left": "52.65%"
+        }
     },
     {
         "country": "Magdeburg",
-        "achievements": []
+        "tag": "MAG",
+        "achievements": [],
+        "coordinates": {
+            "top": "23.83%",
+            "left": "53.00%"
+        }
     },
     {
         "country": "Mainz",
+        "tag": "MAI",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes"
+        ],
+        "coordinates": {
+            "top": "25.88%",
+            "left": "52.08%"
+        }
     },
     {
         "country": "Mecklenburg",
-        "achievements": []
+        "tag": "MKL",
+        "achievements": [],
+        "coordinates": {
+            "top": "21.75%",
+            "left": "53.18%"
+        }
     },
     {
         "country": "Münster",
+        "tag": "MCM",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "23.83%",
+            "left": "47.19%"
+        }
     },
     {
         "country": "Oldenburg",
-        "achievements": []
+        "tag": "OLD",
+        "achievements": [],
+        "coordinates": {
+            "top": "22.71%",
+            "left": "52.08%"
+        }
     },
     {
-        "country": "The Palatinate",
+        "country": "Palatinate",
+        "tag": "PAL",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes"
+        ],
+        "coordinates": {
+            "top": "26.59%",
+            "left": "52.28%"
+        }
     },
     {
         "country": "Saxony",
+        "tag": "SAX",
         "achievements": [
-            "A Fine Goosestep",
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
             "Meissner Porcelain",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "A Fine Goosestep",
+            "The Emperors new clothes"
+        ],
+        "coordinates": {
+            "top": "24.46%",
+            "left": "53.25%"
+        }
     },
     {
         "country": "Salzburg",
-        "achievements": []
+        "tag": "SLZ",
+        "achievements": [],
+        "coordinates": {
+            "top": "28.03%",
+            "left": "53.43%"
+        }
     },
     {
         "country": "Switzerland",
+        "tag": "SWI",
         "achievements": [
-            "Mare Nostrum",
-            "The Emperors new clothes",
-            "For the Emperor!",
-            "Electable!",
             "Switzerlake",
+            "Mare Nostrum",
+            "For the Emperor!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "28.71%",
+            "left": "51.88%"
+        }
     },
     {
         "country": "Thuringia",
+        "tag": "THU",
         "achievements": [
-            "A Fine Goosestep",
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "A Fine Goosestep",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "25.10%",
+            "left": "53.02%"
+        }
     },
     {
         "country": "Trier",
-        "achievements": []
+        "tag": "TRI",
+        "achievements": [],
+        "coordinates": {
+            "top": "26.37%",
+            "left": "51.63%"
+        }
     },
     {
         "country": "Ulm",
+        "tag": "ULM",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "27.29%",
+            "left": "52.59%"
+        }
     },
     {
         "country": "Wurzburg",
+        "tag": "WBG",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "26.00%",
+            "left": "52.56%"
+        }
     },
     {
         "country": "Wurttemberg",
+        "tag": "WUR",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "27.25%",
+            "left": "52.26%"
+        }
     },
     {
         "country": "Nuremberg",
+        "tag": "NUM",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "26.37%",
+            "left": "52.98%"
+        }
     },
     {
         "country": "Memmingen",
-        "achievements": []
+        "tag": "MEM",
+        "achievements": [],
+        "coordinates": {
+            "top": "27.88%",
+            "left": "52.56%"
+        }
     },
     {
         "country": "Verden",
+        "tag": "VER",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "23.07%",
+            "left": "52.42%"
+        }
     },
     {
         "country": "Nassau",
-        "achievements": []
+        "tag": "NSA",
+        "achievements": [],
+        "coordinates": {
+            "top": "25.61%",
+            "left": "52.06%"
+        }
     },
     {
         "country": "Dortmund",
-        "achievements": []
+        "tag": "RVA",
+        "achievements": [],
+        "coordinates": {
+            "top": "24.32%",
+            "left": "51.86%"
+        }
     },
     {
         "country": "Dithmarschen",
+        "tag": "DTT",
         "achievements": [
-            "Lessons of Hemmingstedt",
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "Lessons of Hemmingstedt",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "21.68%",
+            "left": "52.38%"
+        }
     },
     {
         "country": "Aragon",
+        "tag": "ARA",
         "achievements": [
-            "The Reapers",
+            "Consulate of the Sea",
             "Mare Nostrum",
-            "Consulate of the Sea"
-        ]
+            "The Reapers"
+        ],
+        "coordinates": {
+            "top": "34.08%",
+            "left": "50.34%"
+        }
     },
     {
         "country": "Castile",
+        "tag": "CAS",
         "achievements": [
             "Isn't this the way to India?",
             "Forever Golden",
             "Mare Nostrum"
-        ]
+        ],
+        "coordinates": {
+            "top": "35.45%",
+            "left": "48.77%"
+        }
     },
     {
         "country": "Granada",
+        "tag": "GRA",
         "achievements": [
-            "The Re-Reconquista",
-            "Dar al-Islam"
-        ]
+            "Dar al-Islam",
+            "The Re-Reconquista"
+        ],
+        "coordinates": {
+            "top": "37.79%",
+            "left": "48.79%"
+        }
     },
     {
         "country": "Navarra",
+        "tag": "NAV",
         "achievements": [
             "Basque in Glory",
             "Mare Nostrum"
-        ]
+        ],
+        "coordinates": {
+            "top": "33.11%",
+            "left": "49.39%"
+        }
     },
     {
         "country": "Portugal",
+        "tag": "POR",
         "achievements": [
             "All Blue",
-            "Not so sad a state...",
             "The Navigator",
-            "Mare Nostrum"
-        ]
+            "Mare Nostrum",
+            "Not so sad a state..."
+        ],
+        "coordinates": {
+            "top": "36.45%",
+            "left": "47.27%"
+        }
     },
     {
         "country": "Ferrara",
+        "tag": "FER",
         "achievements": [
+            "Mare Nostrum",
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
             "Italian Ambition",
             "Carthago Delenda Est",
-            "Mare Nostrum",
-            "The Emperors new clothes",
-            "Electable!",
-            "A Kaiser not just in name"
-        ]
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "30.71%",
+            "left": "53.00%"
+        }
     },
     {
         "country": "Genoa",
+        "tag": "GEN",
         "achievements": [
+            "Mare Nostrum",
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
             "Italian Ambition",
             "Carthago Delenda Est",
-            "Mare Nostrum",
-            "The Emperors new clothes",
-            "Electable!",
-            "A Kaiser not just in name"
-        ]
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "31.20%",
+            "left": "52.27%"
+        }
     },
     {
         "country": "Mantua",
+        "tag": "MAN",
         "achievements": [
+            "Mare Nostrum",
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
             "Italian Ambition",
             "Carthago Delenda Est",
-            "Mare Nostrum",
-            "The Emperors new clothes",
-            "Electable!",
-            "A Kaiser not just in name"
-        ]
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "30.47%",
+            "left": "52.68%"
+        }
     },
     {
         "country": "Milan",
+        "tag": "MLO",
         "achievements": [
+            "Mare Nostrum",
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
             "Italian Ambition",
             "Carthago Delenda Est",
-            "Mare Nostrum",
-            "The Emperors new clothes",
-            "Electable!",
-            "A Kaiser not just in name"
-        ]
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "30.08%",
+            "left": "52.27%"
+        }
     },
     {
         "country": "Naples",
+        "tag": "NAP",
         "achievements": [
             "Italian Ambition",
             "Carthago Delenda Est",
             "Not just Pizza",
             "Mare Nostrum"
-        ]
+        ],
+        "coordinates": {
+            "top": "34.52%",
+            "left": "53.84%"
+        }
     },
     {
-        "country": "The Papal State",
+        "country": "Papal",
+        "tag": "PAP",
         "achievements": [
-            "Electable!",
-            "Holiest Roman Empire",
+            "Kingdom of God",
             "Holy Trinity",
-            "Kingdom of God"
-        ]
+            "Holiest Roman Empire",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "33.54%",
+            "left": "53.28%"
+        }
     },
     {
         "country": "Savoy",
+        "tag": "SAV",
         "achievements": [
+            "Mare Nostrum",
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
             "Italian Ambition",
             "Carthago Delenda Est",
-            "Mare Nostrum",
-            "The Emperors new clothes",
-            "Electable!",
-            "A Kaiser not just in name"
-        ]
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "30.13%",
+            "left": "51.46%"
+        }
     },
     {
         "country": "Siena",
+        "tag": "SIE",
         "achievements": [
+            "Mare Nostrum",
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
             "Italian Ambition",
             "Carthago Delenda Est",
-            "Mare Nostrum",
-            "The Emperors new clothes",
-            "Electable!",
-            "A Kaiser not just in name"
-        ]
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "32.52%",
+            "left": "52.96%"
+        }
     },
     {
         "country": "Urbino",
+        "tag": "URB",
         "achievements": [
             "Italian Ambition",
             "Carthago Delenda Est",
             "Mare Nostrum"
-        ]
+        ],
+        "coordinates": {
+            "top": "31.88%",
+            "left": "53.25%"
+        }
     },
     {
         "country": "Venice",
+        "tag": "VEN",
         "achievements": [
+            "Mare Nostrum",
+            "Doge Coins",
             "Italian Ambition",
             "Carthago Delenda Est",
-            "Doge Coins",
-            "Mare Nostrum",
             "Venetian Sea"
-        ]
+        ],
+        "coordinates": {
+            "top": "30.18%",
+            "left": "53.16%"
+        }
     },
     {
         "country": "Montferrat",
+        "tag": "MFA",
         "achievements": [
+            "Mare Nostrum",
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
             "Italian Ambition",
             "Carthago Delenda Est",
-            "Mare Nostrum",
-            "The Emperors new clothes",
-            "Electable!",
-            "A Kaiser not just in name"
-        ]
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "31.01%",
+            "left": "52.04%"
+        }
     },
     {
         "country": "Lucca",
+        "tag": "LUC",
         "achievements": [
+            "Lucky Lucca",
+            "Mare Nostrum",
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
             "Italian Ambition",
             "Carthago Delenda Est",
-            "Mare Nostrum",
-            "The Emperors new clothes",
-            "Electable!",
-            "Lucky Lucca",
-            "A Kaiser not just in name"
-        ]
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "31.79%",
+            "left": "52.73%"
+        }
     },
     {
         "country": "Florence",
+        "tag": "LAN",
         "achievements": [
+            "Mare Nostrum",
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
             "Italian Ambition",
             "Carthago Delenda Est",
-            "Mare Nostrum",
-            "The Emperors new clothes",
-            "The Prince of Egypt",
             "Electable!",
-            "A Kaiser not just in name"
-        ]
+            "The Prince of Egypt"
+        ],
+        "coordinates": {
+            "top": "31.88%",
+            "left": "52.91%"
+        }
     },
     {
         "country": "Brabant",
+        "tag": "BRB",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "25.05%",
+            "left": "51.07%"
+        }
     },
     {
         "country": "Flanders",
+        "tag": "FLA",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "24.85%",
+            "left": "50.67%"
+        }
     },
     {
         "country": "Friesland",
-        "achievements": []
+        "tag": "FRI",
+        "achievements": [],
+        "coordinates": {
+            "top": "22.71%",
+            "left": "51.47%"
+        }
     },
     {
         "country": "Gelre",
+        "tag": "GEL",
         "achievements": [
             "Mare Nostrum",
+            "A Kaiser not just in name",
             "The Emperors new clothes",
-            "Electable!",
             "Je maintiendrai",
-            "A Kaiser not just in name"
-        ]
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "23.93%",
+            "left": "51.54%"
+        }
     },
     {
         "country": "Holland",
+        "tag": "HOL",
         "achievements": [
             "Mare Nostrum",
+            "A Kaiser not just in name",
             "The Emperors new clothes",
-            "Electable!",
             "Je maintiendrai",
-            "A Kaiser not just in name"
-        ]
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "24.02%",
+            "left": "50.96%"
+        }
     },
     {
         "country": "Liege",
-        "achievements": []
+        "tag": "LIE",
+        "achievements": [],
+        "coordinates": {
+            "top": "25.44%",
+            "left": "51.31%"
+        }
     },
     {
         "country": "Utrecht",
-        "achievements": []
+        "tag": "UTR",
+        "achievements": [],
+        "coordinates": {
+            "top": "23.78%",
+            "left": "51.26%"
+        }
     },
     {
         "country": "Crimea",
+        "tag": "CRI",
         "achievements": [
-            "Pyramid of Skulls",
-            "There Khan only be one!",
-            "Dar al-Islam",
+            "Gold Rush",
             "I'll graze my horse here.. And here...",
+            "Pyramid of Skulls",
             "Turning the Tide",
-            "Gold Rush"
-        ]
+            "There Khan only be one!",
+            "Dar al-Islam"
+        ],
+        "coordinates": {
+            "top": "30.37%",
+            "left": "59.14%"
+        }
     },
     {
         "country": "Georgia",
+        "tag": "GEO",
         "achievements": [
             "Mare Nostrum",
-            "Legacy of Saint George",
-            "David the Builder",
+            "Redecorating",
             "Georgia on my Mind",
-            "Redecorating"
-        ]
+            "David the Builder",
+            "Legacy of Saint George"
+        ],
+        "coordinates": {
+            "top": "33.94%",
+            "left": "62.16%"
+        }
     },
     {
         "country": "Kazan",
+        "tag": "KAZ",
         "achievements": [
+            "Gold Rush",
             "Tatarstan",
-            "There Khan only be one!",
-            "Dar al-Islam",
             "Turning the Tide",
-            "Gold Rush"
-        ]
+            "There Khan only be one!",
+            "Dar al-Islam"
+        ],
+        "coordinates": {
+            "top": "19.82%",
+            "left": "63.49%"
+        }
     },
     {
         "country": "Muscovy",
+        "tag": "MOS",
         "achievements": [
+            "Redecorating",
             "Relentless Push East",
             "Mare Nostrum",
-            "All belongs to Mother Russia",
-            "Redecorating"
-        ]
+            "All belongs to Mother Russia"
+        ],
+        "coordinates": {
+            "top": "20.02%",
+            "left": "60.16%"
+        }
     },
     {
         "country": "Novgorod",
+        "tag": "NOV",
         "achievements": [
-            "All belongs to Mother Russia",
+            "Redecorating",
             "Mare Nostrum",
-            "Relentless Push East",
             "Frozen Assets",
-            "Redecorating"
-        ]
+            "Relentless Push East",
+            "All belongs to Mother Russia"
+        ],
+        "coordinates": {
+            "top": "16.85%",
+            "left": "58.50%"
+        }
     },
     {
         "country": "Pskov",
+        "tag": "PSK",
         "achievements": [
-            "All belongs to Mother Russia",
+            "Redecorating",
             "Mare Nostrum",
-            "Relentless Push East",
             "Dovmont's Own",
-            "Redecorating"
-        ]
+            "Relentless Push East",
+            "All belongs to Mother Russia"
+        ],
+        "coordinates": {
+            "top": "17.70%",
+            "left": "57.69%"
+        }
     },
     {
         "country": "Ryazan",
+        "tag": "RYA",
         "achievements": [
             "Triple the Rome",
-            "All belongs to Mother Russia",
-            "Breaking the Yoke",
             "Mare Nostrum",
+            "Breaking the Yoke",
+            "Redecorating",
+            "In the Name of the Father",
             "Kinslayer",
             "Relentless Push East",
-            "In the Name of the Father",
-            "Redecorating"
-        ]
+            "All belongs to Mother Russia"
+        ],
+        "coordinates": {
+            "top": "21.04%",
+            "left": "60.69%"
+        }
     },
     {
         "country": "Tver",
+        "tag": "TVE",
         "achievements": [
-            "All belongs to Mother Russia",
+            "Redecorating",
             "Mare Nostrum",
-            "Relentless Push East",
             "Kinslayer",
-            "Redecorating"
-        ]
+            "Relentless Push East",
+            "All belongs to Mother Russia"
+        ],
+        "coordinates": {
+            "top": "18.60%",
+            "left": "59.84%"
+        }
     },
     {
         "country": "Yaroslavl",
+        "tag": "YAR",
         "achievements": [
-            "All belongs to Mother Russia",
+            "Redecorating",
             "Mare Nostrum",
-            "Relentless Push East",
             "Kinslayer",
-            "Redecorating"
-        ]
+            "Relentless Push East",
+            "All belongs to Mother Russia"
+        ],
+        "coordinates": {
+            "top": "17.82%",
+            "left": "60.72%"
+        }
     },
     {
         "country": "Nogai",
-        "achievements": []
+        "tag": "NOG",
+        "achievements": [],
+        "coordinates": {
+            "top": "28.71%",
+            "left": "64.26%"
+        }
     },
     {
         "country": "Perm",
-        "achievements": []
+        "tag": "PRM",
+        "achievements": [],
+        "coordinates": {
+            "top": "14.40%",
+            "left": "65.45%"
+        }
     },
     {
         "country": "Theodoro",
+        "tag": "FEO",
         "achievements": [
             "Gothic Invasion",
             "Mare Nostrum",
             "Redecorating"
-        ]
+        ],
+        "coordinates": {
+            "top": "30.81%",
+            "left": "59.16%"
+        }
     },
     {
         "country": "Beloozero",
+        "tag": "BLO",
         "achievements": [
-            "All belongs to Mother Russia",
+            "Redecorating",
             "Mare Nostrum",
-            "Relentless Push East",
             "Kinslayer",
-            "Redecorating"
-        ]
+            "Relentless Push East",
+            "All belongs to Mother Russia"
+        ],
+        "coordinates": {
+            "top": "14.89%",
+            "left": "60.10%"
+        }
     },
     {
         "country": "Rostov",
+        "tag": "RSO",
         "achievements": [
-            "All belongs to Mother Russia",
+            "Redecorating",
             "Mare Nostrum",
-            "Relentless Push East",
             "Kinslayer",
-            "Redecorating"
-        ]
+            "Relentless Push East",
+            "All belongs to Mother Russia"
+        ],
+        "coordinates": {
+            "top": "18.51%",
+            "left": "60.65%"
+        }
     },
     {
         "country": "Great Horde",
+        "tag": "GOL",
         "achievements": [
-            "Pyramid of Skulls",
-            "There Khan only be one!",
-            "KHAAAAAAN",
-            "Dar al-Islam",
+            "Gold Rush",
             "I'll graze my horse here.. And here...",
-            "The Great Khan",
+            "KHAAAAAAN",
+            "Pyramid of Skulls",
             "Turning the Tide",
-            "Gold Rush"
-        ]
+            "There Khan only be one!",
+            "The Great Khan",
+            "Dar al-Islam"
+        ],
+        "coordinates": {
+            "top": "28.47%",
+            "left": "62.80%"
+        }
     },
     {
         "country": "Aden",
-        "achievements": []
+        "tag": "ADE",
+        "achievements": [],
+        "coordinates": {
+            "top": "58.11%",
+            "left": "62.25%"
+        }
     },
     {
         "country": "Haasa",
-        "achievements": []
+        "tag": "ALH",
+        "achievements": [],
+        "coordinates": {
+            "top": "47.07%",
+            "left": "63.65%"
+        }
     },
     {
         "country": "Anizah",
-        "achievements": []
+        "tag": "ANZ",
+        "achievements": [],
+        "coordinates": {
+            "top": "44.43%",
+            "left": "60.65%"
+        }
     },
     {
         "country": "Ardalan",
-        "achievements": []
+        "tag": "ARD",
+        "achievements": [],
+        "coordinates": {
+            "top": "39.75%",
+            "left": "62.71%"
+        }
     },
     {
         "country": "Dawasir",
-        "achievements": []
+        "tag": "DAW",
+        "achievements": [],
+        "coordinates": {
+            "top": "52.78%",
+            "left": "62.32%"
+        }
     },
     {
         "country": "Fadl",
-        "achievements": []
+        "tag": "FAD",
+        "achievements": [],
+        "coordinates": {
+            "top": "40.62%",
+            "left": "60.44%"
+        }
     },
     {
         "country": "Hadramut",
-        "achievements": []
+        "tag": "HDR",
+        "achievements": [],
+        "coordinates": {
+            "top": "56.49%",
+            "left": "63.53%"
+        }
     },
     {
         "country": "Hejaz",
+        "tag": "HED",
         "achievements": [
-            "Arabian Coffee",
-            "Dar al-Islam"
-        ]
+            "Dar al-Islam",
+            "Arabian Coffee"
+        ],
+        "coordinates": {
+            "top": "51.22%",
+            "left": "60.90%"
+        }
     },
     {
         "country": "Makuria",
-        "achievements": []
+        "tag": "MAK",
+        "achievements": [],
+        "coordinates": {
+            "top": "50.39%",
+            "left": "58.72%"
+        }
     },
     {
         "country": "Medina",
-        "achievements": []
+        "tag": "MDA",
+        "achievements": [],
+        "coordinates": {
+            "top": "48.73%",
+            "left": "60.78%"
+        }
     },
     {
         "country": "Mikhlaf",
-        "achievements": []
+        "tag": "MFL",
+        "achievements": [],
+        "coordinates": {
+            "top": "55.03%",
+            "left": "61.67%"
+        }
     },
     {
         "country": "Mahra",
-        "achievements": []
+        "tag": "MHR",
+        "achievements": [],
+        "coordinates": {
+            "top": "55.91%",
+            "left": "64.15%"
+        }
     },
     {
         "country": "Najd",
+        "tag": "NAJ",
         "achievements": [
-            "Dar al-Islam",
             "Arabian Coffee",
-            "Jihad",
             "Desert Power",
-            "Sworn Fealty"
-        ]
+            "Sworn Fealty",
+            "Jihad",
+            "Dar al-Islam"
+        ],
+        "coordinates": {
+            "top": "48.97%",
+            "left": "62.84%"
+        }
     },
     {
         "country": "Najran",
-        "achievements": []
+        "tag": "NJR",
+        "achievements": [],
+        "coordinates": {
+            "top": "54.10%",
+            "left": "62.06%"
+        }
     },
     {
         "country": "Oman",
+        "tag": "OMA",
         "achievements": [
+            "Dar al-Islam",
             "The Third Way",
-            "Arabian Coffee",
-            "Dar al-Islam"
-        ]
+            "Arabian Coffee"
+        ],
+        "coordinates": {
+            "top": "50.20%",
+            "left": "65.75%"
+        }
     },
     {
         "country": "Rassids",
+        "tag": "RAS",
         "achievements": [
-            "Arabian Coffee",
-            "Dar al-Islam"
-        ]
+            "Dar al-Islam",
+            "Arabian Coffee"
+        ],
+        "coordinates": {
+            "top": "56.30%",
+            "left": "62.07%"
+        }
     },
     {
         "country": "Shammar",
-        "achievements": []
+        "tag": "SHM",
+        "achievements": [],
+        "coordinates": {
+            "top": "46.34%",
+            "left": "61.31%"
+        }
     },
     {
         "country": "Shirvan",
-        "achievements": []
+        "tag": "SRV",
+        "achievements": [],
+        "coordinates": {
+            "top": "35.06%",
+            "left": "63.57%"
+        }
     },
     {
         "country": "Yas",
-        "achievements": []
+        "tag": "YAS",
+        "achievements": [],
+        "coordinates": {
+            "top": "50.05%",
+            "left": "64.74%"
+        }
     },
     {
         "country": "Yemen",
+        "tag": "YEM",
         "achievements": [
+            "Dar al-Islam",
             "Protect the Secret",
-            "Arabian Coffee",
-            "Dar al-Islam"
-        ]
+            "Arabian Coffee"
+        ],
+        "coordinates": {
+            "top": "57.32%",
+            "left": "62.02%"
+        }
     },
     {
         "country": "Hisn Kayfa",
+        "tag": "HSN",
         "achievements": [
-            "This is Persia!",
             "Saladin's Legacy",
-            "The Eagle flies alone",
-            "Dar al-Islam"
-        ]
+            "This is Persia!",
+            "Dar al-Islam",
+            "The Eagle flies alone"
+        ],
+        "coordinates": {
+            "top": "37.50%",
+            "left": "61.43%"
+        }
     },
     {
         "country": "Bitlis",
-        "achievements": []
+        "tag": "BTL",
+        "achievements": [],
+        "coordinates": {
+            "top": "36.91%",
+            "left": "61.45%"
+        }
     },
     {
         "country": "Aq Qoyunlu",
+        "tag": "AKK",
         "achievements": [
-            "Truly Good Maaaaa-tch",
             "This is Persia!",
-            "Rise of the White Sheep",
-            "Dar al-Islam"
-        ]
+            "Dar al-Islam",
+            "Truly Good Maaaaa-tch",
+            "Rise of the White Sheep"
+        ],
+        "coordinates": {
+            "top": "37.50%",
+            "left": "60.97%"
+        }
     },
     {
         "country": "Candar",
+        "tag": "CND",
         "achievements": [
             "Dar al-Islam",
             "Turkish Delight"
-        ]
+        ],
+        "coordinates": {
+            "top": "33.69%",
+            "left": "59.52%"
+        }
     },
     {
         "country": "Dulkadir",
-        "achievements": []
+        "tag": "DUL",
+        "achievements": [],
+        "coordinates": {
+            "top": "37.65%",
+            "left": "60.05%"
+        }
     },
     {
         "country": "Karaman",
+        "tag": "KAR",
         "achievements": [
             "Dar al-Islam",
             "A Hero’s Welcome"
-        ]
+        ],
+        "coordinates": {
+            "top": "37.99%",
+            "left": "59.02%"
+        }
     },
     {
         "country": "Syria",
-        "achievements": []
+        "tag": "SYR",
+        "achievements": [],
+        "coordinates": {
+            "top": "41.26%",
+            "left": "59.91%"
+        }
     },
     {
         "country": "Trebizond",
+        "tag": "TRE",
         "achievements": [
-            "Komnenoi Empire",
             "Mare Nostrum",
+            "Komnenoi Empire",
             "Redecorating"
-        ]
+        ],
+        "coordinates": {
+            "top": "34.57%",
+            "left": "60.87%"
+        }
     },
     {
         "country": "Ramazan",
-        "achievements": []
+        "tag": "RAM",
+        "achievements": [],
+        "coordinates": {
+            "top": "38.18%",
+            "left": "59.61%"
+        }
     },
     {
         "country": "Avaria",
+        "tag": "AVR",
         "achievements": [
             "Dar al-Islam",
             "Avar Khaganate"
-        ]
+        ],
+        "coordinates": {
+            "top": "33.11%",
+            "left": "62.75%"
+        }
     },
     {
         "country": "Karabakh",
+        "tag": "MLK",
         "achievements": [
             "Mets Hayk",
             "A Blessed Nation"
-        ]
+        ],
+        "coordinates": {
+            "top": "35.64%",
+            "left": "62.77%"
+        }
     },
     {
         "country": "Samtskhe",
+        "tag": "SME",
         "achievements": [
             "Mare Nostrum",
             "Redecorating"
-        ]
+        ],
+        "coordinates": {
+            "top": "34.81%",
+            "left": "61.75%"
+        }
     },
     {
         "country": "Ardabil",
+        "tag": "ARL",
         "achievements": [
             "This is Persia!",
             "Dar al-Islam",
             "Shahanshah"
-        ]
+        ],
+        "coordinates": {
+            "top": "36.72%",
+            "left": "63.14%"
+        }
     },
     {
         "country": "Mushasha",
+        "tag": "MSY",
         "achievements": [
-            "Arabian Coffee",
-            "Dar al-Islam"
-        ]
+            "Dar al-Islam",
+            "Arabian Coffee"
+        ],
+        "coordinates": {
+            "top": "42.58%",
+            "left": "63.03%"
+        }
     },
     {
         "country": "Mamluks",
+        "tag": "MAM",
         "achievements": [
             "Breadbasket of the World",
+            "Dar al-Islam",
             "Arabian Coffee",
-            "The Levant Turnabout",
-            "Dar al-Islam"
-        ]
+            "The Levant Turnabout"
+        ],
+        "coordinates": {
+            "top": "44.26%",
+            "left": "58.52%"
+        }
     },
     {
         "country": "Morocco",
+        "tag": "MOR",
         "achievements": [
             "The Sudanese Expedition",
             "Dar al-Islam"
-        ]
+        ],
+        "coordinates": {
+            "top": "42.68%",
+            "left": "47.64%"
+        }
     },
     {
         "country": "Tunis",
+        "tag": "TUN",
         "achievements": [
+            "Dar al-Islam",
             "Sons of Carthage",
-            "Barbarossa",
-            "Dar al-Islam"
-        ]
+            "Barbarossa"
+        ],
+        "coordinates": {
+            "top": "38.62%",
+            "left": "52.63%"
+        }
     },
     {
         "country": "Tafilalt",
-        "achievements": []
+        "tag": "TFL",
+        "achievements": [],
+        "coordinates": {
+            "top": "42.43%",
+            "left": "48.56%"
+        }
     },
     {
         "country": "Sus",
-        "achievements": []
+        "tag": "SOS",
+        "achievements": [],
+        "coordinates": {
+            "top": "43.60%",
+            "left": "47.55%"
+        }
     },
     {
         "country": "Tlemcen",
+        "tag": "TLC",
         "achievements": [
-            "Barbarossa",
-            "Dar al-Islam"
-        ]
+            "Dar al-Islam",
+            "Barbarossa"
+        ],
+        "coordinates": {
+            "top": "40.14%",
+            "left": "49.47%"
+        }
     },
     {
         "country": "Touggourt",
-        "achievements": []
+        "tag": "TGT",
+        "achievements": [],
+        "coordinates": {
+            "top": "41.36%",
+            "left": "51.47%"
+        }
     },
     {
         "country": "Djerid",
-        "achievements": []
+        "tag": "GHD",
+        "achievements": [],
+        "coordinates": {
+            "top": "41.50%",
+            "left": "52.17%"
+        }
     },
     {
         "country": "Fezzan",
-        "achievements": []
+        "tag": "FZA",
+        "achievements": [],
+        "coordinates": {
+            "top": "47.17%",
+            "left": "53.64%"
+        }
     },
     {
         "country": "Mzab",
+        "tag": "MZB",
         "achievements": [
             "The Third Way",
-            "Barbarossa",
-            "Dar al-Islam"
-        ]
+            "Dar al-Islam",
+            "Barbarossa"
+        ],
+        "coordinates": {
+            "top": "42.43%",
+            "left": "51.12%"
+        }
     },
     {
         "country": "Marrakesh",
-        "achievements": []
+        "tag": "MRK",
+        "achievements": [],
+        "coordinates": {
+            "top": "42.68%",
+            "left": "47.64%"
+        }
     },
     {
         "country": "Uzbek",
+        "tag": "SHY",
         "achievements": [
-            "Back in Control",
+            "Dar al-Islam",
             "KHAAAAAAN",
             "There Khan only be one!",
-            "Dar al-Islam"
-        ]
+            "Back in Control"
+        ],
+        "coordinates": {
+            "top": "18.31%",
+            "left": "68.13%"
+        }
     },
     {
         "country": "Afghanistan",
+        "tag": "AFG",
         "achievements": [
             "This is Persia!",
-            "True Heir of Timur",
-            "Dar al-Islam"
-        ]
+            "Dar al-Islam",
+            "True Heir of Timur"
+        ],
+        "coordinates": {
+            "top": "40.77%",
+            "left": "68.84%"
+        }
     },
     {
         "country": "Khorasan",
+        "tag": "KHO",
         "achievements": [
             "This is Persia!",
-            "True Heir of Timur",
-            "Dar al-Islam"
-        ]
+            "Dar al-Islam",
+            "True Heir of Timur"
+        ],
+        "coordinates": {
+            "top": "40.48%",
+            "left": "66.96%"
+        }
     },
     {
         "country": "Qara Qoyunlu",
+        "tag": "QAR",
         "achievements": [
-            "Truly Good Maaaaa-tch",
             "This is Persia!",
+            "Dar al-Islam",
             "Baa Baa Black Sheep",
-            "Dar al-Islam"
-        ]
+            "Truly Good Maaaaa-tch"
+        ],
+        "coordinates": {
+            "top": "37.40%",
+            "left": "62.84%"
+        }
     },
     {
         "country": "Timurids",
+        "tag": "TIM",
         "achievements": [
+            "KHAAAAAAN",
             "Timurizz",
             "Back in Control",
-            "KHAAAAAAN",
-            "Dar al-Islam",
-            "This is Persia!"
-        ]
+            "This is Persia!",
+            "Dar al-Islam"
+        ],
+        "coordinates": {
+            "top": "36.72%",
+            "left": "68.27%"
+        }
     },
     {
         "country": "Transoxiana",
+        "tag": "TRS",
         "achievements": [
-            "Back in Control",
-            "KHAAAAAAN",
             "Dar al-Islam",
-            "True Heir of Timur"
-        ]
+            "KHAAAAAAN",
+            "True Heir of Timur",
+            "Back in Control"
+        ],
+        "coordinates": {
+            "top": "36.72%",
+            "left": "68.27%"
+        }
     },
     {
         "country": "Gilan",
+        "tag": "KRY",
         "achievements": [
             "This is Persia!",
             "Dar al-Islam"
-        ]
+        ],
+        "coordinates": {
+            "top": "38.04%",
+            "left": "63.69%"
+        }
     },
     {
         "country": "Circassia",
+        "tag": "CIR",
         "achievements": [
             "Mare Nostrum",
             "Redecorating"
-        ]
+        ],
+        "coordinates": {
+            "top": "31.54%",
+            "left": "61.15%"
+        }
     },
     {
         "country": "Gazikumukh",
-        "achievements": []
+        "tag": "GAZ",
+        "achievements": [],
+        "coordinates": {
+            "top": "33.40%",
+            "left": "62.94%"
+        }
     },
     {
         "country": "Mazandaran",
+        "tag": "TAB",
         "achievements": [
             "This is Persia!",
             "Dar al-Islam"
-        ]
+        ],
+        "coordinates": {
+            "top": "38.62%",
+            "left": "64.22%"
+        }
     },
     {
         "country": "Hormuz",
+        "tag": "ORM",
         "achievements": [
-            "Arabian Coffee",
+            "Dar al-Islam",
             "Strait Talk",
-            "Dar al-Islam"
-        ]
+            "Arabian Coffee"
+        ],
+        "coordinates": {
+            "top": "46.97%",
+            "left": "65.41%"
+        }
     },
     {
         "country": "Luristan",
-        "achievements": []
+        "tag": "LRI",
+        "achievements": [],
+        "coordinates": {
+            "top": "42.68%",
+            "left": "63.71%"
+        }
     },
     {
         "country": "Sistan",
+        "tag": "SIS",
         "achievements": [
             "This is Persia!",
-            "True Heir of Timur",
-            "Dar al-Islam"
-        ]
+            "Dar al-Islam",
+            "True Heir of Timur"
+        ],
+        "coordinates": {
+            "top": "43.41%",
+            "left": "66.85%"
+        }
     },
     {
         "country": "Biapas",
+        "tag": "BPI",
         "achievements": [
             "This is Persia!",
             "Dar al-Islam"
-        ]
+        ],
+        "coordinates": {
+            "top": "37.89%",
+            "left": "63.44%"
+        }
     },
     {
         "country": "Fars",
+        "tag": "FRS",
         "achievements": [
             "This is Persia!",
-            "True Heir of Timur",
-            "Dar al-Islam"
-        ]
+            "Dar al-Islam",
+            "True Heir of Timur"
+        ],
+        "coordinates": {
+            "top": "44.34%",
+            "left": "64.31%"
+        }
     },
     {
         "country": "Ajam",
+        "tag": "QOM",
         "achievements": [
             "This is Persia!",
             "Dar al-Islam"
-        ]
+        ],
+        "coordinates": {
+            "top": "40.53%",
+            "left": "64.01%"
+        }
     },
     {
         "country": "Aztec",
+        "tag": "AZT",
         "achievements": [
-            "On the Edge of Madness",
-            "Sunset Invasion"
-        ]
+            "Sunset Invasion",
+            "On the Edge of Madness"
+        ],
+        "coordinates": {
+            "top": "42.04%",
+            "left": "22.27%"
+        }
     },
     {
         "country": "Cherokee",
+        "tag": "CHE",
         "achievements": [
             "No Trail of Tears"
-        ]
+        ],
+        "coordinates": {
+            "top": "28.81%",
+            "left": "26.88%"
+        }
     },
     {
         "country": "Chimu",
-        "achievements": []
+        "tag": "CHM",
+        "achievements": [],
+        "coordinates": {
+            "top": "64.01%",
+            "left": "28.02%"
+        }
     },
     {
         "country": "Zapotec",
-        "achievements": []
+        "tag": "ZAP",
+        "achievements": [],
+        "coordinates": {
+            "top": "44.56%",
+            "left": "23.22%"
+        }
     },
     {
         "country": "Benin",
-        "achievements": []
+        "tag": "BEN",
+        "achievements": [],
+        "coordinates": {
+            "top": "63.43%",
+            "left": "51.23%"
+        }
     },
     {
         "country": "Ethiopia",
+        "tag": "ETH",
         "achievements": [
             "Prester John",
             "A Blessed Nation"
-        ]
+        ],
+        "coordinates": {
+            "top": "59.08%",
+            "left": "60.33%"
+        }
     },
     {
         "country": "Kongo",
+        "tag": "KON",
         "achievements": [
             "African Power"
-        ]
+        ],
+        "coordinates": {
+            "top": "73.54%",
+            "left": "53.82%"
+        }
     },
     {
         "country": "Mali",
+        "tag": "MAL",
         "achievements": [
+            "Dar al-Islam",
             "Mansa Musa",
-            "Abu Bakr II’s Ambition",
-            "Dar al-Islam"
-        ]
+            "Abu Bakr II’s Ambition"
+        ],
+        "coordinates": {
+            "top": "59.47%",
+            "left": "47.48%"
+        }
     },
     {
         "country": "Songhai",
+        "tag": "SON",
         "achievements": [
-            "Nobody wants to die",
+            "Dar al-Islam",
             "Ultimate Military",
-            "Dar al-Islam"
-        ]
+            "Nobody wants to die"
+        ],
+        "coordinates": {
+            "top": "55.42%",
+            "left": "49.80%"
+        }
     },
     {
         "country": "Kilwa",
+        "tag": "ZAN",
         "achievements": [
-            "Queen of Mercury",
             "Swahili Persuasion",
-            "Dar al-Islam"
-        ]
+            "Dar al-Islam",
+            "Queen of Mercury"
+        ],
+        "coordinates": {
+            "top": "75.54%",
+            "left": "60.71%"
+        }
     },
     {
         "country": "Mutapa",
+        "tag": "ZIM",
         "achievements": [
             "Shemot is Not",
             "Hanukkah Mutapa"
-        ]
+        ],
+        "coordinates": {
+            "top": "84.08%",
+            "left": "58.22%"
+        }
     },
     {
         "country": "Adal",
+        "tag": "ADA",
         "achievements": [
             "Dar al-Islam",
             "Golden Horn"
-        ]
+        ],
+        "coordinates": {
+            "top": "61.18%",
+            "left": "61.36%"
+        }
     },
     {
-        "country": "Kanem Bornu",
+        "country": "KanemBornu",
+        "tag": "KBO",
         "achievements": [
             "Dar al-Islam"
-        ]
+        ],
+        "coordinates": {
+            "top": "58.20%",
+            "left": "53.21%"
+        }
     },
     {
         "country": "Loango",
-        "achievements": []
+        "tag": "LOA",
+        "achievements": [],
+        "coordinates": {
+            "top": "71.44%",
+            "left": "53.07%"
+        }
     },
     {
         "country": "Oyo",
+        "tag": "OYO",
         "achievements": [
             "Hoarder"
-        ]
+        ],
+        "coordinates": {
+            "top": "62.26%",
+            "left": "51.38%"
+        }
     },
     {
         "country": "Jolof",
+        "tag": "JOL",
         "achievements": [
             "Dar al-Islam"
-        ]
+        ],
+        "coordinates": {
+            "top": "56.74%",
+            "left": "45.72%"
+        }
     },
     {
         "country": "Sofala",
-        "achievements": []
+        "tag": "SOF",
+        "achievements": [],
+        "coordinates": {
+            "top": "56.20%",
+            "left": "48.35%"
+        }
     },
     {
         "country": "Mombasa",
-        "achievements": []
+        "tag": "MBA",
+        "achievements": [],
+        "coordinates": {
+            "top": "71.58%",
+            "left": "60.67%"
+        }
     },
     {
         "country": "Malindi",
-        "achievements": []
+        "tag": "MLI",
+        "achievements": [],
+        "coordinates": {
+            "top": "70.56%",
+            "left": "60.87%"
+        }
     },
     {
         "country": "Ajuuraan",
+        "tag": "AJU",
         "achievements": [
             "Dar al-Islam",
             "Golden Horn"
-        ]
+        ],
+        "coordinates": {
+            "top": "67.04%",
+            "left": "62.04%"
+        }
     },
     {
         "country": "Mogadishu",
+        "tag": "MDI",
         "achievements": [
             "Dar al-Islam",
             "Golden Horn"
-        ]
+        ],
+        "coordinates": {
+            "top": "66.65%",
+            "left": "62.25%"
+        }
     },
     {
         "country": "Ennarea",
-        "achievements": []
+        "tag": "ENA",
+        "achievements": [],
+        "coordinates": {
+            "top": "61.82%",
+            "left": "59.91%"
+        }
     },
     {
         "country": "Wagadugu",
-        "achievements": []
+        "tag": "WGD",
+        "achievements": [],
+        "coordinates": {
+            "top": "59.08%",
+            "left": "49.50%"
+        }
     },
     {
         "country": "Fada N'gourma",
-        "achievements": []
+        "tag": "GUR",
+        "achievements": [],
+        "coordinates": {
+            "top": "59.20%",
+            "left": "50.11%"
+        }
     },
     {
         "country": "Ogaadeen",
-        "achievements": []
+        "tag": "OGD",
+        "achievements": [],
+        "coordinates": {
+            "top": "63.23%",
+            "left": "62.07%"
+        }
     },
     {
         "country": "Wadai",
-        "achievements": []
+        "tag": "WAD",
+        "achievements": [],
+        "coordinates": {
+            "top": "58.11%",
+            "left": "55.40%"
+        }
     },
     {
         "country": "Alodia",
-        "achievements": []
+        "tag": "ALO",
+        "achievements": [],
+        "coordinates": {
+            "top": "55.81%",
+            "left": "59.04%"
+        }
     },
     {
         "country": "Kaffa",
+        "tag": "KAF",
         "achievements": [
             "Pick Your Poison"
-        ]
+        ],
+        "coordinates": {
+            "top": "62.94%",
+            "left": "59.69%"
+        }
     },
     {
         "country": "Medri Bahri",
+        "tag": "MED",
         "achievements": [
             "A Blessed Nation"
-        ]
+        ],
+        "coordinates": {
+            "top": "56.49%",
+            "left": "60.40%"
+        }
     },
     {
         "country": "Marehan",
-        "achievements": []
+        "tag": "MRE",
+        "achievements": [],
+        "coordinates": {
+            "top": "63.09%",
+            "left": "63.03%"
+        }
     },
     {
         "country": "Pate",
-        "achievements": []
+        "tag": "PTE",
+        "achievements": [],
+        "coordinates": {
+            "top": "69.34%",
+            "left": "61.24%"
+        }
     },
     {
         "country": "Warsangali",
-        "achievements": []
+        "tag": "WAR",
+        "achievements": [],
+        "coordinates": {
+            "top": "60.11%",
+            "left": "63.17%"
+        }
     },
     {
         "country": "Beja",
-        "achievements": []
+        "tag": "BEJ",
+        "achievements": [],
+        "coordinates": {
+            "top": "55.86%",
+            "left": "59.84%"
+        }
     },
     {
         "country": "Welayta",
-        "achievements": []
+        "tag": "WLY",
+        "achievements": [],
+        "coordinates": {
+            "top": "63.18%",
+            "left": "60.14%"
+        }
     },
     {
         "country": "Damot",
-        "achievements": []
+        "tag": "DAM",
+        "achievements": [],
+        "coordinates": {
+            "top": "60.84%",
+            "left": "59.96%"
+        }
     },
     {
         "country": "Hadiya",
-        "achievements": []
+        "tag": "HDY",
+        "achievements": [],
+        "coordinates": {
+            "top": "62.11%",
+            "left": "60.49%"
+        }
     },
     {
         "country": "Janjiro",
-        "achievements": []
+        "tag": "JJI",
+        "achievements": [],
+        "coordinates": {
+            "top": "62.21%",
+            "left": "60.17%"
+        }
     },
     {
         "country": "Dongola",
-        "achievements": []
+        "tag": "ABB",
+        "achievements": [],
+        "coordinates": {
+            "top": "53.17%",
+            "left": "58.31%"
+        }
     },
     {
         "country": "Tyo",
-        "achievements": []
+        "tag": "TYO",
+        "achievements": [],
+        "coordinates": {
+            "top": "71.19%",
+            "left": "53.84%"
+        }
     },
     {
         "country": "Kasanje",
-        "achievements": []
+        "tag": "KSJ",
+        "achievements": [],
+        "coordinates": {
+            "top": "76.27%",
+            "left": "54.90%"
+        }
     },
     {
         "country": "Luba",
-        "achievements": []
+        "tag": "LUB",
+        "achievements": [],
+        "coordinates": {
+            "top": "73.73%",
+            "left": "56.96%"
+        }
     },
     {
         "country": "Lunda",
-        "achievements": []
+        "tag": "LND",
+        "achievements": [],
+        "coordinates": {
+            "top": "75.39%",
+            "left": "56.04%"
+        }
     },
     {
         "country": "Chokwe",
-        "achievements": []
+        "tag": "CKW",
+        "achievements": [],
+        "coordinates": {
+            "top": "78.08%",
+            "left": "56.39%"
+        }
     },
     {
         "country": "Kikondja",
-        "achievements": []
+        "tag": "KIK",
+        "achievements": [],
+        "coordinates": {
+            "top": "75.29%",
+            "left": "56.91%"
+        }
     },
     {
         "country": "Kazembe",
-        "achievements": []
+        "tag": "KZB",
+        "achievements": [],
+        "coordinates": {
+            "top": "75.83%",
+            "left": "57.74%"
+        }
     },
     {
         "country": "Yaka",
-        "achievements": []
+        "tag": "YAK",
+        "achievements": [],
+        "coordinates": {
+            "top": "73.00%",
+            "left": "54.62%"
+        }
     },
     {
         "country": "Kalundwe",
-        "achievements": []
+        "tag": "KLD",
+        "achievements": [],
+        "coordinates": {
+            "top": "74.07%",
+            "left": "56.41%"
+        }
     },
     {
         "country": "Kuba",
+        "tag": "KUB",
         "achievements": [
             "Kuban Cigars"
-        ]
+        ],
+        "coordinates": {
+            "top": "71.53%",
+            "left": "56.00%"
+        }
     },
     {
         "country": "Rwanda",
-        "achievements": []
+        "tag": "RWA",
+        "achievements": [],
+        "coordinates": {
+            "top": "70.12%",
+            "left": "58.06%"
+        }
     },
     {
         "country": "Burundi",
-        "achievements": []
+        "tag": "BUU",
+        "achievements": [],
+        "coordinates": {
+            "top": "71.44%",
+            "left": "58.11%"
+        }
     },
     {
         "country": "Buganda",
+        "tag": "BUG",
         "achievements": [
             "Victorian Three"
-        ]
+        ],
+        "coordinates": {
+            "top": "68.12%",
+            "left": "58.74%"
+        }
     },
     {
         "country": "Nkore",
-        "achievements": []
+        "tag": "NKO",
+        "achievements": [],
+        "coordinates": {
+            "top": "68.85%",
+            "left": "58.20%"
+        }
     },
     {
         "country": "Karagwe",
-        "achievements": []
+        "tag": "KRW",
+        "achievements": [],
+        "coordinates": {
+            "top": "69.43%",
+            "left": "58.45%"
+        }
     },
     {
         "country": "Bunyoro",
-        "achievements": []
+        "tag": "BNY",
+        "achievements": [],
+        "coordinates": {
+            "top": "67.14%",
+            "left": "58.43%"
+        }
     },
     {
         "country": "Busoga",
-        "achievements": []
+        "tag": "BSG",
+        "achievements": [],
+        "coordinates": {
+            "top": "67.77%",
+            "left": "59.04%"
+        }
     },
     {
         "country": "Buha",
-        "achievements": []
+        "tag": "UBH",
+        "achievements": [],
+        "coordinates": {
+            "top": "72.12%",
+            "left": "58.50%"
+        }
     },
     {
         "country": "Maravi",
-        "achievements": []
+        "tag": "MRA",
+        "achievements": [],
+        "coordinates": {
+            "top": "79.10%",
+            "left": "59.36%"
+        }
     },
     {
         "country": "Lundu",
-        "achievements": []
+        "tag": "LDU",
+        "achievements": [],
+        "coordinates": {
+            "top": "80.22%",
+            "left": "59.25%"
+        }
     },
     {
         "country": "Tumbuka",
-        "achievements": []
+        "tag": "TBK",
+        "achievements": [],
+        "coordinates": {
+            "top": "77.34%",
+            "left": "59.09%"
+        }
     },
     {
         "country": "Makua",
-        "achievements": []
+        "tag": "MKU",
+        "achievements": [],
+        "coordinates": {
+            "top": "80.13%",
+            "left": "60.44%"
+        }
     },
     {
         "country": "Butua",
-        "achievements": []
+        "tag": "RZW",
+        "achievements": [],
+        "coordinates": {
+            "top": "82.67%",
+            "left": "58.10%"
+        }
     },
     {
         "country": "Imerina",
+        "tag": "MIR",
         "achievements": [
             "Where are the penguins?"
-        ]
+        ],
+        "coordinates": {
+            "top": "83.06%",
+            "left": "63.03%"
+        }
     },
     {
         "country": "Sakalava",
-        "achievements": []
+        "tag": "SKA",
+        "achievements": [],
+        "coordinates": {
+            "top": "84.18%",
+            "left": "62.14%"
+        }
     },
     {
         "country": "Betsimisaraka",
+        "tag": "BTS",
         "achievements": [
             "Where are the penguins?"
-        ]
+        ],
+        "coordinates": {
+            "top": "83.59%",
+            "left": "63.30%"
+        }
     },
     {
         "country": "Mahafaly",
-        "achievements": []
+        "tag": "MFY",
+        "achievements": [],
+        "coordinates": {
+            "top": "87.65%",
+            "left": "62.06%"
+        }
     },
     {
         "country": "Antemoro",
+        "tag": "ANT",
         "achievements": [
             "Where are the penguins?",
             "Dar al-Islam"
-        ]
+        ],
+        "coordinates": {
+            "top": "85.40%",
+            "left": "63.00%"
+        }
     },
     {
         "country": "Arakan",
-        "achievements": []
+        "tag": "ARK",
+        "achievements": [],
+        "coordinates": {
+            "top": "52.15%",
+            "left": "75.67%"
+        }
     },
     {
         "country": "Aceh",
+        "tag": "ATJ",
         "achievements": [
             "Dar al-Islam"
-        ]
+        ],
+        "coordinates": {
+            "top": "64.50%",
+            "left": "76.37%"
+        }
     },
     {
         "country": "Ayutthaya",
+        "tag": "AYU",
         "achievements": [
             "The White Elephant"
-        ]
+        ],
+        "coordinates": {
+            "top": "56.98%",
+            "left": "77.59%"
+        }
     },
     {
         "country": "Bali",
-        "achievements": []
+        "tag": "BLI",
+        "achievements": [],
+        "coordinates": {
+            "top": "74.78%",
+            "left": "81.79%"
+        }
     },
     {
         "country": "Brunei",
+        "tag": "BEI",
         "achievements": [
             "Dar al-Islam"
-        ]
+        ],
+        "coordinates": {
+            "top": "64.94%",
+            "left": "81.71%"
+        }
     },
     {
         "country": "Champa",
-        "achievements": []
+        "tag": "CHA",
+        "achievements": [],
+        "coordinates": {
+            "top": "57.23%",
+            "left": "80.01%"
+        }
     },
     {
         "country": "Moghulistan",
+        "tag": "CHG",
         "achievements": [
-            "Pyramid of Skulls",
-            "There Khan only be one!",
-            "Back in Control",
-            "Dar al-Islam",
             "I'll graze my horse here.. And here...",
-            "Turning the Tide"
-        ]
+            "Pyramid of Skulls",
+            "Back in Control",
+            "Turning the Tide",
+            "There Khan only be one!",
+            "Dar al-Islam"
+        ],
+        "coordinates": {
+            "top": "30.96%",
+            "left": "72.41%"
+        }
     },
     {
         "country": "Dai Viet",
+        "tag": "DAI",
         "achievements": [
             "Disciples of Enlightenment"
-        ]
+        ],
+        "coordinates": {
+            "top": "51.56%",
+            "left": "79.01%"
+        }
     },
     {
         "country": "Amago",
+        "tag": "AMA",
         "achievements": [
-            "Sakoku Law",
-            "Made in Japan",
+            "Kirishitan Japan",
             "The Chrysanthemum Throne",
-            "Kirishitan Japan"
-        ]
+            "Made in Japan",
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "39.60%",
+            "left": "86.72%"
+        }
     },
     {
         "country": "Date",
+        "tag": "DTE",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "37.50%",
+            "left": "88.69%"
+        }
     },
     {
         "country": "Hosokawa",
+        "tag": "HSK",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "40.09%",
+            "left": "87.36%"
+        }
     },
     {
         "country": "Hatakeyama",
+        "tag": "HTK",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "38.33%",
+            "left": "87.75%"
+        }
     },
     {
         "country": "Imagawa",
+        "tag": "IMG",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "39.75%",
+            "left": "88.19%"
+        }
     },
     {
         "country": "Oda",
+        "tag": "ODA",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "39.79%",
+            "left": "87.77%"
+        }
     },
     {
         "country": "Otomo",
+        "tag": "OTM",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "41.55%",
+            "left": "86.20%"
+        }
     },
     {
         "country": "Ouchi",
+        "tag": "OUC",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "40.62%",
+            "left": "86.27%"
+        }
     },
     {
         "country": "Shiba",
+        "tag": "SBA",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "38.96%",
+            "left": "87.62%"
+        }
     },
     {
         "country": "Shimazu",
+        "tag": "SMZ",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "42.72%",
+            "left": "85.96%"
+        }
     },
     {
         "country": "Takeda",
+        "tag": "TKD",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "39.45%",
+            "left": "88.21%"
+        }
     },
     {
         "country": "Tokugawa",
+        "tag": "TKG",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "40.14%",
+            "left": "87.91%"
+        }
     },
     {
         "country": "Uesugi",
+        "tag": "UES",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "38.57%",
+            "left": "88.39%"
+        }
     },
     {
         "country": "Yamana",
+        "tag": "YMN",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "39.55%",
+            "left": "87.09%"
+        }
     },
     {
         "country": "Nanbu",
+        "tag": "RFR",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "34.96%",
+            "left": "88.97%"
+        }
     },
     {
         "country": "Ashikaga",
+        "tag": "ASK",
         "achievements": [
-            "Sakoku Law",
+            "Cherrypicking",
             "Made in Japan",
-            "Cherrypicking"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "39.87%",
+            "left": "87.50%"
+        }
     },
     {
         "country": "Kitabatake",
+        "tag": "KTB",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "40.48%",
+            "left": "87.71%"
+        }
     },
     {
         "country": "Ainu",
-        "achievements": []
+        "tag": "ANU",
+        "achievements": [],
+        "coordinates": {
+            "top": "32.37%",
+            "left": "89.67%"
+        }
     },
     {
         "country": "Ando",
+        "tag": "AKT",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "35.60%",
+            "left": "88.67%"
+        }
     },
     {
         "country": "Chiba",
+        "tag": "CBA",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "39.45%",
+            "left": "88.65%"
+        }
     },
     {
         "country": "Isshiki",
+        "tag": "ISK",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "39.45%",
+            "left": "87.29%"
+        }
     },
     {
         "country": "Ito",
+        "tag": "ITO",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "42.53%",
+            "left": "86.22%"
+        }
     },
     {
         "country": "Kikuchi",
+        "tag": "KKC",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "42.09%",
+            "left": "86.03%"
+        }
     },
     {
         "country": "Kono",
+        "tag": "KNO",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "41.11%",
+            "left": "86.59%"
+        }
     },
     {
         "country": "Ogasawara",
+        "tag": "OGS",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "38.92%",
+            "left": "88.09%"
+        }
     },
     {
         "country": "Shoni",
+        "tag": "SHN",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "41.60%",
+            "left": "85.83%"
+        }
     },
     {
         "country": "Satake",
+        "tag": "STK",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "38.67%",
+            "left": "88.73%"
+        }
     },
     {
         "country": "Toki",
+        "tag": "TKI",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "39.36%",
+            "left": "87.80%"
+        }
     },
     {
         "country": "Utsunomiya",
+        "tag": "UTN",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "38.53%",
+            "left": "88.60%"
+        }
     },
     {
         "country": "Tsutsui",
+        "tag": "TTI",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "40.58%",
+            "left": "87.50%"
+        }
     },
     {
         "country": "Mongolia",
+        "tag": "KHA",
         "achievements": [
-            "Pyramid of Skulls",
-            "Back in Control",
-            "KHAAAAAAN",
             "I'll graze my horse here.. And here...",
+            "KHAAAAAAN",
+            "Pyramid of Skulls",
             "Blood for the Sky God!",
+            "Back in Control",
             "The Great Khan"
-        ]
+        ],
+        "coordinates": {
+            "top": "27.34%",
+            "left": "79.31%"
+        }
     },
     {
         "country": "Khmer",
-        "achievements": []
+        "tag": "KHM",
+        "achievements": [],
+        "coordinates": {
+            "top": "59.23%",
+            "left": "78.92%"
+        }
     },
     {
         "country": "Korea",
+        "tag": "KOR",
         "achievements": [
-            "Choson One",
             "Turtles all the way down",
+            "Choson One",
             "Sweet Harmony"
-        ]
+        ],
+        "coordinates": {
+            "top": "37.26%",
+            "left": "84.89%"
+        }
     },
     {
-        "country": "Lan Na",
-        "achievements": []
+        "country": "LanNa",
+        "tag": "LNA",
+        "achievements": [],
+        "coordinates": {
+            "top": "53.37%",
+            "left": "77.08%"
+        }
     },
     {
-        "country": "Lan Xang",
-        "achievements": []
+        "country": "LanXang",
+        "tag": "LXA",
+        "achievements": [],
+        "coordinates": {
+            "top": "52.59%",
+            "left": "78.09%"
+        }
     },
     {
         "country": "Majapahit",
+        "tag": "MAJ",
         "achievements": [
             "The Spice Must Flow"
-        ]
+        ],
+        "coordinates": {
+            "top": "73.78%",
+            "left": "80.91%"
+        }
     },
     {
         "country": "Makassar",
-        "achievements": []
+        "tag": "MKS",
+        "achievements": [],
+        "coordinates": {
+            "top": "72.31%",
+            "left": "82.97%"
+        }
     },
     {
         "country": "Malacca",
+        "tag": "MLC",
         "achievements": [
-            "The Spice Must Flow",
-            "Dar al-Islam"
-        ]
+            "Dar al-Islam",
+            "The Spice Must Flow"
+        ],
+        "coordinates": {
+            "top": "66.65%",
+            "left": "78.21%"
+        }
     },
     {
         "country": "Ming",
+        "tag": "MNG",
         "achievements": [
             "Copium Wars",
             "Kow-Tow"
-        ]
+        ],
+        "coordinates": {
+            "top": "42.38%",
+            "left": "82.76%"
+        }
     },
     {
         "country": "Oirat",
+        "tag": "OIR",
         "achievements": [
-            "Pyramid of Skulls",
-            "There Khan only be one!",
-            "Back in Control",
-            "KHAAAAAAN",
             "I'll graze my horse here.. And here...",
+            "KHAAAAAAN",
+            "Pyramid of Skulls",
+            "Back in Control",
+            "There Khan only be one!",
             "Turning the Tide"
-        ]
+        ],
+        "coordinates": {
+            "top": "28.32%",
+            "left": "75.32%"
+        }
     },
     {
         "country": "Pattani",
+        "tag": "PAT",
         "achievements": [
-            "The Spice Must Flow",
-            "Dar al-Islam"
-        ]
+            "Dar al-Islam",
+            "The Spice Must Flow"
+        ],
+        "coordinates": {
+            "top": "63.23%",
+            "left": "77.89%"
+        }
     },
     {
         "country": "Pegu",
+        "tag": "PEG",
         "achievements": [
-            "Sailor Mon",
-            "That's No Mon"
-        ]
+            "That's No Mon",
+            "Sailor Mon"
+        ],
+        "coordinates": {
+            "top": "54.39%",
+            "left": "76.53%"
+        }
     },
     {
         "country": "Ryukyu",
+        "tag": "RYU",
         "achievements": [
             "The Three Mountains"
-        ]
+        ],
+        "coordinates": {
+            "top": "46.53%",
+            "left": "85.48%"
+        }
     },
     {
         "country": "Sukhothai",
-        "achievements": []
+        "tag": "SUK",
+        "achievements": [],
+        "coordinates": {
+            "top": "54.79%",
+            "left": "77.33%"
+        }
     },
     {
         "country": "Sulu",
+        "tag": "SUL",
         "achievements": [
-            "The Spice Must Flow",
-            "Dar al-Islam"
-        ]
+            "Dar al-Islam",
+            "The Spice Must Flow"
+        ],
+        "coordinates": {
+            "top": "63.82%",
+            "left": "83.38%"
+        }
     },
     {
         "country": "Taungu",
+        "tag": "TAU",
         "achievements": [
             "The First Toungoo Empire"
-        ]
+        ],
+        "coordinates": {
+            "top": "53.32%",
+            "left": "76.51%"
+        }
     },
     {
         "country": "So",
+        "tag": "SOO",
         "achievements": [
             "Kirishitan Japan",
+            "The Chrysanthemum Throne",
             "Made in Japan",
-            "Sakoku Law",
-            "The Chrysanthemum Throne"
-        ]
+            "Sakoku Law"
+        ],
+        "coordinates": {
+            "top": "40.33%",
+            "left": "85.67%"
+        }
     },
     {
         "country": "Nivkh",
-        "achievements": []
+        "tag": "NVK",
+        "achievements": [],
+        "coordinates": {
+            "top": "23.05%",
+            "left": "88.69%"
+        }
     },
     {
         "country": "Solon",
-        "achievements": []
+        "tag": "SOL",
+        "achievements": [],
+        "coordinates": {
+            "top": "22.36%",
+            "left": "84.61%"
+        }
     },
     {
         "country": "Nanai",
-        "achievements": []
+        "tag": "EJZ",
+        "achievements": [],
+        "coordinates": {
+            "top": "29.98%",
+            "left": "86.68%"
+        }
     },
     {
         "country": "Orochoni",
-        "achievements": []
+        "tag": "NHX",
+        "achievements": [],
+        "coordinates": {
+            "top": "31.05%",
+            "left": "87.06%"
+        }
     },
     {
         "country": "Xibe",
-        "achievements": []
+        "tag": "MYR",
+        "achievements": [],
+        "coordinates": {
+            "top": "28.32%",
+            "left": "85.16%"
+        }
     },
     {
         "country": "Haixi",
-        "achievements": []
+        "tag": "MHX",
+        "achievements": [],
+        "coordinates": {
+            "top": "32.62%",
+            "left": "84.43%"
+        }
     },
     {
         "country": "Jianzhou",
+        "tag": "MJZ",
         "achievements": [
-            "Pyramid of Skulls",
-            "There Khan only be one!",
-            "These Banners need a Saga",
+            "A Manchurian Candidate",
             "I'll graze my horse here.. And here...",
+            "Pyramid of Skulls",
+            "These Banners need a Saga",
+            "There Khan only be one!",
             "Qing of China",
-            "Turning the Tide",
-            "A Manchurian Candidate"
-        ]
+            "Turning the Tide"
+        ],
+        "coordinates": {
+            "top": "34.28%",
+            "left": "84.61%"
+        }
     },
     {
         "country": "Korchin",
+        "tag": "KRC",
         "achievements": [
-            "Pyramid of Skulls",
-            "There Khan only be one!",
-            "Back in Control",
             "I'll graze my horse here.. And here...",
+            "Pyramid of Skulls",
+            "Back in Control",
+            "There Khan only be one!",
             "Turning the Tide"
-        ]
+        ],
+        "coordinates": {
+            "top": "31.10%",
+            "left": "84.23%"
+        }
     },
     {
         "country": "Kara Del",
-        "achievements": []
+        "tag": "HMI",
+        "achievements": [],
+        "coordinates": {
+            "top": "32.96%",
+            "left": "76.08%"
+        }
     },
     {
         "country": "Yarkand",
+        "tag": "KAS",
         "achievements": [
-            "Back in Control",
-            "Dar al-Islam"
-        ]
+            "Dar al-Islam",
+            "Back in Control"
+        ],
+        "coordinates": {
+            "top": "36.23%",
+            "left": "70.86%"
+        }
     },
     {
-        "country": "Sarig Yogir",
-        "achievements": []
+        "country": "Sarigyogir",
+        "tag": "SYG",
+        "achievements": [],
+        "coordinates": {
+            "top": "37.21%",
+            "left": "75.57%"
+        }
     },
     {
         "country": "Tsang",
-        "achievements": []
+        "tag": "UTS",
+        "achievements": [],
+        "coordinates": {
+            "top": "44.48%",
+            "left": "75.16%"
+        }
     },
     {
         "country": "Kham",
-        "achievements": []
+        "tag": "KAM",
+        "achievements": [],
+        "coordinates": {
+            "top": "42.09%",
+            "left": "77.50%"
+        }
     },
     {
         "country": "Guge",
-        "achievements": []
+        "tag": "GUG",
+        "achievements": [],
+        "coordinates": {
+            "top": "42.53%",
+            "left": "72.03%"
+        }
     },
     {
         "country": "U",
-        "achievements": []
+        "tag": "PHA",
+        "achievements": [],
+        "coordinates": {
+            "top": "45.17%",
+            "left": "75.28%"
+        }
     },
     {
         "country": "Baluchistan",
+        "tag": "BAL",
         "achievements": [
             "This is Persia!",
             "Dar al-Islam"
-        ]
+        ],
+        "coordinates": {
+            "top": "43.70%",
+            "left": "68.61%"
+        }
     },
     {
         "country": "Bengal",
+        "tag": "BNG",
         "achievements": [
+            "Bengal Tiger",
             "The Sun Never Sets on the Indian Empire",
-            "Dar al-Islam",
-            "Bengal Tiger"
-        ]
+            "Dar al-Islam"
+        ],
+        "coordinates": {
+            "top": "48.29%",
+            "left": "74.29%"
+        }
     },
     {
         "country": "Bahmanis",
+        "tag": "BAH",
         "achievements": [
             "The Sun Never Sets on the Indian Empire",
-            "Dar al-Islam",
-            "A tale of two Families"
-        ]
+            "A tale of two Families",
+            "Dar al-Islam"
+        ],
+        "coordinates": {
+            "top": "54.00%",
+            "left": "71.31%"
+        }
     },
     {
         "country": "Delhi",
+        "tag": "DLH",
         "achievements": [
             "The Sun Never Sets on the Indian Empire",
-            "Emperor of Hindustan",
-            "Dar al-Islam"
-        ]
+            "Dar al-Islam",
+            "Emperor of Hindustan"
+        ],
+        "coordinates": {
+            "top": "45.56%",
+            "left": "71.29%"
+        }
     },
     {
         "country": "Mysore",
+        "tag": "MYS",
         "achievements": [
             "The Sun Never Sets on the Indian Empire",
             "Tiger of Mysore"
-        ]
+        ],
+        "coordinates": {
+            "top": "58.94%",
+            "left": "71.02%"
+        }
     },
     {
         "country": "Vijayanagar",
+        "tag": "VIJ",
         "achievements": [
             "The Sun Never Sets on the Indian Empire",
             "A tale of two Families"
-        ]
+        ],
+        "coordinates": {
+            "top": "56.54%",
+            "left": "71.06%"
+        }
     },
     {
         "country": "Assam",
+        "tag": "ASS",
         "achievements": [
             "The Sun Never Sets on the Indian Empire"
-        ]
+        ],
+        "coordinates": {
+            "top": "46.83%",
+            "left": "76.10%"
+        }
     },
     {
         "country": "Gujarat",
+        "tag": "GUJ",
         "achievements": [
             "The Sun Never Sets on the Indian Empire",
             "Dar al-Islam"
-        ]
+        ],
+        "coordinates": {
+            "top": "50.10%",
+            "left": "69.89%"
+        }
     },
     {
         "country": "Jaunpur",
+        "tag": "JNP",
         "achievements": [
             "The Sun Never Sets on the Indian Empire",
             "Dar al-Islam"
-        ]
+        ],
+        "coordinates": {
+            "top": "47.85%",
+            "left": "72.69%"
+        }
     },
     {
         "country": "Madurai",
+        "tag": "MAD",
         "achievements": [
-            "Pandya Empire",
-            "The Sun Never Sets on the Indian Empire"
-        ]
+            "The Sun Never Sets on the Indian Empire",
+            "Pandya Empire"
+        ],
+        "coordinates": {
+            "top": "61.57%",
+            "left": "71.40%"
+        }
     },
     {
         "country": "Malwa",
+        "tag": "MLW",
         "achievements": [
             "The Sun Never Sets on the Indian Empire",
             "Dar al-Islam"
-        ]
+        ],
+        "coordinates": {
+            "top": "50.44%",
+            "left": "70.74%"
+        }
     },
     {
         "country": "Mewar",
+        "tag": "MER",
         "achievements": [
-            "Maharana Pratap",
+            "Mewar Never Changes",
             "The Sun Never Sets on the Indian Empire",
-            "Mewar Never Changes"
-        ]
+            "Maharana Pratap"
+        ],
+        "coordinates": {
+            "top": "48.73%",
+            "left": "70.65%"
+        }
     },
     {
         "country": "Multan",
-        "achievements": []
+        "tag": "MUL",
+        "achievements": [],
+        "coordinates": {
+            "top": "44.48%",
+            "left": "69.64%"
+        }
     },
     {
         "country": "Orissa",
+        "tag": "ORI",
         "achievements": [
-            "Foremost Servitor of Jagannath",
-            "The Sun Never Sets on the Indian Empire"
-        ]
+            "The Sun Never Sets on the Indian Empire",
+            "Foremost Servitor of Jagannath"
+        ],
+        "coordinates": {
+            "top": "52.10%",
+            "left": "73.69%"
+        }
     },
     {
         "country": "Sindh",
+        "tag": "SND",
         "achievements": [
             "Forgive me, for I have Sindh",
-            "The Sun Never Sets on the Indian Empire",
-            "Dar al-Islam"
-        ]
+            "Dar al-Islam",
+            "The Sun Never Sets on the Indian Empire"
+        ],
+        "coordinates": {
+            "top": "48.73%",
+            "left": "68.55%"
+        }
     },
     {
         "country": "Jangladesh",
-        "achievements": []
+        "tag": "SND",
+        "achievements": [],
+        "coordinates": {
+            "top": "48.73%",
+            "left": "68.55%"
+        }
     },
     {
         "country": "Garha",
-        "achievements": []
+        "tag": "GDW",
+        "achievements": [],
+        "coordinates": {
+            "top": "49.85%",
+            "left": "71.96%"
+        }
     },
     {
         "country": "Garjat",
-        "achievements": []
+        "tag": "GRJ",
+        "achievements": [],
+        "coordinates": {
+            "top": "52.29%",
+            "left": "73.49%"
+        }
     },
     {
         "country": "Gwalior",
-        "achievements": []
+        "tag": "GWA",
+        "achievements": [],
+        "coordinates": {
+            "top": "47.36%",
+            "left": "71.48%"
+        }
     },
     {
         "country": "Dhundhar",
+        "tag": "DHU",
         "achievements": [
             "The Sun Never Sets on the Indian Empire"
-        ]
+        ],
+        "coordinates": {
+            "top": "46.83%",
+            "left": "70.93%"
+        }
     },
     {
         "country": "Kashmir",
-        "achievements": []
+        "tag": "KSH",
+        "achievements": [],
+        "coordinates": {
+            "top": "41.11%",
+            "left": "70.61%"
+        }
     },
     {
         "country": "Khandesh",
-        "achievements": []
+        "tag": "KHD",
+        "achievements": [],
+        "coordinates": {
+            "top": "51.12%",
+            "left": "71.11%"
+        }
     },
     {
         "country": "Venad",
-        "achievements": []
+        "tag": "VND",
+        "achievements": [],
+        "coordinates": {
+            "top": "61.52%",
+            "left": "71.09%"
+        }
     },
     {
         "country": "Calicut",
-        "achievements": []
+        "tag": "MAB",
+        "achievements": [],
+        "coordinates": {
+            "top": "59.72%",
+            "left": "70.93%"
+        }
     },
     {
         "country": "Mewat",
-        "achievements": []
+        "tag": "MEW",
+        "achievements": [],
+        "coordinates": {
+            "top": "46.00%",
+            "left": "71.13%"
+        }
     },
     {
         "country": "Bastar",
-        "achievements": []
+        "tag": "BST",
+        "achievements": [],
+        "coordinates": {
+            "top": "53.32%",
+            "left": "72.46%"
+        }
     },
     {
         "country": "Bundelkhand",
-        "achievements": []
+        "tag": "BND",
+        "achievements": [],
+        "coordinates": {
+            "top": "48.54%",
+            "left": "71.80%"
+        }
     },
     {
         "country": "Kotte",
+        "tag": "CEY",
         "achievements": [
-            "The Sun Never Sets on the Indian Empire",
-            "The Buddhists Strike Back"
-        ]
+            "The Buddhists Strike Back",
+            "The Sun Never Sets on the Indian Empire"
+        ],
+        "coordinates": {
+            "top": "63.33%",
+            "left": "72.05%"
+        }
     },
     {
         "country": "Jaisalmer",
-        "achievements": []
+        "tag": "JSL",
+        "achievements": [],
+        "coordinates": {
+            "top": "46.53%",
+            "left": "69.32%"
+        }
     },
     {
         "country": "Kachar",
-        "achievements": []
+        "tag": "KAC",
+        "achievements": [],
+        "coordinates": {
+            "top": "47.66%",
+            "left": "75.67%"
+        }
     },
     {
         "country": "Koch",
-        "achievements": []
+        "tag": "KMT",
+        "achievements": [],
+        "coordinates": {
+            "top": "47.27%",
+            "left": "74.54%"
+        }
     },
     {
         "country": "Kangra",
+        "tag": "KGR",
         "achievements": [
             "The Sun Never Sets on the Indian Empire"
-        ]
+        ],
+        "coordinates": {
+            "top": "42.43%",
+            "left": "71.18%"
+        }
     },
     {
         "country": "Kutch",
-        "achievements": []
+        "tag": "KAT",
+        "achievements": [],
+        "coordinates": {
+            "top": "49.90%",
+            "left": "69.14%"
+        }
     },
     {
         "country": "Kochin",
-        "achievements": []
+        "tag": "KOC",
+        "achievements": [],
+        "coordinates": {
+            "top": "60.45%",
+            "left": "71.02%"
+        }
     },
     {
         "country": "Manipur",
+        "tag": "MLB",
         "achievements": [
-            "Ganges Khan",
-            "The Animal Kingdom"
-        ]
+            "The Animal Kingdom",
+            "Ganges Khan"
+        ],
+        "coordinates": {
+            "top": "48.78%",
+            "left": "75.87%"
+        }
     },
     {
         "country": "Hadoti",
-        "achievements": []
+        "tag": "HAD",
+        "achievements": [],
+        "coordinates": {
+            "top": "48.49%",
+            "left": "70.90%"
+        }
     },
     {
         "country": "Nagaur",
+        "tag": "NGA",
         "achievements": [
             "Raja of the Rajput Reich",
-            "The Sun Never Sets on the Indian Empire",
-            "Dar al-Islam"
-        ]
+            "Dar al-Islam",
+            "The Sun Never Sets on the Indian Empire"
+        ],
+        "coordinates": {
+            "top": "46.34%",
+            "left": "70.28%"
+        }
     },
     {
         "country": "Ladakh",
+        "tag": "LDK",
         "achievements": [
             "Ganges Khan"
-        ]
+        ],
+        "coordinates": {
+            "top": "40.62%",
+            "left": "71.41%"
+        }
     },
     {
         "country": "Baghelkhand",
-        "achievements": []
+        "tag": "BGL",
+        "achievements": [],
+        "coordinates": {
+            "top": "48.88%",
+            "left": "72.32%"
+        }
     },
     {
         "country": "Jaffna",
-        "achievements": []
+        "tag": "JFN",
+        "achievements": [],
+        "coordinates": {
+            "top": "61.08%",
+            "left": "72.09%"
+        }
     },
     {
         "country": "Garhwal",
+        "tag": "GHR",
         "achievements": [
-            "The 52 Garhs",
-            "The Sun Never Sets on the Indian Empire"
-        ]
+            "The Sun Never Sets on the Indian Empire",
+            "The 52 Garhs"
+        ],
+        "coordinates": {
+            "top": "43.70%",
+            "left": "71.59%"
+        }
     },
     {
         "country": "Chanda",
-        "achievements": []
+        "tag": "CHD",
+        "achievements": [],
+        "coordinates": {
+            "top": "52.64%",
+            "left": "71.88%"
+        }
     },
     {
         "country": "Jharkhand",
-        "achievements": []
+        "tag": "NGP",
+        "achievements": [],
+        "coordinates": {
+            "top": "49.76%",
+            "left": "73.51%"
+        }
     },
     {
         "country": "Tirhut",
+        "tag": "TRT",
         "achievements": [
             "The Sun Never Sets on the Indian Empire"
-        ]
+        ],
+        "coordinates": {
+            "top": "47.22%",
+            "left": "73.63%"
+        }
     },
     {
         "country": "Rewa Kantha",
-        "achievements": []
+        "tag": "CMP",
+        "achievements": [],
+        "coordinates": {
+            "top": "50.59%",
+            "left": "70.44%"
+        }
     },
     {
         "country": "Baglana",
-        "achievements": []
+        "tag": "BGA",
+        "achievements": [],
+        "coordinates": {
+            "top": "52.15%",
+            "left": "70.40%"
+        }
     },
     {
         "country": "Tripura",
-        "achievements": []
+        "tag": "TPR",
+        "achievements": [],
+        "coordinates": {
+            "top": "49.46%",
+            "left": "75.51%"
+        }
     },
     {
         "country": "Sadiya",
+        "tag": "SDY",
         "achievements": [
-            "Ganges Khan",
-            "The Sun Never Sets on the Indian Empire"
-        ]
+            "The Sun Never Sets on the Indian Empire",
+            "Ganges Khan"
+        ],
+        "coordinates": {
+            "top": "45.80%",
+            "left": "76.35%"
+        }
     },
     {
         "country": "Andhra",
+        "tag": "YOR",
         "achievements": [
             "The Sun Never Sets on the Indian Empire"
-        ]
+        ],
+        "coordinates": {
+            "top": "54.88%",
+            "left": "72.48%"
+        }
     },
     {
         "country": "Maldives",
-        "achievements": []
+        "tag": "DGL",
+        "achievements": [],
+        "coordinates": {
+            "top": "68.16%",
+            "left": "69.99%"
+        }
     },
     {
         "country": "Bishnupur",
-        "achievements": []
+        "tag": "MBL",
+        "achievements": [],
+        "coordinates": {
+            "top": "50.00%",
+            "left": "73.92%"
+        }
     },
     {
         "country": "Idar",
-        "achievements": []
+        "tag": "IDR",
+        "achievements": [],
+        "coordinates": {
+            "top": "49.37%",
+            "left": "70.10%"
+        }
     },
     {
         "country": "Jhalavad",
-        "achievements": []
+        "tag": "JLV",
+        "achievements": [],
+        "coordinates": {
+            "top": "50.05%",
+            "left": "69.53%"
+        }
     },
     {
         "country": "Palitana",
-        "achievements": []
+        "tag": "PTL",
+        "achievements": [],
+        "coordinates": {
+            "top": "50.98%",
+            "left": "69.73%"
+        }
     },
     {
         "country": "Junagarh",
-        "achievements": []
+        "tag": "JGD",
+        "achievements": [],
+        "coordinates": {
+            "top": "51.37%",
+            "left": "69.28%"
+        }
     },
     {
         "country": "Porbandar",
-        "achievements": []
+        "tag": "PRB",
+        "achievements": [],
+        "coordinates": {
+            "top": "51.27%",
+            "left": "69.19%"
+        }
     },
     {
         "country": "Kalinjar",
-        "achievements": []
+        "tag": "PAN",
+        "achievements": [],
+        "coordinates": {
+            "top": "48.93%",
+            "left": "72.02%"
+        }
     },
     {
         "country": "Kalpi",
-        "achievements": []
+        "tag": "KLP",
+        "achievements": [],
+        "coordinates": {
+            "top": "47.61%",
+            "left": "71.84%"
+        }
     },
     {
         "country": "Patna",
+        "tag": "PTT",
         "achievements": [
             "Ganges Khan"
-        ]
+        ],
+        "coordinates": {
+            "top": "52.25%",
+            "left": "72.66%"
+        }
     },
     {
         "country": "Ratanpur",
-        "achievements": []
+        "tag": "RTT",
+        "achievements": [],
+        "coordinates": {
+            "top": "50.73%",
+            "left": "72.69%"
+        }
     },
     {
         "country": "Kalahandi",
-        "achievements": []
+        "tag": "KLH",
+        "achievements": [],
+        "coordinates": {
+            "top": "52.54%",
+            "left": "72.83%"
+        }
     },
     {
         "country": "Keonhjar",
-        "achievements": []
+        "tag": "KJH",
+        "achievements": [],
+        "coordinates": {
+            "top": "50.78%",
+            "left": "73.72%"
+        }
     },
     {
         "country": "Parlakhimidi",
-        "achievements": []
+        "tag": "PRD",
+        "achievements": [],
+        "coordinates": {
+            "top": "52.83%",
+            "left": "73.10%"
+        }
     },
     {
         "country": "Jeypore",
-        "achievements": []
+        "tag": "JPR",
+        "achievements": [],
+        "coordinates": {
+            "top": "53.12%",
+            "left": "72.78%"
+        }
     },
     {
         "country": "Kandy",
+        "tag": "KND",
         "achievements": [
-            "The Sun Never Sets on the Indian Empire",
-            "The Buddhists Strike Back"
-        ]
+            "The Buddhists Strike Back",
+            "The Sun Never Sets on the Indian Empire"
+        ],
+        "coordinates": {
+            "top": "62.70%",
+            "left": "72.30%"
+        }
     },
     {
         "country": "Telingana",
-        "achievements": []
+        "tag": "TLG",
+        "achievements": [],
+        "coordinates": {
+            "top": "54.74%",
+            "left": "72.18%"
+        }
     },
     {
         "country": "Kolathunad",
-        "achievements": []
+        "tag": "KLT",
+        "achievements": [],
+        "coordinates": {
+            "top": "59.23%",
+            "left": "70.81%"
+        }
     },
     {
         "country": "Dang",
-        "achievements": []
+        "tag": "DNG",
+        "achievements": [],
+        "coordinates": {
+            "top": "45.90%",
+            "left": "72.78%"
+        }
     },
     {
         "country": "Doti",
-        "achievements": []
+        "tag": "DTI",
+        "achievements": [],
+        "coordinates": {
+            "top": "44.97%",
+            "left": "72.12%"
+        }
     },
     {
         "country": "Gorkha",
+        "tag": "GRK",
         "achievements": [
             "The Sun Never Sets on the Indian Empire"
-        ]
+        ],
+        "coordinates": {
+            "top": "45.56%",
+            "left": "73.08%"
+        }
     },
     {
         "country": "Jumla",
-        "achievements": []
+        "tag": "JML",
+        "achievements": [],
+        "coordinates": {
+            "top": "45.31%",
+            "left": "72.62%"
+        }
     },
     {
         "country": "Limbuwan",
-        "achievements": []
+        "tag": "LWA",
+        "achievements": [],
+        "coordinates": {
+            "top": "46.39%",
+            "left": "74.06%"
+        }
     },
     {
         "country": "Sirmur",
-        "achievements": []
+        "tag": "SRM",
+        "achievements": [],
+        "coordinates": {
+            "top": "43.31%",
+            "left": "71.31%"
+        }
     },
     {
         "country": "Kathmandu",
-        "achievements": []
+        "tag": "KTU",
+        "achievements": [],
+        "coordinates": {
+            "top": "45.75%",
+            "left": "73.58%"
+        }
     },
     {
         "country": "Kumaon",
-        "achievements": []
+        "tag": "KMN",
+        "achievements": [],
+        "coordinates": {
+            "top": "44.29%",
+            "left": "71.93%"
+        }
     },
     {
         "country": "Sirhind",
+        "tag": "SRH",
         "achievements": [
-            "The Sun Never Sets on the Indian Empire",
             "Sikh Pun",
+            "The Sun Never Sets on the Indian Empire",
             "Dar al-Islam"
-        ]
+        ],
+        "coordinates": {
+            "top": "43.46%",
+            "left": "70.92%"
+        }
     },
     {
         "country": "Lübeck",
+        "tag": "HSA",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "21.97%",
+            "left": "52.77%"
+        }
     },
     {
         "country": "Abenaki",
-        "achievements": []
+        "tag": "ABE",
+        "achievements": [],
+        "coordinates": {
+            "top": "20.61%",
+            "left": "30.04%"
+        }
     },
     {
         "country": "Apache",
-        "achievements": []
+        "tag": "APA",
+        "achievements": [],
+        "coordinates": {
+            "top": "30.76%",
+            "left": "19.26%"
+        }
     },
     {
         "country": "Assiniboine",
-        "achievements": []
+        "tag": "ASI",
+        "achievements": [],
+        "coordinates": {
+            "top": "17.92%",
+            "left": "22.94%"
+        }
     },
     {
         "country": "Blackfoot",
-        "achievements": []
+        "tag": "BLA",
+        "achievements": [],
+        "coordinates": {
+            "top": "15.23%",
+            "left": "18.63%"
+        }
     },
     {
         "country": "Caddo",
-        "achievements": []
+        "tag": "CAD",
+        "achievements": [],
+        "coordinates": {
+            "top": "30.57%",
+            "left": "23.91%"
+        }
     },
     {
         "country": "Chickasaw",
-        "achievements": []
+        "tag": "CHI",
+        "achievements": [],
+        "coordinates": {
+            "top": "30.13%",
+            "left": "25.16%"
+        }
     },
     {
         "country": "Choctaw",
-        "achievements": []
+        "tag": "CHO",
+        "achievements": [],
+        "coordinates": {
+            "top": "31.88%",
+            "left": "25.02%"
+        }
     },
     {
         "country": "Cheyenne",
-        "achievements": []
+        "tag": "CHY",
+        "achievements": [],
+        "coordinates": {
+            "top": "17.29%",
+            "left": "23.46%"
+        }
     },
     {
         "country": "Comanche",
-        "achievements": []
+        "tag": "COM",
+        "achievements": [],
+        "coordinates": {
+            "top": "21.68%",
+            "left": "20.80%"
+        }
     },
     {
         "country": "Fox",
-        "achievements": []
+        "tag": "FOX",
+        "achievements": [],
+        "coordinates": {
+            "top": "22.51%",
+            "left": "26.72%"
+        }
     },
     {
         "country": "Lenape",
-        "achievements": []
+        "tag": "LEN",
+        "achievements": [],
+        "coordinates": {
+            "top": "24.51%",
+            "left": "29.00%"
+        }
     },
     {
         "country": "Mahican",
-        "achievements": []
+        "tag": "MAH",
+        "achievements": [],
+        "coordinates": {
+            "top": "21.68%",
+            "left": "29.56%"
+        }
     },
     {
         "country": "Mikmaq",
-        "achievements": []
+        "tag": "MIK",
+        "achievements": [],
+        "coordinates": {
+            "top": "19.43%",
+            "left": "32.10%"
+        }
     },
     {
         "country": "Miami",
-        "achievements": []
+        "tag": "MMI",
+        "achievements": [],
+        "coordinates": {
+            "top": "23.73%",
+            "left": "26.15%"
+        }
     },
     {
         "country": "Navajo",
-        "achievements": []
+        "tag": "NAH",
+        "achievements": [],
+        "coordinates": {
+            "top": "27.93%",
+            "left": "19.80%"
+        }
     },
     {
         "country": "Ojibwe",
-        "achievements": []
+        "tag": "OJI",
+        "achievements": [],
+        "coordinates": {
+            "top": "18.65%",
+            "left": "25.30%"
+        }
     },
     {
         "country": "Osage",
-        "achievements": []
+        "tag": "OSA",
+        "achievements": [],
+        "coordinates": {
+            "top": "25.49%",
+            "left": "26.07%"
+        }
     },
     {
         "country": "Ottawa",
-        "achievements": []
+        "tag": "OTT",
+        "achievements": [],
+        "coordinates": {
+            "top": "20.75%",
+            "left": "27.24%"
+        }
     },
     {
         "country": "Pawnee",
-        "achievements": []
+        "tag": "PAW",
+        "achievements": [],
+        "coordinates": {
+            "top": "23.78%",
+            "left": "22.34%"
+        }
     },
     {
         "country": "Pequot",
-        "achievements": []
+        "tag": "PEQ",
+        "achievements": [],
+        "coordinates": {
+            "top": "22.85%",
+            "left": "29.65%"
+        }
     },
     {
         "country": "Pima",
-        "achievements": []
+        "tag": "PIM",
+        "achievements": [],
+        "coordinates": {
+            "top": "31.32%",
+            "left": "18.87%"
+        }
     },
     {
         "country": "Potawatomi",
-        "achievements": []
+        "tag": "POT",
+        "achievements": [],
+        "coordinates": {
+            "top": "20.31%",
+            "left": "26.05%"
+        }
     },
     {
         "country": "Powhatan",
-        "achievements": []
+        "tag": "POW",
+        "achievements": [],
+        "coordinates": {
+            "top": "27.00%",
+            "left": "28.34%"
+        }
     },
     {
         "country": "Shoshone",
-        "achievements": []
+        "tag": "SHO",
+        "achievements": [],
+        "coordinates": {
+            "top": "21.09%",
+            "left": "18.64%"
+        }
     },
     {
         "country": "Sioux",
-        "achievements": []
+        "tag": "SIO",
+        "achievements": [],
+        "coordinates": {
+            "top": "18.80%",
+            "left": "23.99%"
+        }
     },
     {
         "country": "Susquehannock",
-        "achievements": []
+        "tag": "SUS",
+        "achievements": [],
+        "coordinates": {
+            "top": "23.58%",
+            "left": "28.34%"
+        }
     },
     {
         "country": "Cree",
-        "achievements": []
+        "tag": "WCR",
+        "achievements": [],
+        "coordinates": {
+            "top": "15.58%",
+            "left": "27.38%"
+        }
     },
     {
         "country": "Air",
+        "tag": "AIR",
         "achievements": [
-            "Dar al-Islam",
-            "Golden Wind"
-        ]
+            "Golden Wind",
+            "Dar al-Islam"
+        ],
+        "coordinates": {
+            "top": "54.54%",
+            "left": "52.08%"
+        }
     },
     {
-        "country": "Bonoman",
-        "achievements": []
+        "country": "bonoman",
+        "tag": "BON",
+        "achievements": [],
+        "coordinates": {
+            "top": "60.99%",
+            "left": "49.27%"
+        }
     },
     {
-        "country": "Dahomey",
+        "country": "dahomey",
+        "tag": "DAH",
         "achievements": [
             "Where the heart is"
-        ]
+        ],
+        "coordinates": {
+            "top": "62.60%",
+            "left": "50.20%"
+        }
     },
     {
-        "country": "Dagbon",
-        "achievements": []
+        "country": "dagbon",
+        "tag": "DGB",
+        "achievements": [],
+        "coordinates": {
+            "top": "60.69%",
+            "left": "49.84%"
+        }
     },
     {
         "country": "Jenné",
-        "achievements": []
+        "tag": "JNN",
+        "achievements": [],
+        "coordinates": {
+            "top": "57.81%",
+            "left": "48.54%"
+        }
     },
     {
         "country": "Kano",
-        "achievements": []
+        "tag": "KAN",
+        "achievements": [],
+        "coordinates": {
+            "top": "58.59%",
+            "left": "52.27%"
+        }
     },
     {
-        "country": "Kong",
-        "achievements": []
+        "country": "kong",
+        "tag": "KNG",
+        "achievements": [],
+        "coordinates": {
+            "top": "61.35%",
+            "left": "48.26%"
+        }
     },
     {
         "country": "Katsina",
-        "achievements": []
+        "tag": "KTS",
+        "achievements": [],
+        "coordinates": {
+            "top": "58.30%",
+            "left": "51.80%"
+        }
     },
     {
-        "country": "Nupe",
-        "achievements": []
+        "country": "nupe",
+        "tag": "NUP",
+        "achievements": [],
+        "coordinates": {
+            "top": "60.74%",
+            "left": "51.21%"
+        }
     },
     {
         "country": "Timbuktu",
-        "achievements": []
+        "tag": "TMB",
+        "achievements": [],
+        "coordinates": {
+            "top": "54.88%",
+            "left": "49.09%"
+        }
     },
     {
         "country": "Yao",
-        "achievements": []
+        "tag": "YAO",
+        "achievements": [],
+        "coordinates": {
+            "top": "57.52%",
+            "left": "54.55%"
+        }
     },
     {
         "country": "Yatenga",
-        "achievements": []
+        "tag": "YAT",
+        "achievements": [],
+        "coordinates": {
+            "top": "57.96%",
+            "left": "49.17%"
+        }
     },
     {
         "country": "Zazzau",
-        "achievements": []
+        "tag": "ZZZ",
+        "achievements": [],
+        "coordinates": {
+            "top": "60.16%",
+            "left": "51.90%"
+        }
     },
     {
         "country": "Ndongo",
-        "achievements": []
+        "tag": "NDO",
+        "achievements": [],
+        "coordinates": {
+            "top": "76.12%",
+            "left": "54.21%"
+        }
     },
     {
         "country": "Ava",
-        "achievements": []
+        "tag": "AVA",
+        "achievements": [],
+        "coordinates": {
+            "top": "51.03%",
+            "left": "76.42%"
+        }
     },
     {
         "country": "Hsenwi",
-        "achievements": []
+        "tag": "HSE",
+        "achievements": [],
+        "coordinates": {
+            "top": "49.61%",
+            "left": "77.02%"
+        }
     },
     {
         "country": "Kedah",
-        "achievements": []
+        "tag": "KED",
+        "achievements": [],
+        "coordinates": {
+            "top": "63.72%",
+            "left": "77.68%"
+        }
     },
     {
         "country": "Ligor",
-        "achievements": []
+        "tag": "LIG",
+        "achievements": [],
+        "coordinates": {
+            "top": "62.01%",
+            "left": "77.54%"
+        }
     },
     {
         "country": "Muang Phuan",
-        "achievements": []
+        "tag": "MPH",
+        "achievements": [],
+        "coordinates": {
+            "top": "52.44%",
+            "left": "78.68%"
+        }
     },
     {
-        "country": "Mong Yang",
-        "achievements": []
+        "country": "MongYang",
+        "tag": "MYA",
+        "achievements": [],
+        "coordinates": {
+            "top": "48.88%",
+            "left": "76.70%"
+        }
     },
     {
         "country": "Mong Mao",
-        "achievements": []
+        "tag": "MMA",
+        "achievements": [],
+        "coordinates": {
+            "top": "49.02%",
+            "left": "77.25%"
+        }
     },
     {
         "country": "Mong Kawng",
-        "achievements": []
+        "tag": "MKA",
+        "achievements": [],
+        "coordinates": {
+            "top": "47.90%",
+            "left": "76.83%"
+        }
     },
     {
         "country": "Mong Pai",
-        "achievements": []
+        "tag": "MPA",
+        "achievements": [],
+        "coordinates": {
+            "top": "52.49%",
+            "left": "76.90%"
+        }
     },
     {
         "country": "Mong Nai",
-        "achievements": []
+        "tag": "MNI",
+        "achievements": [],
+        "coordinates": {
+            "top": "51.95%",
+            "left": "76.97%"
+        }
     },
     {
         "country": "Kale",
+        "tag": "KAL",
         "achievements": [
             "Eat your Greens"
-        ]
+        ],
+        "coordinates": {
+            "top": "50.29%",
+            "left": "75.89%"
+        }
     },
     {
         "country": "Hsipaw",
-        "achievements": []
+        "tag": "HSI",
+        "achievements": [],
+        "coordinates": {
+            "top": "50.24%",
+            "left": "76.70%"
+        }
     },
     {
         "country": "Prome",
-        "achievements": []
+        "tag": "BPR",
+        "achievements": [],
+        "coordinates": {
+            "top": "53.27%",
+            "left": "76.24%"
+        }
     },
     {
         "country": "Chukchi",
-        "achievements": []
+        "tag": "CHU",
+        "achievements": [],
+        "coordinates": {
+            "top": "12.11%",
+            "left": "94.80%"
+        }
     },
     {
         "country": "Khodynt",
-        "achievements": []
+        "tag": "HOD",
+        "achievements": [],
+        "coordinates": {
+            "top": "6.93%",
+            "left": "95.77%"
+        }
     },
     {
         "country": "Chavchuveny",
-        "achievements": []
+        "tag": "CHV",
+        "achievements": [],
+        "coordinates": {
+            "top": "7.67%",
+            "left": "97.57%"
+        }
     },
     {
         "country": "Kamchadals",
-        "achievements": []
+        "tag": "KMC",
+        "achievements": [],
+        "coordinates": {
+            "top": "20.36%",
+            "left": "93.50%"
+        }
     },
     {
         "country": "Arapaho",
-        "achievements": []
+        "tag": "ARP",
+        "achievements": [],
+        "coordinates": {
+            "top": "17.58%",
+            "left": "21.82%"
+        }
     },
     {
         "country": "Colima",
-        "achievements": []
+        "tag": "CLM",
+        "achievements": [],
+        "coordinates": {
+            "top": "42.48%",
+            "left": "20.94%"
+        }
     },
     {
         "country": "Chinook",
-        "achievements": []
+        "tag": "CNK",
+        "achievements": [],
+        "coordinates": {
+            "top": "19.17%",
+            "left": "15.77%"
+        }
     },
     {
         "country": "Cocomes",
-        "achievements": []
+        "tag": "COC",
+        "achievements": [],
+        "coordinates": {
+            "top": "41.02%",
+            "left": "25.34%"
+        }
     },
     {
         "country": "Haida",
-        "achievements": []
+        "tag": "HDA",
+        "achievements": [],
+        "coordinates": {
+            "top": "11.57%",
+            "left": "13.17%"
+        }
     },
     {
         "country": "Itza",
-        "achievements": []
+        "tag": "ITZ",
+        "achievements": [],
+        "coordinates": {
+            "top": "44.19%",
+            "left": "24.81%"
+        }
     },
     {
         "country": "Kiche",
-        "achievements": []
+        "tag": "KIC",
+        "achievements": [],
+        "coordinates": {
+            "top": "45.51%",
+            "left": "24.54%"
+        }
     },
     {
         "country": "Kiowa",
-        "achievements": []
+        "tag": "KIO",
+        "achievements": [],
+        "coordinates": {
+            "top": "17.43%",
+            "left": "20.95%"
+        }
     },
     {
         "country": "Mixtec",
-        "achievements": []
+        "tag": "MIX",
+        "achievements": [],
+        "coordinates": {
+            "top": "45.12%",
+            "left": "23.14%"
+        }
     },
     {
         "country": "Salish",
-        "achievements": []
+        "tag": "SAL",
+        "achievements": [],
+        "coordinates": {
+            "top": "17.41%",
+            "left": "16.00%"
+        }
     },
     {
         "country": "Purépecha",
-        "achievements": []
+        "tag": "TAR",
+        "achievements": [],
+        "coordinates": {
+            "top": "42.24%",
+            "left": "21.56%"
+        }
     },
     {
         "country": "Tlapanec",
-        "achievements": []
+        "tag": "TLA",
+        "achievements": [],
+        "coordinates": {
+            "top": "44.43%",
+            "left": "22.51%"
+        }
     },
     {
         "country": "Tlaxcala",
-        "achievements": []
+        "tag": "TLX",
+        "achievements": [],
+        "coordinates": {
+            "top": "41.97%",
+            "left": "22.60%"
+        }
     },
     {
         "country": "Totonac",
-        "achievements": []
+        "tag": "TOT",
+        "achievements": [],
+        "coordinates": {
+            "top": "41.14%",
+            "left": "22.87%"
+        }
     },
     {
         "country": "Wichita",
-        "achievements": []
+        "tag": "WIC",
+        "achievements": [],
+        "coordinates": {
+            "top": "30.91%",
+            "left": "22.82%"
+        }
     },
     {
         "country": "Xiu",
-        "achievements": []
+        "tag": "XIU",
+        "achievements": [],
+        "coordinates": {
+            "top": "41.89%",
+            "left": "25.09%"
+        }
     },
     {
         "country": "Blambangan",
-        "achievements": []
+        "tag": "BLM",
+        "achievements": [],
+        "coordinates": {
+            "top": "74.51%",
+            "left": "81.43%"
+        }
     },
     {
         "country": "Buton",
-        "achievements": []
+        "tag": "BTN",
+        "achievements": [],
+        "coordinates": {
+            "top": "72.36%",
+            "left": "83.86%"
+        }
     },
     {
         "country": "Pagarruyung",
-        "achievements": []
+        "tag": "PGR",
+        "achievements": [],
+        "coordinates": {
+            "top": "68.70%",
+            "left": "77.66%"
+        }
     },
     {
         "country": "Palembang",
+        "tag": "PLB",
         "achievements": [
             "Dar al-Islam"
-        ]
+        ],
+        "coordinates": {
+            "top": "70.56%",
+            "left": "78.78%"
+        }
     },
     {
         "country": "Pasai",
+        "tag": "PSA",
         "achievements": [
             "Dar al-Islam"
-        ]
+        ],
+        "coordinates": {
+            "top": "64.60%",
+            "left": "76.74%"
+        }
     },
     {
         "country": "Siak",
-        "achievements": []
+        "tag": "SAK",
+        "achievements": [],
+        "coordinates": {
+            "top": "67.82%",
+            "left": "78.04%"
+        }
     },
     {
         "country": "Sunda",
-        "achievements": []
+        "tag": "SUN",
+        "achievements": [],
+        "coordinates": {
+            "top": "73.54%",
+            "left": "79.56%"
+        }
     },
     {
         "country": "Kutai",
-        "achievements": []
+        "tag": "KUT",
+        "achievements": [],
+        "coordinates": {
+            "top": "67.92%",
+            "left": "82.12%"
+        }
     },
     {
         "country": "Banjar",
-        "achievements": []
+        "tag": "BNJ",
+        "achievements": [],
+        "coordinates": {
+            "top": "70.75%",
+            "left": "81.59%"
+        }
     },
     {
         "country": "Luwu",
-        "achievements": []
+        "tag": "LUW",
+        "achievements": [],
+        "coordinates": {
+            "top": "70.31%",
+            "left": "83.13%"
+        }
     },
     {
         "country": "Maguindanao",
-        "achievements": []
+        "tag": "MGD",
+        "achievements": [],
+        "coordinates": {
+            "top": "62.94%",
+            "left": "84.23%"
+        }
     },
     {
         "country": "Ternate",
-        "achievements": []
+        "tag": "TER",
+        "achievements": [],
+        "coordinates": {
+            "top": "67.04%",
+            "left": "85.21%"
+        }
     },
     {
         "country": "Tidore",
-        "achievements": []
+        "tag": "TID",
+        "achievements": [],
+        "coordinates": {
+            "top": "69.43%",
+            "left": "85.25%"
+        }
     },
     {
         "country": "Madyas",
-        "achievements": []
+        "tag": "MAS",
+        "achievements": [],
+        "coordinates": {
+            "top": "59.77%",
+            "left": "83.75%"
+        }
     },
     {
         "country": "Pangasinan",
-        "achievements": []
+        "tag": "PGS",
+        "achievements": [],
+        "coordinates": {
+            "top": "55.76%",
+            "left": "83.19%"
+        }
     },
     {
         "country": "Tondo",
-        "achievements": []
+        "tag": "TDO",
+        "achievements": [],
+        "coordinates": {
+            "top": "56.69%",
+            "left": "83.29%"
+        }
     },
     {
         "country": "Maynila",
-        "achievements": []
+        "tag": "MNA",
+        "achievements": [],
+        "coordinates": {
+            "top": "56.79%",
+            "left": "83.38%"
+        }
     },
     {
         "country": "Cebu",
+        "tag": "CEB",
         "achievements": [
             "Philippine Tiger"
-        ]
+        ],
+        "coordinates": {
+            "top": "60.25%",
+            "left": "84.13%"
+        }
     },
     {
         "country": "Butuan",
-        "achievements": []
+        "tag": "BTU",
+        "achievements": [],
+        "coordinates": {
+            "top": "61.52%",
+            "left": "84.61%"
+        }
     },
     {
         "country": "Cuzco",
-        "achievements": []
+        "tag": "CSU",
+        "achievements": [],
+        "coordinates": {
+            "top": "67.58%",
+            "left": "29.65%"
+        }
     },
     {
         "country": "Calchaqui",
-        "achievements": []
+        "tag": "CCQ",
+        "achievements": [],
+        "coordinates": {
+            "top": "76.07%",
+            "left": "31.89%"
+        }
     },
     {
         "country": "Mapuche",
-        "achievements": []
+        "tag": "MPC",
+        "achievements": [],
+        "coordinates": {
+            "top": "86.82%",
+            "left": "30.08%"
+        }
     },
     {
         "country": "Muisca",
-        "achievements": []
+        "tag": "MCA",
+        "achievements": [],
+        "coordinates": {
+            "top": "53.86%",
+            "left": "29.40%"
+        }
     },
     {
         "country": "Quito",
-        "achievements": []
+        "tag": "QTO",
+        "achievements": [],
+        "coordinates": {
+            "top": "57.67%",
+            "left": "28.11%"
+        }
     },
     {
         "country": "Cajamarca",
-        "achievements": []
+        "tag": "CJA",
+        "achievements": [],
+        "coordinates": {
+            "top": "62.50%",
+            "left": "28.20%"
+        }
     },
     {
         "country": "Huyla",
-        "achievements": []
+        "tag": "HJA",
+        "achievements": [],
+        "coordinates": {
+            "top": "65.14%",
+            "left": "28.84%"
+        }
     },
     {
         "country": "Potiguara",
-        "achievements": []
+        "tag": "PTG",
+        "achievements": [],
+        "coordinates": {
+            "top": "60.50%",
+            "left": "38.87%"
+        }
     },
     {
         "country": "Tupiniquim",
-        "achievements": []
+        "tag": "TPQ",
+        "achievements": [],
+        "coordinates": {
+            "top": "67.82%",
+            "left": "38.97%"
+        }
     },
     {
         "country": "Tupinamba",
-        "achievements": []
+        "tag": "TPA",
+        "achievements": [],
+        "coordinates": {
+            "top": "59.13%",
+            "left": "36.45%"
+        }
     },
     {
         "country": "Tapuia",
-        "achievements": []
+        "tag": "TUA",
+        "achievements": [],
+        "coordinates": {
+            "top": "74.12%",
+            "left": "38.46%"
+        }
     },
     {
         "country": "Guarani",
-        "achievements": []
+        "tag": "GUA",
+        "achievements": [],
+        "coordinates": {
+            "top": "79.98%",
+            "left": "35.07%"
+        }
     },
     {
         "country": "Charrua",
-        "achievements": []
+        "tag": "CUA",
+        "achievements": [],
+        "coordinates": {
+            "top": "85.30%",
+            "left": "33.43%"
+        }
     },
     {
         "country": "Wanka",
-        "achievements": []
+        "tag": "WKA",
+        "achievements": [],
+        "coordinates": {
+            "top": "67.19%",
+            "left": "29.08%"
+        }
     },
     {
         "country": "Chachapoya",
-        "achievements": []
+        "tag": "CYA",
+        "achievements": [],
+        "coordinates": {
+            "top": "62.45%",
+            "left": "28.55%"
+        }
     },
     {
         "country": "Colla",
-        "achievements": []
+        "tag": "CLA",
+        "achievements": [],
+        "coordinates": {
+            "top": "69.73%",
+            "left": "30.36%"
+        }
     },
     {
         "country": "Charca",
+        "tag": "CRA",
         "achievements": [
             "A Sun God"
-        ]
+        ],
+        "coordinates": {
+            "top": "71.09%",
+            "left": "31.23%"
+        }
     },
     {
         "country": "Pacajes",
-        "achievements": []
+        "tag": "PCJ",
+        "achievements": [],
+        "coordinates": {
+            "top": "71.04%",
+            "left": "30.84%"
+        }
     },
     {
         "country": "Arawak",
-        "achievements": []
+        "tag": "ARW",
+        "achievements": [],
+        "coordinates": {
+            "top": "52.20%",
+            "left": "33.50%"
+        }
     },
     {
         "country": "Carib",
-        "achievements": []
+        "tag": "CAB",
+        "achievements": [],
+        "coordinates": {
+            "top": "50.73%",
+            "left": "32.35%"
+        }
     },
     {
         "country": "Ichma",
-        "achievements": []
+        "tag": "ICM",
+        "achievements": [],
+        "coordinates": {
+            "top": "67.14%",
+            "left": "28.62%"
+        }
     },
     {
         "country": "Matlatzinca",
-        "achievements": []
+        "tag": "MAT",
+        "achievements": [],
+        "coordinates": {
+            "top": "42.19%",
+            "left": "22.03%"
+        }
     },
     {
         "country": "Coixtlahuaca",
-        "achievements": []
+        "tag": "COI",
+        "achievements": [],
+        "coordinates": {
+            "top": "43.55%",
+            "left": "22.73%"
+        }
     },
     {
         "country": "Teotitlan",
-        "achievements": []
+        "tag": "TEO",
+        "achievements": [],
+        "coordinates": {
+            "top": "43.41%",
+            "left": "22.87%"
+        }
     },
     {
         "country": "Xalisco",
-        "achievements": []
+        "tag": "XAL",
+        "achievements": [],
+        "coordinates": {
+            "top": "40.94%",
+            "left": "20.76%"
+        }
     },
     {
         "country": "Guamar",
-        "achievements": []
+        "tag": "GAM",
+        "achievements": [],
+        "coordinates": {
+            "top": "40.72%",
+            "left": "21.87%"
+        }
     },
     {
         "country": "Huastec",
+        "tag": "HST",
         "achievements": [
-            "The League of Mayapan",
-            "Mayapahit?"
-        ]
+            "Mayapahit?",
+            "The League of Mayapan"
+        ],
+        "coordinates": {
+            "top": "40.19%",
+            "left": "22.46%"
+        }
     },
     {
         "country": "Chichimeca",
-        "achievements": []
+        "tag": "CCM",
+        "achievements": [],
+        "coordinates": {
+            "top": "39.33%",
+            "left": "21.81%"
+        }
     },
     {
         "country": "Otomi",
-        "achievements": []
+        "tag": "OTO",
+        "achievements": [],
+        "coordinates": {
+            "top": "41.26%",
+            "left": "22.12%"
+        }
     },
     {
-        "country": "Yokotan",
-        "achievements": []
+        "country": "Yokot'an",
+        "tag": "YOK",
+        "achievements": [],
+        "coordinates": {
+            "top": "43.41%",
+            "left": "24.17%"
+        }
     },
     {
         "country": "Tzotzil",
-        "achievements": []
+        "tag": "LAC",
+        "achievements": [],
+        "coordinates": {
+            "top": "43.99%",
+            "left": "24.01%"
+        }
     },
     {
         "country": "Kaqchikel",
-        "achievements": []
+        "tag": "KAQ",
+        "achievements": [],
+        "coordinates": {
+            "top": "46.07%",
+            "left": "24.76%"
+        }
     },
     {
         "country": "Chactemal",
-        "achievements": []
+        "tag": "CTM",
+        "achievements": [],
+        "coordinates": {
+            "top": "43.85%",
+            "left": "25.33%"
+        }
     },
     {
         "country": "Zia",
-        "achievements": []
+        "tag": "KER",
+        "achievements": [],
+        "coordinates": {
+            "top": "28.66%",
+            "left": "20.12%"
+        }
     },
     {
         "country": "Zuni",
-        "achievements": []
+        "tag": "ZNI",
+        "achievements": [],
+        "coordinates": {
+            "top": "29.39%",
+            "left": "19.66%"
+        }
     },
     {
         "country": "Mescalero",
-        "achievements": []
+        "tag": "MSC",
+        "achievements": [],
+        "coordinates": {
+            "top": "31.01%",
+            "left": "20.63%"
+        }
     },
     {
         "country": "Lipan",
-        "achievements": []
+        "tag": "LIP",
+        "achievements": [],
+        "coordinates": {
+            "top": "33.30%",
+            "left": "22.18%"
+        }
     },
     {
         "country": "Chorti",
-        "achievements": []
+        "tag": "CHT",
+        "achievements": [],
+        "coordinates": {
+            "top": "45.34%",
+            "left": "25.41%"
+        }
     },
     {
         "country": "Miskito",
-        "achievements": []
+        "tag": "MIS",
+        "achievements": [],
+        "coordinates": {
+            "top": "46.31%",
+            "left": "26.67%"
+        }
     },
     {
         "country": "Tairona",
-        "achievements": []
+        "tag": "TAI",
+        "achievements": [],
+        "coordinates": {
+            "top": "49.22%",
+            "left": "29.01%"
+        }
     },
     {
         "country": "Can Pech",
-        "achievements": []
+        "tag": "CNP",
+        "achievements": [],
+        "coordinates": {
+            "top": "42.33%",
+            "left": "24.72%"
+        }
     },
     {
         "country": "Tonala",
-        "achievements": []
+        "tag": "TON",
+        "achievements": [],
+        "coordinates": {
+            "top": "40.53%",
+            "left": "21.40%"
+        }
     },
     {
         "country": "Yaqui",
-        "achievements": []
+        "tag": "YAQ",
+        "achievements": [],
+        "coordinates": {
+            "top": "34.72%",
+            "left": "19.19%"
+        }
     },
     {
         "country": "Yokuts",
-        "achievements": []
+        "tag": "YKT",
+        "achievements": [],
+        "coordinates": {
+            "top": "27.49%",
+            "left": "16.76%"
+        }
     },
     {
         "country": "Munich",
+        "tag": "UBV",
         "achievements": [
-            "Stern des Südens",
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Stern des Südens",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "27.88%",
+            "left": "53.04%"
+        }
     },
     {
         "country": "Landshut",
-        "achievements": []
+        "tag": "LBV",
+        "achievements": [],
+        "coordinates": {
+            "top": "27.22%",
+            "left": "53.22%"
+        }
     },
     {
         "country": "Ingolstadt",
-        "achievements": []
+        "tag": "ING",
+        "achievements": [],
+        "coordinates": {
+            "top": "26.98%",
+            "left": "52.97%"
+        }
     },
     {
         "country": "Passau",
-        "achievements": []
+        "tag": "PSS",
+        "achievements": [],
+        "coordinates": {
+            "top": "27.22%",
+            "left": "53.55%"
+        }
     },
     {
         "country": "Bregenz",
+        "tag": "MBZ",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "28.37%",
+            "left": "52.55%"
+        }
     },
     {
         "country": "Konstanz",
-        "achievements": []
+        "tag": "KNZ",
+        "achievements": [],
+        "coordinates": {
+            "top": "28.27%",
+            "left": "52.35%"
+        }
     },
     {
         "country": "Rothenburg",
+        "tag": "ROT",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "26.46%",
+            "left": "52.59%"
+        }
     },
     {
         "country": "Bayreuth",
+        "tag": "BYT",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "25.78%",
+            "left": "53.07%"
+        }
     },
     {
         "country": "Regensburg",
-        "achievements": []
+        "tag": "REG",
+        "achievements": [],
+        "coordinates": {
+            "top": "26.78%",
+            "left": "53.20%"
+        }
     },
     {
         "country": "Geneva",
+        "tag": "GNV",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "29.69%",
+            "left": "51.51%"
+        }
     },
     {
         "country": "Three Leagues",
+        "tag": "TTL",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "28.91%",
+            "left": "52.49%"
+        }
     },
     {
         "country": "Opole",
-        "achievements": []
+        "tag": "OPL",
+        "achievements": [],
+        "coordinates": {
+            "top": "25.44%",
+            "left": "54.85%"
+        }
     },
     {
         "country": "Glogow",
-        "achievements": []
+        "tag": "GLG",
+        "achievements": [],
+        "coordinates": {
+            "top": "24.07%",
+            "left": "54.14%"
+        }
     },
     {
         "country": "Bologna",
+        "tag": "BLG",
         "achievements": [
             "Italian Ambition",
             "Carthago Delenda Est",
-            "Mare Nostrum",
-            "Spaghetti Western"
-        ]
+            "Spaghetti Western",
+            "Mare Nostrum"
+        ],
+        "coordinates": {
+            "top": "31.25%",
+            "left": "52.93%"
+        }
     },
     {
         "country": "Saluzzo",
+        "tag": "SZO",
         "achievements": [
+            "Mare Nostrum",
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
             "Italian Ambition",
             "Carthago Delenda Est",
-            "Mare Nostrum",
-            "The Emperors new clothes",
-            "Electable!",
-            "A Kaiser not just in name"
-        ]
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "31.01%",
+            "left": "51.76%"
+        }
     },
     {
         "country": "Wolgast",
-        "achievements": []
+        "tag": "WOL",
+        "achievements": [],
+        "coordinates": {
+            "top": "21.88%",
+            "left": "53.60%"
+        }
     },
     {
         "country": "Stettin",
-        "achievements": []
+        "tag": "STE",
+        "achievements": [],
+        "coordinates": {
+            "top": "22.39%",
+            "left": "53.81%"
+        }
     },
     {
         "country": "Goslar",
-        "achievements": []
+        "tag": "GOS",
+        "achievements": [],
+        "coordinates": {
+            "top": "24.15%",
+            "left": "52.78%"
+        }
     },
     {
         "country": "Cilli",
-        "achievements": []
+        "tag": "CLI",
+        "achievements": [],
+        "coordinates": {
+            "top": "29.25%",
+            "left": "54.07%"
+        }
     },
     {
         "country": "Herzegovina",
+        "tag": "HRZ",
         "achievements": [
             "Mare Nostrum",
             "Redecorating"
-        ]
+        ],
+        "coordinates": {
+            "top": "32.81%",
+            "left": "55.04%"
+        }
     },
     {
         "country": "Trent",
+        "tag": "TNT",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "29.64%",
+            "left": "52.91%"
+        }
     },
     {
         "country": "Berg",
+        "tag": "BRG",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "24.68%",
+            "left": "51.75%"
+        }
     },
     {
         "country": "Mulhouse",
+        "tag": "MLH",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
             "A Kaiser not just in name",
-            "Everything's Coming Up Mulhouse"
-        ]
+            "Everything's Coming Up Mulhouse",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "27.83%",
+            "left": "51.85%"
+        }
     },
     {
         "country": "Bamberg",
+        "tag": "BAM",
         "achievements": [
             "Mare Nostrum",
-            "The Emperors new clothes",
             "For the Emperor!",
-            "Electable!",
             "An early Reich",
-            "A Kaiser not just in name"
-        ]
+            "A Kaiser not just in name",
+            "The Emperors new clothes",
+            "Electable!"
+        ],
+        "coordinates": {
+            "top": "26.00%",
+            "left": "52.84%"
+        }
     },
     {
         "country": "Perugia",
+        "tag": "PGA",
         "achievements": [
             "Italian Ambition",
             "Carthago Delenda Est",
             "Mare Nostrum"
-        ]
+        ],
+        "coordinates": {
+            "top": "32.71%",
+            "left": "53.28%"
+        }
     },
     {
         "country": "Bone",
+        "tag": "BNE",
         "achievements": [
             "To the Bone"
-        ]
+        ],
+        "coordinates": {
+            "top": "71.78%",
+            "left": "83.11%"
+        }
     },
     {
         "country": "Berau",
-        "achievements": []
+        "tag": "BEU",
+        "achievements": [],
+        "coordinates": {
+            "top": "66.99%",
+            "left": "82.26%"
+        }
     },
     {
         "country": "Sambas",
-        "achievements": []
+        "tag": "SMB",
+        "achievements": [],
+        "coordinates": {
+            "top": "67.87%",
+            "left": "80.06%"
+        }
     },
     {
         "country": "Barus",
-        "achievements": []
+        "tag": "BRS",
+        "achievements": [],
+        "coordinates": {
+            "top": "66.41%",
+            "left": "77.06%"
+        }
     },
     {
         "country": "Deli",
-        "achievements": []
+        "tag": "DLI",
+        "achievements": [],
+        "coordinates": {
+            "top": "66.65%",
+            "left": "77.54%"
+        }
     },
     {
         "country": "Jambi",
-        "achievements": []
+        "tag": "JMB",
+        "achievements": [],
+        "coordinates": {
+            "top": "69.58%",
+            "left": "78.34%"
+        }
     },
     {
         "country": "Pahang",
-        "achievements": []
+        "tag": "PAH",
+        "achievements": [],
+        "coordinates": {
+            "top": "65.72%",
+            "left": "78.43%"
+        }
     },
     {
         "country": "Kelantan",
-        "achievements": []
+        "tag": "KEL",
+        "achievements": [],
+        "coordinates": {
+            "top": "63.92%",
+            "left": "78.18%"
+        }
     },
     {
         "country": "Indrapura",
-        "achievements": []
+        "tag": "IND",
+        "achievements": [],
+        "coordinates": {
+            "top": "70.07%",
+            "left": "77.86%"
+        }
     },
     {
         "country": "Jarai",
-        "achievements": []
+        "tag": "JAR",
+        "achievements": [],
+        "coordinates": {
+            "top": "57.08%",
+            "left": "79.74%"
+        }
     },
     {
         "country": "Rhade",
-        "achievements": []
+        "tag": "RHA",
+        "achievements": [],
+        "coordinates": {
+            "top": "58.18%",
+            "left": "79.83%"
+        }
     },
     {
         "country": "Koho",
-        "achievements": []
+        "tag": "KOH",
+        "achievements": [],
+        "coordinates": {
+            "top": "59.01%",
+            "left": "79.73%"
+        }
     },
     {
         "country": "Tiwi",
-        "achievements": []
+        "tag": "TIW",
+        "achievements": [],
+        "coordinates": {
+            "top": "77.12%",
+            "left": "86.32%"
+        }
     },
     {
         "country": "Larrakia",
-        "achievements": []
+        "tag": "LAR",
+        "achievements": [],
+        "coordinates": {
+            "top": "79.05%",
+            "left": "86.31%"
+        }
     },
     {
         "country": "Yolngu",
-        "achievements": []
+        "tag": "YOL",
+        "achievements": [],
+        "coordinates": {
+            "top": "78.00%",
+            "left": "87.50%"
+        }
     },
     {
         "country": "Yanuwa",
-        "achievements": []
+        "tag": "YNU",
+        "achievements": [],
+        "coordinates": {
+            "top": "80.47%",
+            "left": "87.73%"
+        }
     },
     {
         "country": "Awngthim",
-        "achievements": []
+        "tag": "AWN",
+        "achievements": [],
+        "coordinates": {
+            "top": "78.96%",
+            "left": "88.97%"
+        }
     },
     {
         "country": "Kamilaroi",
-        "achievements": []
+        "tag": "GMI",
+        "achievements": [],
+        "coordinates": {
+            "top": "90.77%",
+            "left": "91.09%"
+        }
     },
     {
         "country": "Mianjin",
-        "achievements": []
+        "tag": "MIA",
+        "achievements": [],
+        "coordinates": {
+            "top": "86.74%",
+            "left": "91.46%"
+        }
     },
     {
         "country": "Eora",
-        "achievements": []
+        "tag": "EOR",
+        "achievements": [],
+        "coordinates": {
+            "top": "93.29%",
+            "left": "91.08%"
+        }
     },
     {
         "country": "Kaurna",
-        "achievements": []
+        "tag": "KAU",
+        "achievements": [],
+        "coordinates": {
+            "top": "93.75%",
+            "left": "88.21%"
+        }
     },
     {
         "country": "Palawa",
-        "achievements": []
+        "tag": "PLW",
+        "achievements": [],
+        "coordinates": {
+            "top": "98.39%",
+            "left": "89.83%"
+        }
     },
     {
         "country": "Wurundjeri",
-        "achievements": []
+        "tag": "WRU",
+        "achievements": [],
+        "coordinates": {
+            "top": "96.02%",
+            "left": "89.74%"
+        }
     },
     {
         "country": "Nyoongah",
-        "achievements": []
+        "tag": "NOO",
+        "achievements": [],
+        "coordinates": {
+            "top": "92.58%",
+            "left": "82.72%"
+        }
     },
     {
         "country": "Malgana",
-        "achievements": []
+        "tag": "MLG",
+        "achievements": [],
+        "coordinates": {
+            "top": "86.72%",
+            "left": "82.40%"
+        }
     },
     {
         "country": "Ngati Awa",
-        "achievements": []
+        "tag": "MAA",
+        "achievements": [],
+        "coordinates": {
+            "top": "91.55%",
+            "left": "99.19%"
+        }
     },
     {
         "country": "Tainui",
-        "achievements": []
+        "tag": "TAN",
+        "achievements": [],
+        "coordinates": {
+            "top": "91.31%",
+            "left": "98.65%"
+        }
     },
     {
         "country": "Ngati Kahungunu",
-        "achievements": []
+        "tag": "TAK",
+        "achievements": [],
+        "coordinates": {
+            "top": "93.65%",
+            "left": "98.97%"
+        }
     },
     {
         "country": "Ngati Toa",
-        "achievements": []
+        "tag": "TNK",
+        "achievements": [],
+        "coordinates": {
+            "top": "93.14%",
+            "left": "98.62%"
+        }
     },
     {
         "country": "Ngati Ranginui",
-        "achievements": []
+        "tag": "TEA",
+        "achievements": [],
+        "coordinates": {
+            "top": "91.60%",
+            "left": "98.93%"
+        }
     },
     {
         "country": "Ngapuhi",
-        "achievements": []
+        "tag": "TTT",
+        "achievements": [],
+        "coordinates": {
+            "top": "89.50%",
+            "left": "98.35%"
+        }
     },
     {
         "country": "Waitaha",
-        "achievements": []
+        "tag": "WAI",
+        "achievements": [],
+        "coordinates": {
+            "top": "89.50%",
+            "left": "98.35%"
+        }
     },
     {
-        "country": "Hawai'i",
+        "country": "Hawaii",
+        "tag": "HAW",
         "achievements": [
             "Surfing USA"
-        ]
+        ],
+        "coordinates": {
+            "top": "50.63%",
+            "left": "6.00%"
+        }
     },
     {
         "country": "Maui",
-        "achievements": []
+        "tag": "MAU",
+        "achievements": [],
+        "coordinates": {
+            "top": "49.56%",
+            "left": "5.81%"
+        }
     },
     {
-        "country": "O'ahu",
-        "achievements": []
+        "country": "Oahu",
+        "tag": "OAH",
+        "achievements": [],
+        "coordinates": {
+            "top": "48.93%",
+            "left": "5.34%"
+        }
     },
     {
-        "country": "Kaua'i",
-        "achievements": []
+        "country": "Kauai",
+        "tag": "KAA",
+        "achievements": [],
+        "coordinates": {
+            "top": "48.44%",
+            "left": "4.90%"
+        }
     },
     {
         "country": "Tonga",
-        "achievements": []
+        "tag": "TOG",
+        "achievements": [],
+        "coordinates": {
+            "top": "86.82%",
+            "left": "0.84%"
+        }
     },
     {
         "country": "Samoa",
-        "achievements": []
+        "tag": "SAM",
+        "achievements": [],
+        "coordinates": {
+            "top": "79.10%",
+            "left": "2.24%"
+        }
     },
     {
         "country": "Viti Levu",
-        "achievements": []
+        "tag": "VIL",
+        "achievements": [],
+        "coordinates": {
+            "top": "82.37%",
+            "left": "98.68%"
+        }
     },
     {
         "country": "Vanua Levu",
-        "achievements": []
+        "tag": "VNL",
+        "achievements": [],
+        "coordinates": {
+            "top": "81.35%",
+            "left": "98.92%"
+        }
     },
     {
         "country": "Lau",
-        "achievements": []
+        "tag": "LAI",
+        "achievements": [],
+        "coordinates": {
+            "top": "82.28%",
+            "left": "98.78%"
+        }
     },
     {
         "country": "Altamaha",
-        "achievements": []
+        "tag": "ALT",
+        "achievements": [],
+        "coordinates": {
+            "top": "31.40%",
+            "left": "26.79%"
+        }
     },
     {
         "country": "Ichisi",
-        "achievements": []
+        "tag": "ICH",
+        "achievements": [],
+        "coordinates": {
+            "top": "32.18%",
+            "left": "26.81%"
+        }
     },
     {
         "country": "Cofitachequi",
-        "achievements": []
+        "tag": "COF",
+        "achievements": [],
+        "coordinates": {
+            "top": "29.64%",
+            "left": "27.25%"
+        }
     },
     {
         "country": "Joara",
-        "achievements": []
+        "tag": "JOA",
+        "achievements": [],
+        "coordinates": {
+            "top": "28.56%",
+            "left": "27.18%"
+        }
     },
     {
         "country": "Etowah",
-        "achievements": []
+        "tag": "ETO",
+        "achievements": [],
+        "coordinates": {
+            "top": "30.08%",
+            "left": "26.44%"
+        }
     },
     {
         "country": "Satapo",
-        "achievements": []
+        "tag": "SAT",
+        "achievements": [],
+        "coordinates": {
+            "top": "28.96%",
+            "left": "26.35%"
+        }
     },
     {
         "country": "Chiaha",
-        "achievements": []
+        "tag": "CIA",
+        "achievements": [],
+        "coordinates": {
+            "top": "28.12%",
+            "left": "26.70%"
+        }
     },
     {
         "country": "Coosa",
-        "achievements": []
+        "tag": "COO",
+        "achievements": [],
+        "coordinates": {
+            "top": "29.98%",
+            "left": "26.23%"
+        }
     },
     {
         "country": "Abihka",
-        "achievements": []
+        "tag": "ABI",
+        "achievements": [],
+        "coordinates": {
+            "top": "30.03%",
+            "left": "25.98%"
+        }
     },
     {
         "country": "Coweta",
-        "achievements": []
+        "tag": "COW",
+        "achievements": [],
+        "coordinates": {
+            "top": "31.59%",
+            "left": "26.08%"
+        }
     },
     {
         "country": "Natchez",
-        "achievements": []
+        "tag": "NTZ",
+        "achievements": [],
+        "coordinates": {
+            "top": "31.98%",
+            "left": "24.59%"
+        }
     },
     {
         "country": "Casqui",
-        "achievements": []
+        "tag": "CAQ",
+        "achievements": [],
+        "coordinates": {
+            "top": "28.96%",
+            "left": "24.34%"
+        }
     },
     {
         "country": "Pacaha",
-        "achievements": []
+        "tag": "PCH",
+        "achievements": [],
+        "coordinates": {
+            "top": "28.66%",
+            "left": "24.61%"
+        }
     },
     {
         "country": "Quizquiz",
-        "achievements": []
+        "tag": "QUI",
+        "achievements": [],
+        "coordinates": {
+            "top": "30.37%",
+            "left": "24.77%"
+        }
     },
     {
         "country": "Chisca",
-        "achievements": []
+        "tag": "CCA",
+        "achievements": [],
+        "coordinates": {
+            "top": "27.29%",
+            "left": "26.24%"
+        }
     },
     {
         "country": "Atahachi",
-        "achievements": []
+        "tag": "ATA",
+        "achievements": [],
+        "coordinates": {
+            "top": "31.10%",
+            "left": "25.51%"
+        }
     },
     {
         "country": "Kasihta",
-        "achievements": []
+        "tag": "KSI",
+        "achievements": [],
+        "coordinates": {
+            "top": "31.15%",
+            "left": "26.30%"
+        }
     },
     {
         "country": "Oneota",
-        "achievements": []
+        "tag": "OEO",
+        "achievements": [],
+        "coordinates": {
+            "top": "21.53%",
+            "left": "24.91%"
+        }
     },
     {
         "country": "Anilco",
-        "achievements": []
+        "tag": "ANL",
+        "achievements": [],
+        "coordinates": {
+            "top": "29.96%",
+            "left": "24.51%"
+        }
     },
     {
         "country": "Natchitoches",
-        "achievements": []
+        "tag": "NTC",
+        "achievements": [],
+        "coordinates": {
+            "top": "31.79%",
+            "left": "23.95%"
+        }
     },
     {
         "country": "Hasinai",
-        "achievements": []
+        "tag": "HNI",
+        "achievements": [],
+        "coordinates": {
+            "top": "31.59%",
+            "left": "23.69%"
+        }
     },
     {
         "country": "Mohawk",
-        "achievements": []
+        "tag": "MOH",
+        "achievements": [],
+        "coordinates": {
+            "top": "21.53%",
+            "left": "29.17%"
+        }
     },
     {
         "country": "Oneida",
-        "achievements": []
+        "tag": "ONE",
+        "achievements": [],
+        "coordinates": {
+            "top": "21.83%",
+            "left": "28.91%"
+        }
     },
     {
         "country": "Onondaga",
-        "achievements": []
+        "tag": "ONO",
+        "achievements": [],
+        "coordinates": {
+            "top": "21.92%",
+            "left": "28.69%"
+        }
     },
     {
         "country": "Cayuga",
-        "achievements": []
+        "tag": "CAY",
+        "achievements": [],
+        "coordinates": {
+            "top": "21.78%",
+            "left": "28.43%"
+        }
     },
     {
         "country": "Seneca",
-        "achievements": []
+        "tag": "SEN",
+        "achievements": [],
+        "coordinates": {
+            "top": "22.31%",
+            "left": "28.21%"
+        }
     },
     {
         "country": "Tahontaenrat",
-        "achievements": []
+        "tag": "TAH",
+        "achievements": [],
+        "coordinates": {
+            "top": "21.09%",
+            "left": "27.82%"
+        }
     },
     {
         "country": "Attignawantan",
-        "achievements": []
+        "tag": "ATT",
+        "achievements": [],
+        "coordinates": {
+            "top": "20.51%",
+            "left": "27.79%"
+        }
     },
     {
         "country": "Attigneenongnahac",
-        "achievements": []
+        "tag": "AGG",
+        "achievements": [],
+        "coordinates": {
+            "top": "20.90%",
+            "left": "28.39%"
+        }
     },
     {
         "country": "Attiwandaron",
-        "achievements": []
+        "tag": "ATW",
+        "achievements": [],
+        "coordinates": {
+            "top": "22.02%",
+            "left": "27.42%"
+        }
     },
     {
         "country": "Arendaronon",
-        "achievements": []
+        "tag": "ARN",
+        "achievements": [],
+        "coordinates": {
+            "top": "20.02%",
+            "left": "27.73%"
+        }
     },
     {
         "country": "Tionontate",
-        "achievements": []
+        "tag": "TIO",
+        "achievements": [],
+        "coordinates": {
+            "top": "21.04%",
+            "left": "27.50%"
+        }
     },
     {
         "country": "Osheaga",
-        "achievements": []
+        "tag": "OSH",
+        "achievements": [],
+        "coordinates": {
+            "top": "19.07%",
+            "left": "29.34%"
+        }
     },
     {
         "country": "Stadacona",
-        "achievements": []
+        "tag": "STA",
+        "achievements": [],
+        "coordinates": {
+            "top": "18.21%",
+            "left": "30.02%"
+        }
     },
     {
         "country": "Erie",
-        "achievements": []
+        "tag": "ERI",
+        "achievements": [],
+        "coordinates": {
+            "top": "23.14%",
+            "left": "27.63%"
+        }
     },
     {
         "country": "Wenro",
-        "achievements": []
+        "tag": "WEN",
+        "achievements": [],
+        "coordinates": {
+            "top": "22.02%",
+            "left": "27.97%"
+        }
     },
     {
         "country": "Tuscarora",
-        "achievements": []
+        "tag": "TSC",
+        "achievements": [],
+        "coordinates": {
+            "top": "28.49%",
+            "left": "28.21%"
+        }
     },
     {
         "country": "Ohkay Owingeh",
-        "achievements": []
+        "tag": "OHK",
+        "achievements": [],
+        "coordinates": {
+            "top": "28.32%",
+            "left": "20.42%"
+        }
     },
     {
         "country": "Isleta",
-        "achievements": []
+        "tag": "ISL",
+        "achievements": [],
+        "coordinates": {
+            "top": "29.10%",
+            "left": "20.38%"
+        }
     },
     {
         "country": "Acoma",
-        "achievements": []
+        "tag": "ACO",
+        "achievements": [],
+        "coordinates": {
+            "top": "29.39%",
+            "left": "20.05%"
+        }
     },
     {
         "country": "Cahokia",
-        "achievements": []
+        "tag": "CAO",
+        "achievements": [],
+        "coordinates": {
+            "top": "25.39%",
+            "left": "24.77%"
+        }
     },
     {
         "country": "Peoria",
-        "achievements": []
+        "tag": "PEO",
+        "achievements": [],
+        "coordinates": {
+            "top": "23.58%",
+            "left": "25.00%"
+        }
     },
     {
         "country": "Kaskaskia",
-        "achievements": []
+        "tag": "KSK",
+        "achievements": [],
+        "coordinates": {
+            "top": "25.05%",
+            "left": "25.11%"
+        }
     },
     {
         "country": "Penobscot",
-        "achievements": []
+        "tag": "PEN",
+        "achievements": [],
+        "coordinates": {
+            "top": "20.26%",
+            "left": "30.72%"
+        }
     },
     {
         "country": "Maliseet",
-        "achievements": []
+        "tag": "MLS",
+        "achievements": [],
+        "coordinates": {
+            "top": "17.58%",
+            "left": "30.97%"
+        }
     },
     {
         "country": "Nehiyaw",
-        "achievements": []
+        "tag": "NEH",
+        "achievements": [],
+        "coordinates": {
+            "top": "13.43%",
+            "left": "21.13%"
+        }
     },
     {
         "country": "Nakawe",
-        "achievements": []
+        "tag": "NAK",
+        "achievements": [],
+        "coordinates": {
+            "top": "15.58%",
+            "left": "23.99%"
+        }
     },
     {
         "country": "Hathawekela",
-        "achievements": []
+        "tag": "HWK",
+        "achievements": [],
+        "coordinates": {
+            "top": "26.90%",
+            "left": "26.79%"
+        }
     },
     {
         "country": "Chalaghawtha",
-        "achievements": []
+        "tag": "CLG",
+        "achievements": [],
+        "coordinates": {
+            "top": "25.49%",
+            "left": "26.49%"
+        }
     },
     {
         "country": "Kispoko",
-        "achievements": []
+        "tag": "KSP",
+        "achievements": [],
+        "coordinates": {
+            "top": "26.51%",
+            "left": "26.44%"
+        }
     },
     {
         "country": "Mississage",
-        "achievements": []
+        "tag": "MSG",
+        "achievements": [],
+        "coordinates": {
+            "top": "19.34%",
+            "left": "27.57%"
+        }
     },
     {
         "country": "Wichiyena",
-        "achievements": []
+        "tag": "WCY",
+        "achievements": [],
+        "coordinates": {
+            "top": "20.95%",
+            "left": "23.31%"
+        }
     },
     {
         "country": "Lakota",
-        "achievements": []
+        "tag": "LAK",
+        "achievements": [],
+        "coordinates": {
+            "top": "21.58%",
+            "left": "22.90%"
+        }
     },
     {
         "country": "Innu",
-        "achievements": []
+        "tag": "INN",
+        "achievements": [],
+        "coordinates": {
+            "top": "16.97%",
+            "left": "30.04%"
+        }
     },
     {
         "country": "Wampanoag",
-        "achievements": []
+        "tag": "WAM",
+        "achievements": [],
+        "coordinates": {
+            "top": "22.29%",
+            "left": "29.76%"
+        }
     },
     {
         "country": "Algonquin",
-        "achievements": []
+        "tag": "AGQ",
+        "achievements": [],
+        "coordinates": {
+            "top": "19.34%",
+            "left": "28.80%"
+        }
     }
 ]

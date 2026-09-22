@@ -3,6 +3,7 @@
 import { useState, useEffect, useRef } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
+import MapPing from '../components/MapPing';
 
 export default function Home() {
   const [achievementsData, setAchievementsData] = useState([]);
@@ -100,13 +101,30 @@ export default function Home() {
     <main suppressHydrationWarning className="min-h-screen bg-slate-950 text-slate-200 font-sans selection:bg-[#CFB53B] selection:text-slate-900 flex flex-col relative">
       
       {userProfile && (
-        <div className="absolute top-6 right-6 z-50 flex items-center gap-4 bg-slate-900/90 border border-[#CFB53B]/50 p-2 pr-4 rounded-full shadow-lg backdrop-blur">
-          <img src={userProfile.avatar} alt={userProfile.name} className="w-10 h-10 rounded-full border border-slate-700" />
-          <div className="flex flex-col">
-            <span className="text-[#CFB53B] font-bold text-sm leading-tight">{userProfile.name}</span>
-            <button onClick={disconnectSteam} className="text-slate-400 hover:text-red-400 text-xs text-left transition-colors">
-              Disconnect
-            </button>
+        <div className="absolute top-6 right-6 z-50 flex items-center gap-4 bg-slate-900/90 border border-[#CFB53B]/50 p-3 rounded-xl shadow-[0_0_15px_rgba(207,181,59,0.15)] backdrop-blur w-72">
+          <img src={userProfile.avatar} alt={userProfile.name} className="w-12 h-12 rounded border border-[#CFB53B]/70 shadow-sm" />
+          <div className="flex flex-col flex-1">
+            <div className="flex justify-between items-start mb-1">
+              <span className="text-[#CFB53B] font-bold text-sm leading-tight truncate max-w-[120px]" title={userProfile.name}>
+                {userProfile.name}
+              </span>
+              <button onClick={disconnectSteam} className="text-slate-400 hover:text-red-400 text-[10px] uppercase font-bold tracking-wider transition-colors mt-0.5">
+                Disconnect
+              </button>
+            </div>
+            
+            <div className="w-full mt-1.5">
+              <div className="flex justify-between text-[10px] text-slate-400 mb-1 font-bold tracking-widest uppercase">
+                <span>Progress</span>
+                <span className="text-[#CFB53B]">{unlockedAchievements.length} / 374</span>
+              </div>
+              <div className="w-full bg-slate-950 h-1.5 rounded-full overflow-hidden border border-slate-700/50">
+                <div 
+                  className="h-full bg-gradient-to-r from-[#8A6D12] via-[#CFB53B] to-[#FFF3A3] transition-all duration-1000 ease-out" 
+                  style={{ width: `${Math.min((unlockedAchievements.length / 374) * 100, 100)}%` }}
+                ></div>
+              </div>
+            </div>
           </div>
         </div>
       )}
@@ -130,7 +148,7 @@ export default function Home() {
               <div className="flex gap-2">
                 <input 
                   type="text" 
-                  placeholder="Steam ID64 (e.g., 76561198...)" 
+                  placeholder="Steam ID64 (e.g., 76561...)" 
                   className="flex-1 bg-slate-950 border border-slate-700 text-sm rounded px-3 py-2 focus:outline-none focus:border-[#CFB53B]"
                   value={steamIdInput}
                   onChange={(e) => setSteamIdInput(e.target.value)}
@@ -159,9 +177,9 @@ export default function Home() {
 
       <div className="flex-1">
         {selectedCountry && (
-          <div ref={resultsRef} className="max-w-5xl mx-auto px-4 my-16 transition-all duration-700 ease-in-out pt-8">
+          <div ref={resultsRef} className="max-w-4xl mx-auto px-4 my-16 transition-all duration-700 ease-in-out pt-8">
             
-            <div className="text-center mb-16 flex flex-col items-center">
+            <div className="text-center mb-8 flex flex-col items-center">
               <span className="text-xs font-bold tracking-[0.3em] text-slate-500 uppercase mb-4">Your Destiny</span>
               <h2 className="text-5xl md:text-7xl font-serif font-bold text-transparent bg-clip-text bg-gradient-to-b from-[#FFF3A3] via-[#CFB53B] to-[#8A6D12] drop-shadow-2xl pb-4 leading-normal">
                 {selectedCountry}
@@ -173,7 +191,7 @@ export default function Home() {
               {countryAchievements.map((ach) => {
                 const isUnlocked = isAchievementUnlocked(ach.id);
                 return (
-                  <div key={ach.id} className={`p-6 flex gap-6 transition-all duration-300 shadow-lg rounded-lg border ${isUnlocked ? 'bg-green-950/20 border-green-700/50 opacity-60' : 'bg-slate-900/80 border-slate-800 hover:border-[#CFB53B]/50'}`}>
+                  <div key={ach.id} className={`p-3 flex gap-3 transition-all duration-300 shadow-lg rounded-lg border ${isUnlocked ? 'bg-green-950/20 border-green-700/50 opacity-60' : 'bg-slate-900/80 border-slate-800 hover:border-[#CFB53B]/50'}`}>
                     {ach.icon_url && (
                       <div className="shrink-0 flex items-center justify-center relative">
                         <img src={ach.icon_url} alt={ach.name} className="w-16 h-16 rounded shadow-md border border-slate-700" />
@@ -185,9 +203,9 @@ export default function Home() {
                       </div>
                     )}
                     <div className="flex flex-col justify-center">
-                      <div className="flex items-center gap-3 mb-2 flex-wrap">
-                        <h3 className={`text-xl font-bold ${isUnlocked ? 'text-green-400' : 'text-[#CFB53B]'}`}>{ach.name}</h3>
-                        <span className="text-xs px-2 py-1 bg-slate-950 text-slate-400 rounded border border-slate-700/50">
+                      <div className="flex items-start gap-3 mb-2">
+                        <h3 className={`text-xl font-bold leading-tight ${isUnlocked ? 'text-green-400' : 'text-[#CFB53B]'}`}>{ach.name}</h3>
+                        <span className="shrink-0 mt-0.5 text-xs px-2 py-1 bg-slate-950 text-slate-400 rounded border border-slate-700/50">
                           {ach.difficulty}
                         </span>
                       </div>
@@ -199,6 +217,7 @@ export default function Home() {
                 );
               })}
             </div>
+            {selectedCountry && <MapPing selectedCountry={selectedCountry} />}
           </div>
         )}
       </div>

@@ -51,4 +51,5 @@ scraper/venv/
 # Scraped HTML Data
 wiki_pages/
 scraper/wiki_pages/
+public/countries/
 *.html
