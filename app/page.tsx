@@ -32,6 +32,21 @@ export default function Home() {
     }).catch((err) => console.error("JSON fetch error:", err));
   }, []);
 
+  // Check Steam session on mount
+  useEffect(() => {
+    const savedSession = localStorage.getItem('eu4_steam_session');
+    if (savedSession) {
+      try {
+        const { profile, achievements } = JSON.parse(savedSession);
+        setUserProfile(profile);
+        setUnlockedAchievements(achievements);
+        setSteamStatus('success');
+      } catch (err) {
+        console.error("Steam session parse error:", err);
+      }
+    }
+  }, []);
+
   const connectSteam = async () => {
     if (!steamIdInput || steamIdInput.length !== 17) {
       setSteamError('Please enter a valid 17-digit Steam ID64.');
@@ -51,6 +66,12 @@ export default function Home() {
       setUnlockedAchievements(data.unlocked);
       setUserProfile(data.profile);
       setSteamStatus('success');
+      
+      localStorage.setItem('eu4_steam_session', JSON.stringify({
+        profile: data.profile,
+        achievements: data.unlocked
+      }));
+      
     } catch (err) {
       setSteamError(err.message);
       setSteamStatus('error');
@@ -62,6 +83,8 @@ export default function Home() {
     setUnlockedAchievements([]);
     setUserProfile(null);
     setSteamIdInput('');
+    
+    localStorage.removeItem('eu4_steam_session');
   };
 
   const rollNation = () => {
@@ -81,7 +104,6 @@ export default function Home() {
       setCountryAchievements(matchedAchievements);
       setIsRolling(false);
 
-      // Ekrana veri basıldıktan hemen sonra yumuşak kaydırma işlemini tetikle
       setTimeout(() => {
         if (resultsRef.current) {
           resultsRef.current.scrollIntoView({ behavior: 'smooth', block: 'start' });
@@ -101,33 +123,36 @@ export default function Home() {
     <main suppressHydrationWarning className="min-h-screen bg-slate-950 text-slate-200 font-sans selection:bg-[#CFB53B] selection:text-slate-900 flex flex-col relative">
       
       {userProfile && (
-        <div className="absolute top-6 right-6 z-50 flex items-center gap-4 bg-slate-900/90 border border-[#CFB53B]/50 p-3 rounded-xl shadow-[0_0_15px_rgba(207,181,59,0.15)] backdrop-blur w-72">
-          <img src={userProfile.avatar} alt={userProfile.name} className="w-12 h-12 rounded border border-[#CFB53B]/70 shadow-sm" />
-          <div className="flex flex-col flex-1">
-            <div className="flex justify-between items-start mb-1">
-              <span className="text-[#CFB53B] font-bold text-sm leading-tight truncate max-w-[120px]" title={userProfile.name}>
-                {userProfile.name}
-              </span>
-              <button onClick={disconnectSteam} className="text-slate-400 hover:text-red-400 text-[10px] uppercase font-bold tracking-wider transition-colors mt-0.5">
-                Disconnect
-              </button>
-            </div>
-            
-            <div className="w-full mt-1.5">
-              <div className="flex justify-between text-[10px] text-slate-400 mb-1 font-bold tracking-widest uppercase">
-                <span>Progress</span>
-                <span className="text-[#CFB53B]">{unlockedAchievements.length} / 374</span>
-              </div>
-              <div className="w-full bg-slate-950 h-1.5 rounded-full overflow-hidden border border-slate-700/50">
-                <div 
-                  className="h-full bg-gradient-to-r from-[#8A6D12] via-[#CFB53B] to-[#FFF3A3] transition-all duration-1000 ease-out" 
-                  style={{ width: `${Math.min((unlockedAchievements.length / 374) * 100, 100)}%` }}
-                ></div>
-              </div>
-            </div>
-          </div>
+  <div className="absolute top-6 right-6 z-50 flex items-center gap-4 bg-slate-900/90 border border-[#CFB53B]/50 p-3 rounded-xl shadow-[0_0_15px_rgba(207,181,59,0.15)] backdrop-blur w-72">
+    <img src={userProfile.avatar} alt={userProfile.name} className="w-12 h-12 rounded border border-[#CFB53B]/70 shadow-sm" />
+    <div className="flex flex-col flex-1">
+      <div className="flex justify-between items-start mb-1">
+  <span className="text-[#CFB53B] font-bold text-sm leading-tight truncate max-w-[120px]" title={userProfile.name}>
+    {userProfile.name}
+  </span>
+  <div className="flex gap-3 items-center">
+
+    <button onClick={disconnectSteam} className="text-slate-400 hover:text-red-400 text-[10px] uppercase font-bold tracking-wider transition-colors mt-0.5">
+      Disconnect
+    </button>
+  </div>
+</div>
+      
+      <div className="w-full mt-1.5">
+        <div className="flex justify-between text-[10px] text-slate-400 mb-1 font-bold tracking-widest uppercase">
+          <span>Progress</span>
+          <span className="text-[#CFB53B]">{unlockedAchievements.length} / 374</span>
         </div>
-      )}
+        <div className="w-full bg-slate-950 h-1.5 rounded-full overflow-hidden border border-slate-700/50">
+          <div 
+            className="h-full bg-gradient-to-r from-[#8A6D12] via-[#CFB53B] to-[#FFF3A3] transition-all duration-1000 ease-out" 
+            style={{ width: `${Math.min((unlockedAchievements.length / 374) * 100, 100)}%` }}
+          ></div>
+        </div>
+      </div>
+    </div>
+  </div>
+)}
 
       <div className="relative w-full h-[550px] flex items-center justify-center border-b border-[#CFB53B]/30">
         <div className="absolute inset-0 z-0 overflow-hidden">
