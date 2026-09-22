@@ -17,7 +17,7 @@ export default function MapPing({ selectedCountry }: { selectedCountry: any }) {
   const [isDragging, setIsDragging] = useState(false);
   const dragStartRef = useRef({ x: 0, y: 0 });
 
-  const containerRef = useRef(null);
+  const containerRef = useRef<HTMLDivElement>(null);
 
   // 1. Koordinatları Çek
   useEffect(() => {
@@ -31,7 +31,7 @@ export default function MapPing({ selectedCountry }: { selectedCountry: any }) {
   const coords = currentCountryObj?.coordinates || null;
 
   // Sınırları hesaplayan fonksiyon (Sol üst orijine göre)
-  const clampPosition = (x, y, currentScale) => {
+  const clampPosition = (x: number, y: number, currentScale: number) => {
     if (!containerRef.current) return { x, y };
     const rect = containerRef.current.getBoundingClientRect();
     
@@ -45,7 +45,7 @@ export default function MapPing({ selectedCountry }: { selectedCountry: any }) {
   };
 
   // State ve Ref'leri aynı anda güncelleyen yardımcı fonksiyon
-  const updateTransform = (newX, newY, newScale) => {
+  const updateTransform = (newX: number, newY: number, newScale: number) => {
     const clamped = clampPosition(newX, newY, newScale);
     scaleRef.current = newScale;
     posRef.current = clamped;
@@ -81,7 +81,7 @@ export default function MapPing({ selectedCountry }: { selectedCountry: any }) {
     const container = containerRef.current;
     if (!container) return;
 
-    const handleNativeWheel = (e) => {
+    const handleNativeWheel = (e: any) => {
       e.preventDefault(); // Sayfanın kaymasını engelle
       
       // Kullanıcı manuel işlem yapıyorsa animasyonu iptal et
@@ -115,7 +115,7 @@ export default function MapPing({ selectedCountry }: { selectedCountry: any }) {
   }, []);
 
   // 4. Sürükleme (Pan) Olayları
-  const handleMouseDown = (e) => {
+  const handleMouseDown = (e: any) => {
     setIsAutoPanning(false);
     setIsDragging(true);
     dragStartRef.current = {
@@ -124,7 +124,7 @@ export default function MapPing({ selectedCountry }: { selectedCountry: any }) {
     };
   };
 
-  const handleMouseMove = (e) => {
+  const handleMouseMove = (e: any) => {
     if (!isDragging) return;
     const rawX = e.clientX - dragStartRef.current.x;
     const rawY = e.clientY - dragStartRef.current.y;

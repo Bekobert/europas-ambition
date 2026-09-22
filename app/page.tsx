@@ -8,19 +8,19 @@ import MapPing from '../components/MapPing';
 export default function Home() {
   const [achievementsData, setAchievementsData] = useState<any[]>([]);
   const [playableCountries, setPlayableCountries] = useState<any[]>([]);
-  const [selectedCountry, setSelectedCountry] = useState(null);
+  const [selectedCountry, setSelectedCountry] = useState<any>(null);
   const [countryAchievements, setCountryAchievements] = useState<any[]>([]);
   const [isRolling, setIsRolling] = useState(false);
 
   // Steam Integration States
   const [steamIdInput, setSteamIdInput] = useState('');
   const [unlockedAchievements, setUnlockedAchievements] = useState<any[]>([]);
-  const [userProfile, setUserProfile] = useState(null);
+  const [userProfile, setUserProfile] = useState<any>(null);
   const [steamStatus, setSteamStatus] = useState('idle'); 
   const [steamError, setSteamError] = useState('');
 
   // Scroll Reference
-  const resultsRef = useRef(null);
+  const resultsRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     Promise.all([
@@ -97,7 +97,7 @@ export default function Home() {
       const randomCountryObj = countriesWithAchievements[randomIndex];
 
       const matchedAchievements = randomCountryObj.achievements
-        .map((achName) => achievementsData.find((a) => a.name === achName))
+        .map((achName: string) => achievementsData.find((a) => a.name === achName))
         .filter(Boolean); 
 
       setSelectedCountry(randomCountryObj.country);
@@ -113,7 +113,7 @@ export default function Home() {
     }, 600);
   };
 
-  const isAchievementUnlocked = (achId) => {
+  const isAchievementUnlocked = (achId: string) => {
     const normalizedId = achId.toLowerCase().replace(/[^a-z0-9_]/g, '');
     return unlockedAchievements.includes(normalizedId) || 
            unlockedAchievements.includes(`achievement_${normalizedId}`);
