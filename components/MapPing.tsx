@@ -2,8 +2,8 @@
 
 import React, { useState, useEffect, useRef } from 'react';
 
-export default function MapPing({ selectedCountry }) {
-  const [countriesData, setCountriesData] = useState([]);
+export default function MapPing({ selectedCountry }: { selectedCountry: any }) {
+  const [countriesData, setCountriesData] = useState<any[]>([]);
   
   // Render tetikleyiciler
   const [scale, setScale] = useState(1);

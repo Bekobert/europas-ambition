@@ -6,15 +6,15 @@ import Link from 'next/link';
 import MapPing from '../components/MapPing';
 
 export default function Home() {
-  const [achievementsData, setAchievementsData] = useState([]);
-  const [playableCountries, setPlayableCountries] = useState([]);
+  const [achievementsData, setAchievementsData] = useState<any[]>([]);
+  const [playableCountries, setPlayableCountries] = useState<any[]>([]);
   const [selectedCountry, setSelectedCountry] = useState(null);
-  const [countryAchievements, setCountryAchievements] = useState([]);
+  const [countryAchievements, setCountryAchievements] = useState<any[]>([]);
   const [isRolling, setIsRolling] = useState(false);
 
   // Steam Integration States
   const [steamIdInput, setSteamIdInput] = useState('');
-  const [unlockedAchievements, setUnlockedAchievements] = useState([]);
+  const [unlockedAchievements, setUnlockedAchievements] = useState<any[]>([]);
   const [userProfile, setUserProfile] = useState(null);
   const [steamStatus, setSteamStatus] = useState('idle'); 
   const [steamError, setSteamError] = useState('');
@@ -41,7 +41,7 @@ export default function Home() {
         setUserProfile(profile);
         setUnlockedAchievements(achievements);
         setSteamStatus('success');
-      } catch (err) {
+      } catch (err: any) {
         console.error("Steam session parse error:", err);
       }
     }
@@ -72,7 +72,7 @@ export default function Home() {
         achievements: data.unlocked
       }));
       
-    } catch (err) {
+    } catch (err: any) {
       setSteamError(err.message);
       setSteamStatus('error');
     }
