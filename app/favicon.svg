@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Arka Plan: Tam Gece Mavisi (Sitenin ana rengiyle uyumlu) -->
+  <rect width="512" height="512" rx="128" fill="#020617" />
+  
+  <!-- Merkezi Kalkan (Shield) Şekli -->
+  <path d="M256 64 C256 64 128 104 128 214 C128 324 256 448 256 448 C256 448 384 324 384 214 C384 104 256 64 256 64 Z" 
+        fill="#0F172A" stroke="#CFB53B" stroke-width="20" stroke-linejoin="round" />
+  
+  <!-- Kalkan Üstünde Küçük Taç (Crown) İkonu -->
+  <path d="M224 64 L224 48 C224 40, 230 34, 238 34 L274 34 C282 34, 288 40, 288 48 L288 64 Z" fill="#CFB53B" />
+  <circle cx="256" cy="34" r="8" fill="#FFF3A3" />
+  <path d="M214 44 L224 54 L224 64 L214 54 Z" fill="#CFB53B" />
+  <path d="M298 44 L288 54 L288 64 L298 54 Z" fill="#CFB53B" />
+  
+  <!-- Kalkan İçinde Şık "EA" Harfleri (Serif font) -->
+  <text x="256" y="210" font-family="'Trajan Pro', 'Times New Roman', Georgia, serif" 
+        font-size="100" font-weight="bold" fill="#FFD700" text-anchor="middle" dominant-baseline="middle" letter-spacing="4">
+    EA
+  </text>
+  
+  <!-- Kalkan İçinde Alt Başlık "IV" -->
+  <text x="256" y="280" font-family="'Trajan Pro', 'Times New Roman', Georgia, serif" 
+        font-size="50" font-weight="bold" fill="#FFF3A3" text-anchor="middle" dominant-baseline="middle">
+    IV
+  </text>
+  
+  <!-- Kalkan İçinde Alt Kupa İkonu (Başarım Sembolü) -->
+  <path d="M230 330 L282 330 C290 330, 296 336, 296 344 L296 360 C296 376, 282 390, 266 390 L246 390 C230 390, 216 376, 216 360 L216 344 C216 336, 222 330, 230 330 Z" 
+        fill="none" stroke="#CFB53B" stroke-width="8" stroke-linecap="round" />
+  <path d="M256 390 L256 410 L220 420 L292 420 L256 410 Z" fill="#CFB53B" />
+  <circle cx="256" cy="360" r="10" fill="#FFD700" />
+  
+</svg>
