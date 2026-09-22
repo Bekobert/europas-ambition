@@ -126,7 +126,7 @@ export default function Home() {
 
         // 2. Ülkenin başarımlarından en az bir tanesi kilitli mi (yapılmamış mı) kontrol et
         const hasLockedAchievement = countryObj.achievements.some(
-          (achName) => !isAchievementUnlocked(achName)
+          (achName: string) => !isAchievementUnlocked(achName)
         );
 
         return hasLockedAchievement;
@@ -144,7 +144,7 @@ export default function Home() {
 
       // JSON'dan başarım detaylarını eşleştir
       const matchedAchievements = randomCountryObj.achievements
-        .map((achName) => achievementsData.find((a) => a.name === achName))
+        .map((achName: string) => achievementsData.find((a) => a.name === achName))
         .filter(Boolean); 
 
       setSelectedCountry(randomCountryObj.country);
@@ -166,11 +166,11 @@ export default function Home() {
     return unlockedAchievements.includes(normalizedId) || 
            unlockedAchievements.includes(`achievement_${normalizedId}`);
   };*/
-  const isAchievementUnlocked = (achName) => {
+  const isAchievementUnlocked = (achName: string) => {
     if (!achName || !unlockedAchievements) return false;
 
     // Aksanları, boşlukları ve HER TÜRLÜ noktalama işaretini silen agresif temizleyici
-    const fuzzyClean = (str) => {
+    const fuzzyClean = (str: string) => {
       return str
         .toLowerCase()
         .normalize("NFD")
