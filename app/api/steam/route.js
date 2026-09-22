@@ -1,5 +1,7 @@
 import { NextResponse } from 'next/server';
 
+export const dynamic = 'force-dynamic';
+
 export async function GET(request) {
   const { searchParams } = new URL(request.url);
   const steamId = searchParams.get('steamId');
@@ -10,8 +12,11 @@ export async function GET(request) {
   }
 
   try {
-    // 1. Kullanıcı Profilini Çek (Avatar ve İsim)
-    const profileRes = await fetch(`https://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002/?key=${apiKey}&steamids=${steamId}`);
+    // Profil isteği (cache yasaklı)
+    const profileRes = await fetch(
+      `https://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002/?key=${apiKey}&steamids=${steamId}`,
+      { cache: 'no-store' }
+    );
     const profileData = await profileRes.json();
     const player = profileData?.response?.players?.[0];
 
@@ -20,7 +25,10 @@ export async function GET(request) {
     }
 
     // 2. Kullanıcının Açtığı Başarımları Çek (Sadece 'apiname' listesi döner)
-    const achRes = await fetch(`https://api.steampowered.com/ISteamUserStats/GetPlayerAchievements/v0001/?appid=236850&key=${apiKey}&steamid=${steamId}`);
+    const achRes = await fetch(
+      `https://api.steampowered.com/ISteamUserStats/GetPlayerAchievements/v0001/?appid=236850&key=${apiKey}&steamid=${steamId}`,
+      { cache: 'no-store' }
+    );
     const achData = await achRes.json();
     
     if (!achData.playerstats || !achData.playerstats.success) {
@@ -33,7 +41,10 @@ export async function GET(request) {
       .map(a => a.apiname);
 
     // 3. Oyun Şemasını Çek (Tüm başarımların 'apiname' ve 'displayName' eşleştirmeleri)
-    const schemaRes = await fetch(`https://api.steampowered.com/ISteamUserStats/GetSchemaForGame/v2/?appid=236850&key=${apiKey}`);
+    const schemaRes = await fetch(
+      `https://api.steampowered.com/ISteamUserStats/GetSchemaForGame/v2/?appid=236850&key=${apiKey}`,
+      { next: { revalidate: 86400 } }
+    );
     const schemaData = await schemaRes.json();
     const schemaAchievements = schemaData.game.availableGameStats.achievements || [];
 
