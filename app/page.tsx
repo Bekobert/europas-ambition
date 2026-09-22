@@ -63,7 +63,16 @@ export default function Home() {
 
       if (!res.ok) throw new Error(data.error || 'Connection failed.');
 
-      setUnlockedAchievements(data.unlocked);
+      console.log("🔥 Achievements unlocked (from API)", data.unlocked);
+
+      const normalizedUnlocked = data.unlocked.map((name: string) => 
+        name.toLowerCase().replace(/[^a-z0-9_]/g, '')
+      );
+      console.log("🛠️ Normalized:", normalizedUnlocked);
+
+      setUnlockedAchievements(normalizedUnlocked);
+
+      //setUnlockedAchievements(data.unlocked);
       setUserProfile(data.profile);
       setSteamStatus('success');
       
@@ -166,7 +175,7 @@ export default function Home() {
     return unlockedAchievements.includes(normalizedId) || 
            unlockedAchievements.includes(`achievement_${normalizedId}`);
   };*/
-  const isAchievementUnlocked = (achName: string) => {
+  /*const isAchievementUnlocked = (achName: string) => {
     if (!achName || !unlockedAchievements) return false;
 
     // Aksanları, boşlukları ve HER TÜRLÜ noktalama işaretini silen agresif temizleyici
@@ -187,6 +196,33 @@ export default function Home() {
       // Tam eşleşme veya Steam'in "the" takısını yutması gibi durumlar için kapsama (includes) kontrolü
       return cleanSteam === cleanWiki || cleanSteam.includes(cleanWiki) || cleanWiki.includes(cleanSteam);
     });
+  };*/
+  const isAchievementUnlocked = (achName: string) => {
+    if (!achName || !unlockedAchievements) return false;
+
+    // Aksanları, boşlukları ve HER TÜRLÜ noktalama işaretini silen agresif temizleyici
+    const fuzzyClean = (str: string) => {
+      return str
+        .toLowerCase()
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "") // é, ü, ö gibi harfleri e, u, o yapar
+        .replace(/[^a-z0-9]/g, "");      // Sadece harf ve rakamları bırakır
+    };
+
+    const cleanWiki = fuzzyClean(achName);
+
+    // Steam'den gelen doğru 'displayName' listesini fuzzy mantığıyla tara
+    const isUnlocked = unlockedAchievements.some(steamName => {
+      const cleanSteam = fuzzyClean(steamName);
+      
+      // Tam eşleşme veya Steam'in "the" takısını yutması gibi durumlar için kapsama (includes) kontrolü
+      return cleanSteam === cleanWiki || cleanSteam.includes(cleanWiki) || cleanWiki.includes(cleanSteam);
+    });
+
+    // Konsol logu: Hangi Wiki başarımı aranıyor ve sonuç ne?
+    console.log(`Target: "${achName}" -> Normalized: "${cleanWiki}" -> Result: ${isUnlocked ? '✅ FOUND' : '❌ NOT FOUND'}`);
+
+    return isUnlocked;
   };
 
   return (
